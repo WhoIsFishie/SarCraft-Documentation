@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seasons/Season 6/Season 6.md",
-                "mode": "preview",
+                "file": "Players/iBattus.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Season 6"
+              "title": "iBattus"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seasons/Season 6/Season 6.md",
+                "file": "Players/iBattus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Season 6"
+              "title": "Backlinks for iBattus"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seasons/Season 6/Season 6.md",
+                "file": "Players/iBattus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Season 6"
+              "title": "Outgoing links from iBattus"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seasons/Season 6/Season 6.md",
+                "file": "Players/iBattus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Season 6"
+              "title": "Outline of iBattus"
             }
           }
         ]
@@ -170,29 +170,31 @@
   },
   "active": "2d083b14b1222e4f",
   "lastOpenFiles": [
+    "Players/Buhkiru.md",
+    "Seasons/Season 5/Season 5.md",
+    "Players/WhoIsFishie.md",
+    "Seasons/Season 5/images/Illegal island.png",
+    "Lore/Hacked Items.md",
+    "Seasons/Season 5/images/hacked leggings.png",
+    "Seasons/Season 5/images/fishies boobs.png",
+    "Factions/Chicken Factory.md",
+    "Seasons/Season 6/images/ball island_1.png",
+    "Lore/Flower Town.md",
+    "Seasons/Season 5/images/flower town map.png",
+    "Seasons/Season 6/Season 6.md",
     "Seasons/Season 3/Season 3.md",
     "Seasons/Season 2/Season 2.md",
     "Factions/Holy Knights of the Templars.md",
-    "Factions/Chicken Factory.md",
     "Seasons/Season 2/images/templers_msg.jpg",
     "Seasons/Season 2/images/season2 end.png",
     "Seasons/Season 2/images/Holy Knights of the Templars.png",
     "Lore/Cow Ziney.md",
     "Lore/Nazi Wall.md",
-    "Seasons/Season 5/Season 5.md",
     "Players/Anoojfunaid.md",
     "Seasons/Season 6/images/Balls island ign.jpg",
     "Seasons/Season 6/images/Balls island.jpg",
     "Players/FlameXode.md",
     "Lore/Ibattus Boots.md",
-    "Lore/Untitled.md",
-    "Seasons/Season 5/images/chicken breeder.jpg",
-    "Seasons/Season 6/images/ibut base teardown.jpg",
-    "Seasons/Season 5/images/flower town_3.jpg",
-    "Lore/Flower Town.md",
-    "Seasons/Season 5/images/flower town_2.jpg",
-    "Seasons/Season 5/images/dragon.jpg",
-    "Seasons/Season 6/Season 6.md",
     "Seasons/Season 6/images",
     "Seasons/Season 6",
     "Players/Kuruzu_.md",
@@ -202,12 +204,10 @@
     "Players/MikkoAgain.md",
     "Players/ButtercupHoney.md",
     "Players/Azuwlaa.md",
-    "Players/WhoIsFishie.md",
     "Seasons/Season_10/Season 10.md",
     "Players/StrawBwabii.md",
     "Players/TheHarryG.md",
     "Players/flowerrthiccc.md",
-    "Players/XcutionerX.md",
     "Seasons/Season 5/images",
     "Seasons/Season 5",
     "Seasons/Season 4/images",

@@ -11,3 +11,6 @@ Flower town is a plot of land a few hundred blocks from spawn where [[flowerrthi
 ![[flower town.jpg]]
 ![[flower trading hall.jpg]]
 Flower town had its own trading hall as well as iron farm 
+
+
+![[flower town map.png]]

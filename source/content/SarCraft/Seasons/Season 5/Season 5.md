@@ -364,8 +364,7 @@ the ban is revoked after a few mins
 except he runs into [[WhoIsFishie]]'s hidden base
 [[WhoIsFishie]] unable to kill [[shihaam_me]] as it would leak his coords instructs [[shihaam_me]] to simply leave 
 
-once things finally calms down [[iBattus]] escapes his cage
-he said he mined out the obsidian with an iron pickaxe
+once things finally calms down [[iBattus]] escapes his cage with the help of [[invisble715]]
 ![[ibut escapes.jpg]]
 
 
@@ -380,9 +379,29 @@ the players unite to kill the dragon
 ![[chimken.jpg]]
 [[WhoIsFishie]] installs a auto chick farm that would randomly drop eggs all over [[iBattus]] base
 
+## [[WhoIsFishie]] vs [[iBattus]]
+[[iBattus]] demands a 1v1 with [[WhoIsFishie]] so both players meetup at spawn to fight
+
+both players had hacked clients on at a this fight 
+
+at the start of the fight [[iBattus]] would get jumpped by phantoms and [[WhoIsFishie]] would use this to his advantage and pop one of [[iBattus]] totams 
+
+[[Kuruzu_]] would logon during the fight to spectate and [[iBattus]] would assume its suddenly a 2v1 and prematurely attack [[Kuruzu_]] this would result in [[Kuruzu_]] retaliating  with rocket launchers and [[iBattus]] would run away
+
+not really knowing how to use hacks [[iBattus]] would have auto tool enabled which would work against his favor on multiple occasions
+
+[[iBattus]] would pop multiple totams during this fight
+
+[[iBattus]] would later accuse [[WhoIsFishie]] of not taking any damage. but in reality [[WhoIsFishie]] was popping gapps so the resistance was making up for the health loss
+
+[[iBattus]] would run away after [[WhoIsFishie]] offered him apples
+
+there would be multiple other fights between [[iBattus]] and [[WhoIsFishie]] and it would always end with [[iBattus]] either running away or combat logging
 
 ## Wither on the lose
-[[WhoIsFishie]], [[Buhkiru]] and [[TheHarryG]] tries to kill a wither and accidently loses it 
+[[WhoIsFishie]], [[Kuruzu_]] and [[flowerrthiccc]] would go to the mushroom island to spawn a bunch of withers which would get a bit out of control
+
+
 
 ## Crystal pranks
 [[WhoIsFishie]] plants a Crystal infront of [[TheHamkerCat]] and tells him its his pet now
