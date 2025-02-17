@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "dc64205a1925cc3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa31b704702e7220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d083b14b1222e4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aad3a91d98b1f8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d549f403f71c99d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc0e6f8de00ead54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d18215ca580f9bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "547533e0aaad0274",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f661bedfff8a997",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf2f43b90de14de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5925f57cdecd6e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "76265d6959111613",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f9e8408cc1158d6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8d54afee4585fb14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d083b14b1222e4f",
+  "lastOpenFiles": [
+    "Seasons/Season 5/Season 5.md",
+    "Seasons/Season 5/images/flower town.jpg",
+    "Seasons/Season 5/images/chimken.jpg",
+    "Players/Kuruzu_.md",
+    "Players/amowogus.md",
+    "Seasons/Season 5/images/power_trip.png",
+    "Seasons/Season 5/images/ibut escapes.jpg",
+    "Seasons/Season 5/images/Pasted image 20250216154733.png",
+    "Seasons/Season 5/images/bamboo threats.jpg",
+    "Players/Pronez.md",
+    "Players/Nathuf_Nazim.md",
+    "Seasons/Season 5/images/berry bridge.jpg",
+    "Players/MikkoAgain.md",
+    "Seasons/Season 5/images/male_map.jpg",
+    "Seasons/Season 5/images/flower trading hall.jpg",
+    "Seasons/Season 5/images/ibat base.jpg",
+    "Players/ButtercupHoney.md",
+    "Players/Azuwlaa.md",
+    "Players/WhoIsFishie.md",
+    "Seasons/Season_10/Season 10.md",
+    "Players/StrawBwabii.md",
+    "Players/TheHarryG.md",
+    "Players/flowerrthiccc.md",
+    "Players/XcutionerX.md",
+    "Players/idhaan701.md",
+    "Players/shinwo_o.md",
+    "Players/TheHamkerCat.md",
+    "Seasons/Season 5/images",
+    "Players/invisble715.md",
+    "Players/CatMDV.md",
+    "Seasons/Season 3/Season 3.md",
+    "Seasons/Season 2/Season 2.md",
+    "Players/Udit.md",
+    "Seasons/Season 4/Season 4.md",
+    "Seasons/Season 5",
+    "Seasons/Season 4/images",
+    "Seasons/Season 4",
+    "Lore/SarCube.md",
+    "Players/Redacted.md",
+    "Players/Nausham.md",
+    "Seasons/Season 3/images",
+    "Seasons/Season 1/images",
+    "Seasons/Season 2/images",
+    "Seasons/Season 3",
+    "Factions",
+    "Seasons/Season 2"
+  ]
+}
