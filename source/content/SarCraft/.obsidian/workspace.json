@@ -11,10 +11,14 @@
             "id": "2d083b14b1222e4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Seasons/Season 6/Season 6.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Season 6"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Seasons/Season 6/Season 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Season 6"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Seasons/Season 6/Season 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Season 6"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Seasons/Season 6/Season 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Season 6"
             }
           }
         ]
@@ -163,22 +170,36 @@
   },
   "active": "2d083b14b1222e4f",
   "lastOpenFiles": [
+    "Seasons/Season 3/Season 3.md",
+    "Seasons/Season 2/Season 2.md",
+    "Factions/Holy Knights of the Templars.md",
+    "Factions/Chicken Factory.md",
+    "Seasons/Season 2/images/templers_msg.jpg",
+    "Seasons/Season 2/images/season2 end.png",
+    "Seasons/Season 2/images/Holy Knights of the Templars.png",
+    "Lore/Cow Ziney.md",
+    "Lore/Nazi Wall.md",
     "Seasons/Season 5/Season 5.md",
-    "Seasons/Season 5/images/flower town.jpg",
-    "Seasons/Season 5/images/chimken.jpg",
+    "Players/Anoojfunaid.md",
+    "Seasons/Season 6/images/Balls island ign.jpg",
+    "Seasons/Season 6/images/Balls island.jpg",
+    "Players/FlameXode.md",
+    "Lore/Ibattus Boots.md",
+    "Lore/Untitled.md",
+    "Seasons/Season 5/images/chicken breeder.jpg",
+    "Seasons/Season 6/images/ibut base teardown.jpg",
+    "Seasons/Season 5/images/flower town_3.jpg",
+    "Lore/Flower Town.md",
+    "Seasons/Season 5/images/flower town_2.jpg",
+    "Seasons/Season 5/images/dragon.jpg",
+    "Seasons/Season 6/Season 6.md",
+    "Seasons/Season 6/images",
+    "Seasons/Season 6",
     "Players/Kuruzu_.md",
     "Players/amowogus.md",
-    "Seasons/Season 5/images/power_trip.png",
-    "Seasons/Season 5/images/ibut escapes.jpg",
-    "Seasons/Season 5/images/Pasted image 20250216154733.png",
-    "Seasons/Season 5/images/bamboo threats.jpg",
     "Players/Pronez.md",
     "Players/Nathuf_Nazim.md",
-    "Seasons/Season 5/images/berry bridge.jpg",
     "Players/MikkoAgain.md",
-    "Seasons/Season 5/images/male_map.jpg",
-    "Seasons/Season 5/images/flower trading hall.jpg",
-    "Seasons/Season 5/images/ibat base.jpg",
     "Players/ButtercupHoney.md",
     "Players/Azuwlaa.md",
     "Players/WhoIsFishie.md",
@@ -187,27 +208,13 @@
     "Players/TheHarryG.md",
     "Players/flowerrthiccc.md",
     "Players/XcutionerX.md",
-    "Players/idhaan701.md",
-    "Players/shinwo_o.md",
-    "Players/TheHamkerCat.md",
     "Seasons/Season 5/images",
-    "Players/invisble715.md",
-    "Players/CatMDV.md",
-    "Seasons/Season 3/Season 3.md",
-    "Seasons/Season 2/Season 2.md",
-    "Players/Udit.md",
-    "Seasons/Season 4/Season 4.md",
     "Seasons/Season 5",
     "Seasons/Season 4/images",
     "Seasons/Season 4",
-    "Lore/SarCube.md",
-    "Players/Redacted.md",
-    "Players/Nausham.md",
     "Seasons/Season 3/images",
     "Seasons/Season 1/images",
     "Seasons/Season 2/images",
-    "Seasons/Season 3",
-    "Factions",
-    "Seasons/Season 2"
+    "Seasons/Season 3"
   ]
 }

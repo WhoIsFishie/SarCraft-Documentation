@@ -55,6 +55,10 @@ during this period the [[Nazi]]'s made advancements in redstone technology to ke
 #### WAR
 [[Holy Knights of the Templars|CHSE]] rebrands to Holy Knights of the Templars and declares war on [[Nazi]]
 
+> [!NOTE]
+> Read more about [[Holy Knights of the Templars#The Holy War]]
+
+
 #### Hitler gets over thrown
 with [[shihaam_me]] being inactive the leader of [[Nazi]] was in power of running the server and managing it. rest of the players on the server soon became fedup with [[Redacted]]'s rule and voted to over throw him
 other players in [[Nazi]] also voted to overthrow [[Redacted]]
@@ -62,3 +66,10 @@ other players in [[Nazi]] also voted to overthrow [[Redacted]]
 the leader in the revolution to overthrow [[Redacted]] was [[ToadGod]] as he was unhappy with the use of players hacking and diamonds not being used as a currency on the server 
 
 thus killing Season 2
+
+
+#### Server Nuking 
+The server would have a celebratory ending where [[shihaam_me]] would give everyone OP perms and everyone flew around spawning in mobs such as ghasts withers and ender dragons to blow up all of the builds. this would be livestreamed on [[shihaam_me]]'s facebook account but the footage of it is now buried to protect the players from getting cancelled as there were very hateful names given to the withers such as 
+>☠️ to all juice 
+
+![[season2 end.png]]

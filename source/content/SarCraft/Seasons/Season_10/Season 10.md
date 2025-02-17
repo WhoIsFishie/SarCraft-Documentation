@@ -11,7 +11,6 @@ tags:
 
 ## New players
 [[Klen]]
-[[StrawBwabii]]
 [[hadhukeytha]]
 
 ## Pre Launch

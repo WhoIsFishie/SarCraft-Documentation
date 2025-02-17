@@ -8,7 +8,7 @@ Code_Name : Age of revolution
 | Season  | 5             |
 | ------- | ------------- |
 | Start   | April 2 2022 |
-| End   | June 2 2022 |
+| End   | June 22 2022 |
 | Version | 1.18       |
 | Server  | vanilla       |
 
@@ -46,6 +46,7 @@ server tests a new tele based auth system made by Udit
 a building created at spawn by the spawn masons 
 
 ![[failed portal.jpg]]
+
 [[iBattus]] fails to build a nether portal
 
 ![[spawn farm.jpg]]
@@ -67,14 +68,19 @@ on the 19th of april fishie joins the server
 
 ### fishie protects his land
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
+
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
+
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
+
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
+
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
 
 [[WhoIsFishie]] declares he wont kill [[TheHamkerCat]] if he stays away from [[WhoIsFishie]]'s land
 
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
+
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
 
 [[TheHamkerCat]] tries to claim fishies base as his
@@ -156,7 +162,7 @@ the farm would later get blown up by creepers prompting [[iBattus]] to add the f
 
 ## Calm before the storm
 it would be around this time that [[flowerrthiccc]] would join the server
-[[iBattus]] would help[[flowerrthiccc]] setup 
+[[iBattus]] would help [[flowerrthiccc]] setup 
 
 players would later express their concern as [[WhoIsFishie]] isnt seen on the server as it was rare to see [[WhoIsFishie]] offline
 
@@ -174,10 +180,12 @@ while trying to save [[iBattus]] [[flowerrthiccc]] would also die continuing on 
 
 ### Stuck in holes
 [[WhoIsFishie]] invites [[TheHarryG]]
+
 [[WhoIsFishie]] invites [[Buhkiru]]
+
 [[WhoIsFishie]] invites [[StrawBwabii]]
 
-[[WhoIsFishie]] and [[TheHarryG]] decides to dig a hole all the wy down to bedrock and [[TheHarryG]] was supposed to activate [[WhoIsFishie]]'s pearl so he will teleport back
+[[WhoIsFishie]] and [[TheHarryG]] decides to dig a hole all the way down to bedrock and [[TheHarryG]] was supposed to activate [[WhoIsFishie]]'s pearl so he will teleport back
 however [[TheHarryG]] also falls in the same hole so now both of them are stuck in a 1 block hole in the bedrock
 
 [[CatMDV|Cat]] comes to save [[WhoIsFishie]]
@@ -303,6 +311,7 @@ while [[shihaam_me]] was getting online [[flowerrthiccc]] joins the cause to pla
 operation bamboo goes on for 2 days 
 
 ![[Pasted image 20250216154733.png]]
+
 [[shihaam_me]] dies to the lava from the sky
 
 after [[shihaam_me]] was taken care of the next target was [[iBattus]] as he is also an admin
@@ -359,13 +368,15 @@ once things finally calms down [[iBattus]] escapes his cage
 he said he mined out the obsidian with an iron pickaxe
 ![[ibut escapes.jpg]]
 
-players are shocked to find that there is an extra enter dragon at spawn 
 
+players are shocked to find that there is an extra enter dragon at spawn 
+![[dragon.jpg]]
 the players unite to kill the dragon 
 
 ## Chicken Factory
 [[WhoIsFishie]] fills [[flowerrthiccc]]'s house with chickens
 
+![[chicken breeder.jpg]]
 ![[chimken.jpg]]
 [[WhoIsFishie]] installs a auto chick farm that would randomly drop eggs all over [[iBattus]] base
 
