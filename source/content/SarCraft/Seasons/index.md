@@ -9,8 +9,8 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 ## Current Season
 
 ### Season 10: 
-**Duration**: Pending
-**World Seed**: Pending  
+**Duration**: Pending  
+**World Seed**: Pending    
 **Notable Features**:
 - Custom Mods
 
@@ -19,7 +19,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 ## Past Seasons
 
 ### Season 6: Racism Unlocked
-**Duration**: June 22 2022
+**Duration**: June 22 2022  
 **Theme**: Steampunk & Technology  
 **World Seed**: unknown  
 **Notable Features**:
@@ -29,7 +29,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 
 ### Season 5: Age of revolution
-**Duration**: April 2 2022 - June 22 2022
+**Duration**: April 2 2022 - June 22 2022  
 **World Seed**: unknown  
 **Notable Features**:
 - Revolution
@@ -44,8 +44,9 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 ### Season 3: Middle Ages
 ![[season_3_title_card.jpg]]
-**Duration**: April 11 2020 - April 24 2020
-**World Seed**: unknown  
+
+**Duration**: April 11 2020 - April 24 2020  
+**World Seed**: unknown    
 **Notable Features**:
 - Penis
 
@@ -53,6 +54,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 ### Season 2: Post Classical Age
 ![[season_2_title_card.jpg]]
+
 **Duration**: 2020
 **World Seed**: unknown  
 **Notable Features**:
@@ -62,6 +64,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 ### Season 1: Ancient History
 ![[season_1_title_card.jpg]]
+
 **Duration**: 2019
 **World Seed**: unknown  
 **Notable Features**:

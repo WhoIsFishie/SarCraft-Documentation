@@ -63,7 +63,7 @@ Members who have been active for the longest:
 - [[Community Events Guide]]
 - [[Player Ranks Guide]] %%
 
-## Teams and Groups
+## Factions
 - [[Chicken Factory]]
 - [[Holy Knights of the Templars]]
 - [[Nazi]]
