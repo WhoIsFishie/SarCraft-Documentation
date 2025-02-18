@@ -6,11 +6,11 @@ tags:
 
 Code_Name : Racism Unlocked
 
-| Season  | 6             |
-| ------- | ------------- |
+| Season  | 6            |
+| ------- | ------------ |
 | Start   | June 22 2022 |
-| End   | - |
-| Version | 1.19       |
+| End     | -            |
+| Version | 1.19         |
 | Server  | modded       |
 
 ![[origins.jpg]]

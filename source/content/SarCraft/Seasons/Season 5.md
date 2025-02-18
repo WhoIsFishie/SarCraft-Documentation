@@ -5,12 +5,12 @@ tags:
 ---
 Code_Name : Age of revolution
 
-| Season  | 5             |
-| ------- | ------------- |
+| Season  | 5            |
+| ------- | ------------ |
 | Start   | April 2 2022 |
-| End   | June 22 2022 |
-| Version | 1.18       |
-| Server  | vanilla       |
+| End     | June 22 2022 |
+| Version | 1.18         |
+| Server  | vanilla      |
 
 ### New Players
 [[WhoIsFishie]]

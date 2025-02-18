@@ -16,7 +16,7 @@ tags:
 ## Pre Launch
 #### February 4th - White Flag
 [[WhoIsFishie]] and [[iBattus]] comes to a peace agreement 
-![[Pasted image 20250212141506.png|300]]
+![[Pasted image 20250212141506.png]]
 
 #### February 5th - A new start
 [[shihaam_me]] activates the group chat with a hello and forwards polls for suggested changes to the new season. these changes included the following
@@ -35,7 +35,7 @@ after very little discussion [[shihaam_me]] is quoted saying
 > Who cares about what [[WhoIsFishie]] wants  
 
 which leads [[WhoIsFishie]] to make a poll to find out who cares about what [[WhoIsFishie]] wants
-![[Pasted image 20250212142709.png|200]]
+![[Pasted image 20250212142709.png]]
 
 upon realizing that the poll was going in [[WhoIsFishie]]'s favor [[shihaam_me]] deletes all history of the chat involving the auth plugin discussion 
 
@@ -44,7 +44,7 @@ upon realizing that the poll was going in [[WhoIsFishie]]'s favor [[shihaam_me]]
 #### February 12th - Short Peace
 [[WhoIsFishie]] and [[iBattus]] continues to argue about auth plugin leading to an end to the truce agreement 
 
-![[Pasted image 20250212141730.png|300]]
+![[Pasted image 20250212141730.png]]
 
 [^1]: the results are included in the following format [yes:no]
 
