@@ -1,0 +1,1 @@
+![[Buhkiru.png]]

@@ -18,10 +18,13 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 ## Past Seasons
 
+
+%% season 9 seed = -2165273632952849338 %%
+
 ### Season 6: Racism Unlocked
 **Duration**: June 22 2022  
 **Theme**: Steampunk & Technology  
-**World Seed**: unknown  
+**World Seed**: 4954263369649827447
 **Notable Features**:
 - Origins mod
 
@@ -46,7 +49,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 ![[season_3_title_card.jpg]]
 
 **Duration**: April 11 2020 - April 24 2020  
-**World Seed**: unknown    
+**World Seed**: -1495831249    
 **Notable Features**:
 - Penis
 

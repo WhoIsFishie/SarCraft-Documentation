@@ -3,6 +3,8 @@ tags:
   - Admin
 ---
 
+![[shihaam_me.png]]   
+
 Shihaam is the main Admin of SarCraft who manages hosting the server and acts as lead judge in most server conficts
 
 Shihaam is also the creator of the [[SarCube]] which can be found in almost all seasons he has decided to build a base in 

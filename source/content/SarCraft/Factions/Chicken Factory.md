@@ -20,8 +20,21 @@ Chicken factory is one of the largest factions on the server so far with their m
 
 chances are if there is an exploit on the server the chicken factory will have it abused
 
+## Standard Issue Chicken Kit
+the standard issue chicken kit is a shulker box given to all members of the chicken factory containing  
+
+- netherite gear 
+- xp bottles
+- golden carrots
+- golden apples
+- crystals 
+- echest
+- etc
+
+this kit was 
 
 ## Season 6
+the chicken factory is officially formed in this season    
 leading up to [[Season 6]] [[shihaam_me]] would note that the chicken factory was too powerful
 
 [[shihaam_me]], [22-Jun-22 4:56 PM]
@@ -39,6 +52,14 @@ Balls island is the location chicken farm would setup base
 #### New members
 [[Nausham]] gets recruited to the chicken factory as a spy who pretends to join [[iBattus]]'s crew
 [[Anoojfunaid]] gets recruited to help with building and vote manipulation 
-[[FlameXode]] gets recruited as [[WhoIsFishie]]'s drug dealer since he cant eat Gapples so flame's job is to brew pots for fishie
+[[FlameXode]] gets recruited as [[WhoIsFishie]]'s drug dealer since he cant eat Gapples so flame's job is to brew pots for [[WhoIsFishie]]   
+![[flame_kit.jpg]]
 
+#### Shadow Server
+the chicken factory would host a exact copy of [[Season 6]] world on a private server where they would test out exploits and build plans. this server would be used multiple times to discover exploits to be used on the main server as well as practice origins strats
 
+#### BallsBuster 3000
+![[balls_buster3000.mp4]]    
+this is a early footage of the trap being tested on the [[Chicken Factory#Shadow Server]] which would later be improved to kill a full netherite player in a few hits. the trap would later be build all around the base to kill anyone coming too close to the base
+
+the trap depended on lagging out a player in first person mode so hard that they cant move away in time 
