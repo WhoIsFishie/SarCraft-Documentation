@@ -7,4 +7,4 @@ Mika is a real life cat that belonged to [[Anoojfunaid]] who would unfortunately
 during the [[iBattus]] war [[Anoojfunaid]] would text [[iBattus]] requesting that Mika be kept safe during the war   
 ![[mika_peace_treaty.jpg]]  
 
-this agreement would later be broken as [[iBattus]] would kill Mika while attacking Fishie Land
+this agreement would later be broken as [[iBattus]] would kill Mika while attacking [[Fishie Land]]

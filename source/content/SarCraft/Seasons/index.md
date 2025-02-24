@@ -20,27 +20,30 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 
 ### Season 9: iBattus's revenge
-**Duration**: 2024
-**Theme**: Revange
-**World Seed**: -2165273632952849338
+
+**Duration**: 2024   
+**Theme**: Revenge        
+**World Seed**: -2165273632952849338    
 **Notable Features**:
 - Death of [[Mika]]
 
 [[Season 9|View Season 9 Details →]]
 
 ### Season 8: Fish Bundy
-**Duration**: March 23 2023
-**Theme**: unknown
-**World Seed**: unknown
+
+**Duration**: March 23 2023    
+**Theme**: unknown   
+**World Seed**: unknown   
 **Notable Features**:
 - Court case
 
 [[Season 8|View Season 8 Details →]]
 
 ### Season 7: AKA 6.5
-**Duration**: unknown  
-**Theme**: unknown 
-**World Seed**: unknown
+
+**Duration**: unknown    
+**Theme**: unknown   
+**World Seed**: unknown  
 **Notable Features**:
 - TNT Land
 
@@ -48,9 +51,9 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 ### Season 6: Racism Unlocked
 ![[season_6_title_card.jpg]]    
-**Duration**: June 22 2022  
-**Theme**: Steampunk & Technology  
-**World Seed**: 4954263369649827447
+**Duration**: June 22 2022    
+**Theme**: Steampunk & Technology    
+**World Seed**: 4954263369649827447   
 **Notable Features**:
 - Origins mod
 
