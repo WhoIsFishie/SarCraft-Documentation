@@ -71,7 +71,9 @@ while [[iBattus]] was getting jumped [[Ssahan]] would go to [[Fishie Land]] and 
 while this was going on [[iBattus]] was doing more damage to [[Fishie Land]] and would end up killing [[Mika]]
 
 a final fight would take place at [[Fishie Land]] where [[iBattus]] and [[Ssahan]] would start to lose as their armor broke. this would lead to them running away with the [[Fishie Land]] crew chasing after them.
+
 ![[peace.jpg]]    
+
 but for [[Anoojfunaid]] peace was never an option. with [[Mika]] killed a debt had to be paied back in blood.    
 ![[death of sshan.jpg]]    
 with the slaying of [[Ssahan]] [[Fishie Land]] would claim victory. [[iBattus]] wont login to the server again after this bringing an end to [[Season 9]] 
