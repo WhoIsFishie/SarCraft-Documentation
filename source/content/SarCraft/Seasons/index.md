@@ -20,7 +20,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 
 ### Season 9: iBattus's revenge
-**Duration**: March 23 2023
+**Duration**: 2024
 **Theme**: Revange
 **World Seed**: -2165273632952849338
 **Notable Features**:
