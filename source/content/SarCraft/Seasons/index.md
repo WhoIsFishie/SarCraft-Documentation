@@ -19,9 +19,35 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 ## Past Seasons
 
 
-%% season 9 seed = -2165273632952849338 %%
+### Season 9: iBattus's revenge
+**Duration**: March 23 2023
+**Theme**: Revange
+**World Seed**: -2165273632952849338
+**Notable Features**:
+- Death of [[Mika]]
+
+[[Season 9|View Season 9 Details →]]
+
+### Season 8: Fish Bundy
+**Duration**: March 23 2023
+**Theme**: unknown
+**World Seed**: unknown
+**Notable Features**:
+- Court case
+
+[[Season 8|View Season 8 Details →]]
+
+### Season 7: AKA 6.5
+**Duration**: unknown  
+**Theme**: unknown 
+**World Seed**: unknown
+**Notable Features**:
+- TNT Land
+
+[[Season 6#Season 6.5|View Season 7 Details →]]
 
 ### Season 6: Racism Unlocked
+![[season_6_title_card.jpg]]    
 **Duration**: June 22 2022  
 **Theme**: Steampunk & Technology  
 **World Seed**: 4954263369649827447
@@ -32,6 +58,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 
 ### Season 5: Age of revolution
+![[season_5_title_card.jpg]]         
 **Duration**: April 2 2022 - June 22 2022  
 **World Seed**: unknown  
 **Notable Features**:
@@ -46,7 +73,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 [[Season 4|View Season 4 Details →]]
 
 ### Season 3: Middle Ages
-![[season_3_title_card.jpg]]
+![[season_3_title_card.jpg]]     
 
 **Duration**: April 11 2020 - April 24 2020  
 **World Seed**: -1495831249    
@@ -56,7 +83,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 [[Season 3|View Season 3 Details →]]
 
 ### Season 2: Post Classical Age
-![[season_2_title_card.jpg]]
+![[season_2_title_card.jpg]]      
 
 **Duration**: 2020
 **World Seed**: unknown  
@@ -66,7 +93,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 [[Season 2|View Season 2 Details →]]
 
 ### Season 1: Ancient History
-![[season_1_title_card.jpg]]
+![[season_1_title_card.jpg]]       
 
 **Duration**: 2019
 **World Seed**: unknown  

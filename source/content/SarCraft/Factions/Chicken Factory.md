@@ -13,6 +13,8 @@ tags:
 [[FlameXode]]
 [[Nausham]]
 [[Anoojfunaid]]
+[[StrawBwabii]]
+[[Klen]]
 
 A group founded by [[WhoIsFishie]] after discovering a Shulkabox duplication exploit that was used to duplicate a bunch of eggs. the groups was informally created back in [[Season 5]] but would later be formally registered
 
@@ -47,6 +49,8 @@ I need something against the chicken factory
 ![[Balls island.jpg]]
 ![[Balls island ign.jpg]]
 Balls island is the location chicken farm would setup base 
+
+![[bal_land.png]]
 
 
 #### New members

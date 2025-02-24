@@ -1,0 +1,1 @@
+a player who joined the server in [[Season 9]], Ssahan would play a large role in [[Season 9]] lore along side with [[iBattus]]

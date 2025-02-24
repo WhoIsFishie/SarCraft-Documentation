@@ -104,3 +104,12 @@ after 1 week of no server it finally comes back on the 9th
 turns out the server hosting got hacked by north Korean hackers and was used to mine crypto
 
 ## Season 6.5
+
+Server suffers a dataloss leading to the world resetting.    
+![[6.5.jpg]]   
+[[WhoIsFishie]] [[Buhkiru]] [[flowerrthiccc]] [[Anoojfunaid]] would flood the spawn of the new server with TNT and blow it up to crash the server ultimetly killing the server
+
+
+## Extra
+![[fishie_spies_on_ibat.jpg]]  
+[[WhoIsFishie]] and [[Buhkiru]] would go over to [[iBattus]] & [[invisble715]] base to spy on them while invisible. there would be some murder attempts here which fails
