@@ -1,3 +1,6 @@
+# Intro
+
+
 # The Chicken Factory Insurance
 ## Your Protection Against Minecraft Mishaps!
 
@@ -38,10 +41,10 @@ Just like chickens lay eggs that respawn into new life, we ensure your Minecraft
 At The Chicken Factory Insurance, we understand that Minecraft is more than just a game - it's about creativity, adventure, and the treasures you collect along the way. That's why we've hatched the perfect insurance plans to protect your virtual valuables.
 
 ### How to Get Started
-1. Visit our office in the Shopping District
+1. Contact [[WhoIsFishie]]
 2. Choose your coverage plan
 3. Meet your dedicated insurance agent
 4. Start playing with peace of mind!
 
 ---
-*Terms and conditions apply. We are not responsible for items lost to the void, eaten by dogs, or accidentally traded to villagers. Creeper damage coverage requires additional premium.
+*Terms and conditions apply. We are not responsible for acts of god, Creeper damage coverage requires additional premium.
