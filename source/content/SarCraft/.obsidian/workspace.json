@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26e9e99fdd290ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Chicken Insurance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chicken Insurance"
-            }
-          },
-          {
             "id": "85a8619dd34e9f65",
             "type": "leaf",
             "state": {
@@ -195,10 +181,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26e9e99fdd290ec7",
+  "active": "cc0e6f8de00ead54",
   "lastOpenFiles": [
-    "Lore/Insurance.md",
+    "Fishie.md",
+    "Seasons/Season 6.md",
+    "Seasons/Season 9.md",
     "Lore/Chicken Insurance.md",
+    "Seasons/S9_images/Pasted image 20250226093024.png",
+    "Seasons/S9_images/Pasted image 20250226092837.png",
+    "Seasons/S9_images/fishie_ss.jpg",
+    "Seasons/S9_images/bassam_ss.jpg",
+    "homepage.md",
+    "Seasons/S1_images/sarcraft_banner.png",
+    "Lore/Insurance.md",
     "Seasons/Season 5.md",
     "Seasons/index.md",
     "Seasons/S6_images/bassam_listen2whitegirl_music.mp4",
@@ -208,13 +203,7 @@
     "Seasons/S6_images/minecraft_title (4).png",
     "Seasons/S5_images/season_5_title_card.jpg",
     "Seasons/S5_images/minecraft_title.png",
-    "Seasons/S5_images/minecraft_title (3).png",
     "Factions/Fishie Land.md",
-    "Seasons/Season 9.md",
-    "Seasons/S9_images/fish_land/breeder.png",
-    "Seasons/S9_images/fish_land/trading hall.png",
-    "Seasons/S9_images/fish_land/wall3.png",
-    "Seasons/S9_images/fish_land/wall2.png",
     "Seasons/S9_images/fish_land",
     "Players/Ssahan.md",
     "Lore/Mika.md",
@@ -232,7 +221,6 @@
     "Seasons/Season 10.md",
     "Seasons/Season 3.md",
     "Seasons/Season 4.md",
-    "Seasons/Season 6.md",
     "Seasons/S10_images",
     "Seasons/S6_images",
     "Seasons/S5_images",
@@ -240,8 +228,6 @@
     "Seasons/Season 1.md",
     "Seasons/Season 0.md",
     "seasons.md",
-    "index.md",
-    "Untitled.md",
-    "Players/Buhkiru.md"
+    "index.md"
   ]
 }

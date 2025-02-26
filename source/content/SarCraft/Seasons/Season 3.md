@@ -5,6 +5,10 @@ tags:
 ---
 Code_Name : Middle Ages
 
+In the chaotic aftermath of [[Season 2]]'s explosive finale, a new world emerged from the digital ashes. The slate had been wiped clean, and with it came new promises of order, stability, and peace. [[shihaam_me]], the server's often-absent creator, had returned to take his rightful place as administrator. Hacks were officially outlawed, and for a brief, fleeting moment, it seemed as though SarCraft might finally know tranquility.
+
+How wrong they were.
+
 | Season  | 3             |
 | ------- | ------------- |
 | Start   | April 11 2020 |
@@ -16,88 +20,114 @@ Season 3 begins right after [[Season 2]] with a server reset
 
 Hacks are banned and a new world is generated. [[shihaam_me]] is back as admin
 
-### Season History
+## Season History
 
-#### Sar moment
-[[shihaam_me]] accidently deletes server 1 day into the new season 
+### The Day One Catastrophe
 
-#### Just Iron
-while [[Redacted]] is trying to leave spawn he encounters [[shihaam_me]]. with tensions still high [[Redacted]] kills [[shihaam_me]] and steals his iron before leaving spawn
+In what would become known as the first great "Sar Moment" of the new age, disaster struck merely 24 hours after the season's launch. In an incident that would become synonymous with administrative incompetence, [[shihaam_me]] accidentally deleted the entire server world. Players who had spent the previous day establishing their first bases and gathering resources watched in horror as their progress vanished in an instant.
 
-#### Spawn Disagreement
-a huge fight breaks out among the [[Spawn Mason]]'s leading to some of the players leaving spawn
+This catastrophic error set the tone for what would become one of the shortest, yet most turbulent seasons in SarCraft history.
 
-[[Nausham]] and [[GurdhaanRamzee]] decides to join up with [[Redacted]] thus reviving the [[Nazi]] faction yet again
+### Just Iron
 
-##### Operation Search And Rescue
-[[Redacted]] was stuck inside a cave running low on food with no pickaxe. [[Nausham]] and [[GurdhaanRamzee]] goes in for a extraction mission
+The tensions of [[Season 2]] had not been forgotten. As players scrambled to rebuild after the reset, a chance encounter near spawn would ignite the first conflict of the new era. [[Redacted]], still bitter from the revolution that had deposed him, stumbled upon a vulnerable [[shihaam_me]] attempting to leave spawn.
 
-this was unsuccessful as they all died and also lost all of the mined items
+What followed was swift and merciless.
 
-#### The Egg Heist
-##### The Great Migration
-[[Nazi]]'s uses the server seed to find the closest End portal room and goes on a great migration 
-this was to abuse a new rule [[ToadGod]] has implemented which prevents players from entering other players bases without permission thus locking other players out of the closest end portal to spawn
+Without hesitation, [[Redacted]] struck down the administrator, pilfering his iron ingots before fleeing into the wilderness. This act of aggression, which would later become known as the "Just Iron Incident," planted the seeds of resentment that would ultimately doom the season.
+
+### Spawn Disagreement
+
+Meanwhile, chaos erupted among the [[Spawn Mason]]s. What began as a practical security concern escalated into a full-scale factional split. [[Nausham]] and [[GurdhaanRamzee]] argued passionately that establishing bases too close to spawn posed an unacceptable risk – any new players joining the server could easily locate and raid their precious stockpiles. Despite the [[Spawn Mason]]s' ideals of community and cooperation, the fear of theft proved too compelling to ignore.
+
+The disagreement grew heated. Unable to convince their fellow Masons of the danger, [[Nausham]] and [[GurdhaanRamzee]] made the fateful decision to abandon spawn entirely. In this moment of division, they sensed an opportunity and joined forces with [[Redacted]], effectively resurrecting the infamous [[Nazi]] faction that had terrorized previous seasons.
+
+The old powers were returning, and with them, the old conflicts.
+
+### Operation Search And Rescue
+
+Not long after establishing their renewed faction, disaster struck the [[Nazi]] leadership. [[Redacted]] found himself trapped deep within a cave system, without tools and with dwindling food supplies. Death by starvation seemed imminent.
+
+In response, [[Nausham]] and [[GurdhaanRamzee]] mounted what would become known as "Operation Search and Rescue" – a desperate mission to extract their leader from the depths. What they lacked in preparation, they made up for in determination.
+
+Sadly, determination alone cannot mine stone.
+
+The rescue attempt ended in catastrophic failure, with all three players perishing in the darkness. The valuable ores they had mined were lost, scattered among the stone corridors where their bodies had fallen. The operation would go down in SarCraft lore as one of the most disastrous rescue missions ever attempted.
+
+### The Egg Heist
+
+Undeterred by their recent failure, the [[Nazi]] faction devised a strategy that would secure their dominance for the remainder of the season. Using the server seed, they located the closest End portal to spawn and embarked on a treacherous journey – "The Great Migration."
+
+#### The Great Migration
+
+Their plan was as devious as it was effective. [[ToadGod]], in an attempt to prevent the griefing that had plagued previous seasons, had implemented a new rule prohibiting players from entering other bases without permission. The [[Nazi]] faction intended to exploit this rule by claiming the End portal as part of their base, effectively controlling access to the End dimension and its valuable resources.
 
 ![[migration.jpg]]
+*Across treacherous terrain they traveled, establishing their new headquarters around the strategic stronghold. Little did they know, fate had other plans.*
 
-##### The Great Sike of Toad
-[[ToadGod]] is seen in chat talking about his plans to raid the end and bring everyone elytra's
+#### The Great Sike of Toad
+
+As the [[Nazi]] faction settled into their new stronghold, disturbing news reached them through the server chat. [[ToadGod]] had announced his intention to raid the End dimension and distribute Elytra wings to all players – a direct threat to the [[Nazi]] monopoly plan.
+
+Time was running out. The race for the End had begun.
+
+In a twist of cosmic irony, as [[ToadGod]] traveled through the Nether, his newly created portal inexplicably linked with the [[Nazi]] base portal – a one-in-a-million coincidence that revealed their secret location.
 
 ![[toad_finds_nazi_hideout.jpg]]
 
-while nether traveling [[ToadGod]]'s portal accidently connects with the [[Nazi]] base portal
+Realizing their advantage was slipping away, the [[Nazi]] faction made a bold decision. They would raid the End immediately, claim the Dragon Egg, and secure their place in SarCraft history before [[ToadGod]] could interfere.
 
-[[Nazi]]'s decides to raid the end before this and steal the egg as time was running out
+### DUPES DUPES DUPES
 
+In the midst of their frantic preparations, the [[Nazi]] faction stumbled upon something that would alter the very fabric of SarCraft's economy – a powerful duplication glitch. This exploit allowed them to create hundreds of identical items in moments, a secret weapon that could grant them unlimited resources.
 
-#### DUPES DUPES DUPES
+A new objective emerged – find rare items worth duplicating. The search for Enchanted Golden Apples began, these legendary items being the ultimate prize for their duplication scheme.
 
-while messing around the [[Nazi]]'s discovers a powerful dupe that allows them to duplicate 100's of items at once 
+#### The Expensive Donkey Incident
+In one of the most tragicomic moments of Season 3, [[GurdhaanRamzee]] successfully located an Enchanted Golden Apple – only to accidentally feed it to the very donkey they were using for duplication.
 
-this starts a race to find enchanted golden apples so it can be duped
 ![[expensive donkey.jpg]]
-[[GurdhaanRamzee]] finds an enchanted golden apple but accidently feeds it to the donkey that's used to dupe items 
 
-[[Nazi]] nukes their base and decides to migrate again to a place where they can safely dupe and store their stashes 
 
+This catastrophic error led to an extreme decision. The [[Nazi]] faction destroyed their own base, eliminating all evidence of their presence, and embarked on a second migration to establish a new, secure location for their duplication operations.
 ![[migration2.jpg]]
 
-they travel via nether with their horses and the dupe donkeys 
+#### tower to heaven
 
-##### tower to heaven
+What followed was perhaps the most bizarrely over-engineered construction in SarCraft history. To transport their horses and duplication donkeys to their new location, the [[Nazi]] faction constructed a wooden tower that stretched to the build limit – "The Tower to Heaven."
+
 ![[tower to heavin.jpg]]
-the tower to heaven is a wooden structure built to build limit
-at the top of the tower is a nether portal
-the reason for building this tower was to transport the horses through the portal and they didn't want to have a portal linking issue again
+
+At the summit, a Nether portal awaited, designed to transport their animals without the risk of portal linking issues that had exposed their previous base. Once the animals had been safely transported, the entire wooden structure was set ablaze, eliminating any evidence of their passage.
 
 >the [[Nazi]]'s are not really known for their logical thinking. just their random, expensive and over engineered buildings and this would be one of those 
->
 >the same thing can be achieved by building the portal on the roof and sending the horses through it and breaking the portal
 
 ![[tower to heavin burning.jpg]]
+*the tower is burned once the horses are sent as to erase any evidence of a portal being built there*
 
-the tower is burned once the horses are sent as to erase any evidence of a portal being built there
+#### Sky Island 
 
-##### Sky Island 
+Their final destination was a small obsidian platform constructed high above an ocean – "Sky Island." This remote location, far from the prying eyes of other players, became the center of their duplication operation.
+
 ![[sky island.jpg]]
-Sky Island is a duping station built up in the sky in the middle of an ocean
-this was done so that other players wont accidently run into it
-this small obsidian platform was used to do all the duping for [[Nazi]]
-the rest of the server was not aware of this exploit
+
+From this seemingly insignificant platform, the [[Nazi]] faction amassed wealth beyond imagination, all while the rest of the server remained oblivious to the exploit they had discovered.
 
 
-#### Nazi vs Spawn masons
-[[Nazi]]'s needed a Beacon to dupe but didn't have one. [[ToadGod]] was in possession of one but refuses to give it to the Nazi's 
+### The Diamond Penis Incident
+The [[Nazi]] faction's duplication operation had only one missing component – a Beacon. The only player known to possess one was their rival, [[ToadGod]], who predictably refused to share it with them.
 
-this leads to the [[Nazi]]'s going to spawn in the middle of the night while everyone was asleep and erecting a diamond penis Infront of [[ToadGod]]'s base 
+In response, the faction devised a plan that exemplified their peculiar approach to diplomacy. In the dead of night, while the [[Spawn Mason]]s slept, they constructed an enormous diamond Penis directly in front of [[ToadGod]]'s base.
 ![[penis.jpg]]
 >once again the [[Nazi]]'s are not known for their practicality when it comes to builds.
 
 the next morning a fight breaks out in the server group chat due to the structure
 
 ##### Pissing contest
-![[penis map.jpg]]![[view from toad spawn base.jpg]]
+When morning came and the monument was discovered, chaos erupted in the server chat. What followed was a dispute so legendary it would be remembered as "The Pissing Contest" – a heated debate over land claims, griefing rules, and the architectural merit of diamond genitalia.
+![[penis map.jpg]]
+![[view from toad spawn base.jpg]]
 
 [[ToadGod]] claims that the build counts as griefing 
 [[Nazi]]'s claim its a building they made at spawn as a pitstop since they fly to spawn a lot 
@@ -113,10 +143,9 @@ the next morning a fight breaks out in the server group chat due to the structur
 [[ToadGod]] tries to take down the penis
 [[Nazi]] claim that would count as griefing as they own the island and the penis
 
-the issue is taken to court with [[shihaam_me]] being the judge
-[[CatMDV]] leaves as he doesn't wanna entertain kids arguing over a penis in Minecraft
-[[ToadGod]] keeps pissing off the judge by speaking without permission 
+The dispute escalated to such levels that it required official intervention. [[shihaam_me]] presided as judge in what would become the first formal trial in SarCraft history.
 
+The proceedings were chaotic. [[CatMDV]] abandoned the trial, refusing to "entertain kids arguing over a penis in Minecraft." [[ToadGod]] repeatedly interrupted the judge, speaking out of turn and further inflaming tensions.
 
 the judge comes to a verdict 
 
@@ -150,9 +179,15 @@ the judge concludes the hearing with the verdict
 
 
 #### Price of iron
-[[shihaam_me]] announces that [[Redacted]] is banned from the server
-server goes into chaos as the 2 factions start blaming each other
-the reason for the ban was that [[shihaam_me]] was fed-up with the arguments and people complaining to him and he blames the [[Season 3#Just Iron]] incident for it 
 
-server is shut down
+As the dispute raged on, [[shihaam_me]]'s patience reached its breaking point. In a sudden and shocking announcement, he declared [[Redacted]] banned from the server. The administrator cited the "Just Iron" incident from the season's beginning as the final straw, but everyone knew the true reason – he was simply fed up with the constant arguments and complaints.
 
+The server erupted into chaos. The two factions began hurling accusations at one another, each blaming the other for the ban and the season's collapse.
+
+And then, without warning or ceremony, the server shut down.
+
+Season 3 had lasted just thirteen days – the shortest season in SarCraft history.
+
+From administrative incompetence to factional warfare, from accidental world deletion to diamond phalluses, Season 3 packed more drama into two weeks than most servers see in a year. It stands as a testament to SarCraft's unique ability to generate chaos, even in the most controlled of environments.
+
+The server would go quiet for a time, but as always in SarCraft history, this was merely the calm before the storm. The Middle Ages had ended, and players could only wonder what new era of madness awaited them when the server inevitably returned.

@@ -5,6 +5,8 @@ tags:
 ---
 Code_Name : Age of revolution
 
+In the long and storied history of SarCraft, few chapters stand as infamously as Season 5 - a period that would come to be known as **"The Age of Revolution."** What began as a peaceful vanilla server would transform into a battleground of political intrigue, ruthless power plays, and perhaps the most legendary admin abuse ever witnessed in SarCraft history.
+
 | Season  | 5            |
 | ------- | ------------ |
 | Start   | April 2 2022 |
@@ -34,23 +36,29 @@ Code_Name : Age of revolution
 ## Pre Launch
 server tests a new tele based auth system made by Udit
 
-
 ## Age of Peace
 
-
+When the server first launched on April 2nd, 2022, nobody could have predicted the chaos that would unfold. The season began with a new experimental telegram authentication system crafted by Udit 
 ### spawn mason activities
-[[iBattus]], [[invisble715]] are active players on the server while [[shihaam_me]] struggled to play
-[[CatMDV|Cat]] is also active on the server during this period of time
+
+In these early days, a group that would come to be known as the Spawn Masons emerged as the dominant force. [[iBattus]] and [[invisble715]] established themselves as active builders while the server's admin, [[shihaam_me]], struggled with the most basic survival mechanics. The enigmatic [[CatMDV|Cat]] joined these pioneers as they constructed essential infrastructure at spawn.
+
 
 ![[spawn hut.jpg]]
-a building created at spawn by the spawn masons 
+_The Spawn Masons' first construction - a humble hut that would witness the start of a server-wide revolution_
+
+The Masons' ambition grew quickly, though not without setbacks. [[iBattus]]'s failed attempt at constructing a nether portal became the first of many mishaps that would plague the season.
 
 ![[failed portal.jpg]]
 
-[[iBattus]] fails to build a nether portal
+[[iBattus]]'s failed portal - an omen of the chaos to come
+
+
+Under [[CatMDV]]'s leadership, the Masons established crucial farming infrastructure - the first spark of civilization in this untamed world.
 
 ![[spawn farm.jpg]]
-[[CatMDV|Cat]] and [[iBattus]] builds a farm at spawn so they can start enchanting 
+
+_The farm that would fuel the early economy of Season 5_
 
 ### [[iBattus]] leaves spawn
 after doing community work at spawn [[iBattus]], [[CatMDV|Cat]] and [[invisble715]] leaves spawn to a nearby desert to set up base
@@ -58,18 +66,19 @@ after doing community work at spawn [[iBattus]], [[CatMDV|Cat]] and [[invisble71
 
 
 ## [[WhoIsFishie]] joins the server
-on the 19th of april fishie joins the server
+
+On April 19th, a player joined who would forever alter the course of SarCraft history - **[[WhoIsFishie]]**.
+
+Within moments of joining, [[WhoIsFishie]] established dominance through bloodshed. The first victim? An unsuspecting [[shinwo_o]], whose death would mark the beginning of [[WhoIsFishie]]'s reign of terror.
 
 ![[shin_ded.jpg]]
-[[WhoIsFishie]] kills [[shinwo_o]]
 
-[[WhoIsFishie]] sets base right outside on spawn on the ocean and fishes for the rest of the season
+Setting base just outside spawn on the ocean, [[WhoIsFishie]] established what would become his notorious pattern - fishing endlessly while occasionally emerging to inflict chaos upon the server's inhabitants.
 
 
-### fishie protects his land
-[[WhoIsFishie]] kills [[TheHamkerCat]] 
+### The Hamkercat Massacres
 
-[[WhoIsFishie]] kills [[TheHamkerCat]] 
+What followed was one of the most one-sided feuds in server history. TheHamkerCat found himself systematically hunted by Fishie, dying repeatedly in what can only be described as a territorial bloodbath:
 
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
 
@@ -77,29 +86,33 @@ on the 19th of april fishie joins the server
 
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
 
-[[WhoIsFishie]] declares he wont kill [[TheHamkerCat]] if he stays away from [[WhoIsFishie]]'s land
+[[WhoIsFishie]] kills [[TheHamkerCat]] 
+
+[[WhoIsFishie]] kills [[TheHamkerCat]] 
+
+The carnage was briefly interrupted by a declaration that [[WhoIsFishie]] would cease the killing if [[TheHamkerCat]] stayed away from his territory. The peace lasted mere moments before:
 
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
 
 [[WhoIsFishie]] kills [[TheHamkerCat]] 
 
-[[TheHamkerCat]] tries to claim fishies base as his
+In an act of either bravery or foolishness, [[TheHamkerCat]] attempted to claim [[WhoIsFishie]]'s base as his own - a decision that would prove disastrous.
+
+Not even the server admin was safe from [[WhoIsFishie]]'s wrath. When [[shihaam_me]] extended an invitation to his base, the admin found himself drowning while fleeing from [[WhoIsFishie]], who pursued him wielding nothing but a fish as a weapon. This absurd death would foreshadow the admin's many mortalities throughout the season.
 
 [[WhoIsFishie]] kills [[shihaam_me]]
 
-### [[shihaam_me]] invites [[WhoIsFishie]] to his base
-[[shihaam_me]] drowns while running away from [[WhoIsFishie]] who was trying to beat [[shihaam_me]] to death with a fish
-
-
 ## [[WhoIsFishie]] meets [[iBattus]]
-[[WhoIsFishie]] and [[iBattus]] meets up and starts hanging out at the desert base
 
+As the season progressed, an unexpected partnership formed between the server's most feared player and one of its founding members. [[WhoIsFishie]] and [[iBattus]] found common ground, beginning a cooperation that would bring prosperity to both - for a time.
 
-## boob mountain
-[[WhoIsFishie]] and [[shihaam_me]] goes on an adventure where they encounter a mountain with boobs
+## MOUNT BOOBIES INCIDENT
+
+Perhaps one of the strangest episodes in Season 5 occurred when [[WhoIsFishie]] and [[shihaam_me]] embarked on an adventure, discovering a peculiarly shaped landmark that would be christened "Mount Boobies."  
+
 ![[boobs.jpg]]
 
-they climb to the top of the mount boobies and the following conversation takes place
+What transpired at the summit would become the stuff of SarCraft legend. After a bizarre conversation about animal slaughter practices, [[WhoIsFishie]] offered the admin a fish:
 
 `SarCraft Server, [23-Apr-22 1:47 AM]`
 `WhoIsFishie: anyways shihaam`
@@ -134,24 +147,18 @@ they climb to the top of the mount boobies and the following conversation takes 
 `SarCraft Server, [23-Apr-22 1:48 AM]`
 `shihaam_me was burnt to a crisp whilst fighting WhoIsFishie at (851 156 -33).`
 
-
+The ritual sacrifice atop Mount Boobies was complete.
 ## Business relations gone wrong
-[[WhoIsFishie]] and [[iBattus]] continues to work together on raids and build as they both trade with each other
-[[WhoIsFishie]] suggests the following to [[iBattus]]
->You guys should use the bone from the skeleton farm to get a bunch of stick from a bamboo farm
 
-and offers to help them build it as [[WhoIsFishie]] was actively using their farms 
-while building together [[iBattus]] gets suspicious of [[WhoIsFishie]]'s pickaxe as it seems faster then other pickaxes
-[[WhoIsFishie]] claims its just good because he has a gaming chair
-[[iBattus]] keeps on requesting to take a look at [[WhoIsFishie]]'s pickaxe but [[WhoIsFishie]] claims [[iBattus]] is hallucinating 
+As [[iBattus]] and [[WhoIsFishie|Fishie]] continued their partnership, suspicion grew. During the construction of a bamboo farm, iBattus noticed [[WhoIsFishie|Fishie]]'s pickaxe seemed unusually efficient. When questioned, [[WhoIsFishie|Fishie]] claimed it was simply "the gaming chair" that gave him the edge.
 
-[[iBattus]] is sure that [[WhoIsFishie]] is hacking but he cant prove it
+[[iBattus]]'s suspicions grew, but Fishie deflected all requests to examine the tool. The opportunity to investigate would come in the most unexpected way - when server lag kicked [[WhoIsFishie|Fishie]] offline, [[iBattus]] placed a block at his logout position.
 
-while building [[WhoIsFishie]] gets kicked from the server due to lag and [[iBattus]] places a block where [[WhoIsFishie]] logged out. this causes [[WhoIsFishie]] to start suffocating when he logs back in
-![[ibut_killfish.mp4]]
-[[iBattus]] decides to let [[WhoIsFishie]] die so that he can take a look at [[WhoIsFishie]]'s inventory to check the pickaxe
+![[ibut_killfish.mp4]]   
+The suffocation trap that exposed Fishie's hacked gear
 
-[[iBattus]] now has evidence that [[WhoIsFishie]] was hacking 
+
+When [[WhoIsFishie]] returned, he began suffocating. [[iBattus]], seeing an opportunity, allowed his "ally" to die - gaining access to his inventory and confirming his suspicions: [[WhoIsFishie]] was indeed using hacked equipment.
 
 ![[bamboo_farm.jpg]]
 the farm [[iBattus]] and [[WhoIsFishie]] built together
@@ -161,36 +168,24 @@ the farm would later get blown up by creepers prompting [[iBattus]] to add the f
 
 
 ## Calm before the storm
-it would be around this time that [[flowerrthiccc]] would join the server
-[[iBattus]] would help [[flowerrthiccc]] setup 
 
-players would later express their concern as [[WhoIsFishie]] isnt seen on the server as it was rare to see [[WhoIsFishie]] offline
+A period of relative peace followed as [[flowerrthiccc]] joined the server, with [[iBattus]] helping the newcomer establish themselves. During this time, players began to comment on [[WhoIsFishie]]'s unusual absence - a rare occurrence that many would later recognize as the quiet before the tempest.
 
 ![[Pasted image 20250216131101.png]]
 
-[[iBattus]], [[invisble715]] would go on an adventure to explore the nether 
-[[invisble715]] would die a few times during this trip
 
 #### [[iBattus]] Dies
-while in the nether [[iBattus]] finds himself in a sticky situation where he is low on health and needs backup
 
-he would die 4 times while trying to get his items back
-while trying to save [[iBattus]] [[flowerrthiccc]] would also die continuing on a history of sarcraft [[Season 3#Operation Search And Rescue|failed rescue missions]] 
+Meanwhile, [[iBattus]] and [[invisble715]] ventured into the nether, where disaster struck. [[iBattus]] found himself in a deadly predicament, dying multiple times in attempts to recover his items. When [[flowerrthiccc]] attempted a rescue, they too perished, continuing SarCraft's long tradition of [[Season 3#Operation Search And Rescue|failed rescue missions]] .
 
 
 ### Stuck in holes
-[[WhoIsFishie]] invites [[TheHarryG]]
-
-[[WhoIsFishie]] invites [[Buhkiru]]
-
-[[WhoIsFishie]] invites [[StrawBwabii]]
-
-[[WhoIsFishie]] and [[TheHarryG]] decides to dig a hole all the way down to bedrock and [[TheHarryG]] was supposed to activate [[WhoIsFishie]]'s pearl so he will teleport back
-however [[TheHarryG]] also falls in the same hole so now both of them are stuck in a 1 block hole in the bedrock
-
-[[CatMDV|Cat]] comes to save [[WhoIsFishie]]
+Expanding his influence, [[WhoIsFishie]] began inviting new players to the server - [[TheHarryG]], [[Buhkiru]], and [[StrawBwabii]]. 
+What seemed like hospitality soon revealed itself as another scheme when [[WhoIsFishie]] and [[TheHarryG]] became trapped in a bedrock hole after a pearl teleportation plan went awry. Only [[CatMDV]]'s intervention saved them from an eternity in the void.
 
 ## The Crash of May 3
+
+On May 3rd, 2022, at precisely 11:15 PM, disaster struck. The server crashed while players were online, marking the beginning of a crisis that would reshape the power dynamics of SarCraft forever.
 
 #### 11:15 PM
 sever crashes while players were online
@@ -213,15 +208,11 @@ weird noise is coming from the server room
 server is back online
 
 `DOWNTIME:` 
-
 `Begin: May 3, 2022 11:14 PM`
 `https://t.me/sarcraftmcgc/13076`
-
 `End: May 4, 2022 5:06 AM`
 `https://t.me/sarcraftmcgc/13585`
-
 `Total downtime:  5 hours 51 minutes`
-
 `Reason: SarDC AC is retarded (Home AC turned on automatically, overloaded itself, killed the circuit breaker and everything at home with it)`
 
 ## Fishie Sells houses
@@ -230,19 +221,14 @@ server is back online
 he does this by blocking them inside a random hole and telling them its their new house until they agrees
 
 ## Stuck in the nether
-[[Buhkiru]] ends up getting stuck in the nether bedrock
+
 ![[stuck_1.jpg]]
-[[ButtercupHoney]] goes to save [[Buhkiru]] since [[WhoIsFishie]] was busy
 ![[save_2.jpg]]
-[[ButtercupHoney]] also gets stuck
-[[TheHarryG]] also gets stuck
 
-its unclear to this day as to how they got unstuck
-
+The server's troubles continued as [[Buhkiru]] became trapped in the nether's bedrock layer. When [[ButtercupHoney]] attempted a rescue ([[WhoIsFishie]] being "busy"), they too became trapped. [[TheHarryG]] joined the growing list of the bedrock's prisoners, creating a crisis that remains mysteriously resolved to this day - no one knows exactly how they escaped.
 ## Shutdown of May 10
-due to [[shihaam_me]] not having money to pay his bills server is shut down until he gets enough donations
-a few mins later the donation goal of MVR 371 is reached and the server is back online
 
+On May 10th, SarCraft faced an unprecedented situation - administrative bankruptcy. With [[shihaam_me]] unable to pay server bills, the world went offline until donations reached the required MVR 371. Players rallied, meeting the goal within minutes, but the incident exposed the fragility of SarCraft's infrastructure.
 ## [[CatMDV|Cat]] Wants to Rebuild Male'
 [[CatMDV|Cat]] has an idea to build a 1:1 scale replica of Male' in minecraft as it would be news worthy 
 ![[male_map.jpg]]
@@ -251,23 +237,20 @@ players entertain the idea for a day and then forgets about it as they realize i
 
 ## The Reset of May 13
 
-on the 13th of May 4:34 PM [[TheHarryG]] logs into the world to see it has been reverted to an old update
-
-the last time players were online on the server was early morning of May 13th at 2 AM
-
-upon further investigation it was noted that the server backup has not been active for 10 days and its running the newest backup it has which was taken on May 3 2022, 11:14PM
+Then came May 13th - a date that would live in infamy. At 4:34 PM, [[TheHarryG]] logged in to discover the unthinkable: the world had reverted to an old backup. Investigation revealed that backups had not been functioning for 10 days, with the server running on a May 3rd, 11:14 PM backup.
 
 #### Deleted builds
+
+he devastation was immense - [[StrawBwabii]]'s bridge and [[flowerrthiccc]]'s trading hall vanished overnight, eradicated from existence.
+
 ![[berry bridge.jpg]]
-the bridge that connects [[StrawBwabii]] house to [[flowerrthiccc]]
+*_[[StrawBwabii]]'s bridge - erased from reality by the Great Reset_*
 
 ![[flower trading hall.jpg]]
-[[flowerrthiccc]]'s trading hall
-
+_[[flowerrthiccc]]'s trading hall - days of work eliminated in an instant_
 
 players started demanding compensation for the loss 
 [[TheHarryG]] requests creative mode
-
 
 #### Incident report
 >So what happened was
@@ -281,68 +264,50 @@ players started demanding compensation for the loss
 [[shihaam_me]]
 
 ## Fishurance 
-not to let a tragedy go to waste [[WhoIsFishie]] announces an insurance plan where all players give him 1 diamond everyday to join the insurance plan
+In true opportunistic fashion, [[WhoIsFishie]] attempted to capitalize on the disaster by announcing "Fishurance" - an insurance plan requiring players to pay him one diamond daily for protection against future server incidents. Unsurprisingly, there were no takers.
 
-no one purchased the insurance plan
+## THE REVOLUTION
 
-## Revolution
-[[TheHarryG]] and [[WhoIsFishie]] starts talking about compensation again and [[shihaam_me]] creates a poll to see if players should be compensated or not
+As tensions reached a breaking point, [[TheHarryG]] and [[WhoIsFishie]] renewed demands for compensation. The admin created a poll to determine the server's stance - with 6 voting against compensation and 5 in favor.
 
-6 voted no and only 5 voted yes
+What proved especially inflammatory was [[iBattus]]'s decisive vote against compensation. As a fellow admin who had previously accused [[WhoIsFishie]] of hacking, his opposition was seen as a betrayal by the revolutionary faction. The server split into two opposing camps, with [[iBattus]] loudly proclaiming that compensation would be "unfair."
 
-the server splits into 2 as [[iBattus]] claims its not fair to compensate 
-[[WhoIsFishie]] decided to use the vote results as a kill list for the server
+For [[WhoIsFishie]], this was not merely a poll result - it was a kill list, with [[iBattus]] now at the very top.
 
-[[WhoIsFishie]] builds a bunch of penis's on [[shihaam_me]]'s base in protest
+The revolution began with lewd constructions on [[shihaam_me]]'s base, but this was merely a distraction from the real plan brewing in the shadows. Operation Bamboo was about to commence.
 
-in the background [[WhoIsFishie]] was planning to overthrow the government 
 
 ![[bamboo threats.jpg]]
-the revolution party would plant a bunch of bamboo at [[shihaam_me]] base to hold it hostage 
+_The revolutionary manifesto that would change SarCraft forever_
 
-the point of the bamboo was to lag out the server when [[shihaam_me]] gets online to break it down
+The strategy was ingenious in its simplicity: plant countless bamboo at the admin's base, creating a lag machine that would activate when [[shihaam_me]] logged in to remove it. Above this bamboo forest, lava traps waited at world height, ready to rain destruction should the admin attempt to clear the bamboo.
 
-there was also lava traps placed at world height which would rain down lava on [[shihaam_me]]'s base if he removes the bamboo 
-
-hearing the news [[TheHarryG]] and [[flowerrthiccc]] joins [[WhoIsFishie]] to get compensation 
-
-while [[shihaam_me]] was getting online [[flowerrthiccc]] joins the cause to plant even more bamboo 
-
-operation bamboo goes on for 2 days 
+[[TheHarryG]] and [[flowerrthiccc]] joined the revolution, transforming it from a one-man vendetta into a full-scale uprising. For two days, Operation Bamboo continued, culminating in [[shihaam_me]]'s death by sky lava.
 
 ![[Pasted image 20250216154733.png]]
 
-[[shihaam_me]] dies to the lava from the sky
+With one admin neutralized, the revolutionaries turned their attention to [[iBattus]], who made a fateful declaration:
 
-after [[shihaam_me]] was taken care of the next target was [[iBattus]] as he is also an admin
+> "if i die from u guys, ill admin abuse"
 
-> ibattus: if i die from u guys, ill admin abuse
+[[WhoIsFishie]] and [[flowerrthiccc]] ambushed [[iBattus]], forcing him to combat log. Seizing the opportunity, [[WhoIsFishie]] encased [[iBattus]]'s logout position in obsidian, creating a second administrative hostage.
 
-[[WhoIsFishie]] and [[flowerrthiccc]] jumps [[iBattus]] and forces him to combat log
-[[WhoIsFishie]] would cover the spot [[iBattus]] logged out at with obsidian so that now he can hold another admin hostage until items that were lost gets returned
+Despite being at half a heart, [[iBattus]] refused to surrender. [[shihaam_me]] declined to intervene, abandoning his fellow admin to his fate. In a desperate move, [[iBattus]] logged in on an alternative account to rescue himself from captivity.
 
-[[iBattus]] refuses to meet with the demands even at half a heart
-[[shihaam_me]] refuses to save [[iBattus]]
+When [[shihaam_me]] returned to confront [[WhoIsFishie]], the admin met another humiliating defeat - killed by thorns damage from [[WhoIsFishie]]'s armor.
 
-[[iBattus]] would get online on his alt account to go and save himself from the cage
+#### THE SURRENDER
 
-[[shihaam_me]] comes back to kill [[WhoIsFishie]] but dies to thorns damage
+A new vote demonstrated the revolution's success - 80% of players now supported compliance with [[WhoIsFishie]]'s demands. Only [[shihaam_me]] voted to exile the revolutionary leader.
 
-a new vote takes place
-80% voted to comply with [[WhoIsFishie]]'s demands
-[[shihaam_me]] voted to kick out [[WhoIsFishie]]
+After exhaustive negotiations, the admin finally capitulated, requesting that players provide the exact commands for their desired compensation items - a last show of administrative apathy.
 
-after hours of negotiation [[shihaam_me]] finally decides to comply
-[[shihaam_me]] requests that players give him the command for the items as he is too lazy to write the commands himself
-
-[[shihaam_me]] starts spamming [[WhoIsFishie]] with dirt
-
-[[TheHarryG]] tricks shihaam into running a command
+In a historic moment of manipulation, TheHarryG tricked shihaam_me into running a complex command:
 >/cli give TheHarryG chest{BlockEntityTag:{Items:[{Slot:0,id:totem_of_undying,Count:1},{Slot:1,id:emerald_block,Count:64},{Slot:2,id:trident,Count:1,tag:{Enchantments:[{id:unbreaking,lvl:3},{id:impaling,lvl:5},{id:riptide,lvl:3},{id:mending,lvl:1}]}},{Slot:3,id:netherite_block,Count:3},{Slot:4,id:ender_chest,Count:64},{Slot:5,id:diamond_block,Count:9},{Slot:6,id:iron_block,Count:64},{Slot:7,id:iron_block,Count:64},{Slot:8,id:golden_apple,Count:64},{Slot:9,id:gold_block,Count:64},{Slot:10,id:observer,Count:64},{Slot:11,id:piston,Count:64},{Slot:12,id:sticky_piston,Count:64},{Slot:13,id:black_shulker_box,Count:1},{Slot:14,id:totem_of_undying,Count:1}]}} 1
 
-[[iBattus]] unhappy with [[shihaam_me]] running a command without checking resigns from admin
+The execution of this command was the final straw for [[iBattus]], who immediately resigned from his administrative position.
 
-[[shihaam_me]] runs another command
+Not to be outdone, [[shihaam_me]] ran another command granting Fishie his own rewards:
 >/cli give WhoIsFishie chest{BlockEntityTag:{Items:[{Slot:0,id:emerald_block,Count:2},{Slot:1,id:gunpowder,Count:64},{Slot:2,id:golden_carrot,Count:64},{Slot:3,id:slime_ball,Count:32},{Slot:4,id:ghast_tear,Count:32},{Slot:5,id:diamond_chestplate,Count:2,tag:{Enchantments:[{id:protection,lvl:10},{id:thorns,lvl:5},{id:unbreaking,lvl:20},{id:mending,lvl:1}]}}]}} 2
 
 
@@ -350,25 +315,27 @@ after hours of negotiation [[shihaam_me]] finally decides to comply
 ## Admin Power Trip
 
 ![[power_trip.png]]
+_The message that heralded the most chaotic hour in SarCraft history_
 
-with the newly learned commands [[shihaam_me]] goes on a power trip
-[[WhoIsFishie]] and [[TheHarryG]] gets banned for sneaking into the end. while in the end [[WhoIsFishie]] and [[TheHarryG]] collects shulker boxes 
-the ban is revoked after a few mins
+What followed would become the most notorious hour in server history. Armed with newfound command knowledge, shihaam_me unleashed an unprecedented administrative rampage:
 
-[[shihaam_me]] starts flying around in creative and randomly giving other players creative
-[[shihaam_me]] starts smiting players 
-[[shihaam_me]] spawns a dragon into the world because he was bored
+- WhoIsFishie and TheHarryG were temporarily banned for entering the End to collect shulker boxes
+- Random players received creative mode privileges without warning
+- Lightning strikes smote players across the map
+- Most dramatically, an Ender Dragon was spawned into the overworld "because he was bored"
+
+For sixty minutes, anarchy reigned. The revolution had succeeded in its goal of compensation, but at what cost? The admin had transformed from a hands-off leader into a chaotic deity.
 
 ## Aftermath
-[[shihaam_me]] puts himself into survival after 1hr of power trip and decides to go live in a village far far away
-except he runs into [[WhoIsFishie]]'s hidden base
-[[WhoIsFishie]] unable to kill [[shihaam_me]] as it would leak his coords instructs [[shihaam_me]] to simply leave 
 
-once things finally calms down [[iBattus]] escapes his cage with the help of [[invisble715]]
+Eventually, [[shihaam_me]] returned to survival mode and retreated to a distant village - only to accidentally stumble upon [[WhoIsFishie]]'s hidden base. Unable to eliminate the admin without revealing his coordinates, [[WhoIsFishie]] was forced to ask [[shihaam_me]] to simply leave.
+
+Meanwhile, [[iBattus]] finally escaped his obsidian prison with [[invisble715]]'s assistance.
 ![[ibut escapes.jpg]]
 
 
-players are shocked to find that there is an extra enter dragon at spawn 
+The server's inhabitants soon discovered the most visible consequence of the admin's power trip - an Ender Dragon circling spawn. In a rare moment of unity, players gathered to defeat this unexpected threat.
+
 ![[dragon.jpg]]
 the players unite to kill the dragon 
 
@@ -380,48 +347,31 @@ the players unite to kill the dragon
 [[WhoIsFishie]] installs a auto chick farm that would randomly drop eggs all over [[iBattus]] base
 
 ## [[WhoIsFishie]] vs [[iBattus]]
-[[iBattus]] demands a 1v1 with [[WhoIsFishie]] so both players meetup at spawn to fight
 
-both players had hacked clients on at a this fight 
+Tensions between [[iBattus]] and [[WhoIsFishie]] culminated in a challenge - a one-on-one duel at spawn. Both players entered the arena with hacked clients activated.
 
-at the start of the fight [[iBattus]] would get jumpped by phantoms and [[WhoIsFishie]] would use this to his advantage and pop one of [[iBattus]] totams 
+The battle began catastrophically for [[iBattus]], who was immediately assaulted by phantoms while [[WhoIsFishie]] seized the advantage, eliminating one of [[iBattus]]'s totems. When [[Kuruzu_]] logged in to spectate, a paranoid [[iBattus]] attacked the observer, prompting retaliation with rocket launchers that sent the former admin fleeing.
 
-[[Kuruzu_]] would logon during the fight to spectate and [[iBattus]] would assume its suddenly a 2v1 and prematurely attack [[Kuruzu_]] this would result in [[Kuruzu_]] retaliating  with rocket launchers and [[iBattus]] would run away
+Throughout the fight, [[iBattus]]'s lack of hacking expertise proved disastrous - his auto-tool feature repeatedly sabotaged his combat effectiveness as he burned through multiple totems.
 
-not really knowing how to use hacks [[iBattus]] would have auto tool enabled which would work against his favor on multiple occasions
+After the duel, iBattus accused [[WhoIsFishie]] of taking no damage, unaware that his opponent was consuming golden apples for resistance effects.
 
-[[iBattus]] would pop multiple totams during this fight
-
-[[iBattus]] would later accuse [[WhoIsFishie]] of not taking any damage. but in reality [[WhoIsFishie]] was popping gapps so the resistance was making up for the health loss
-
-[[iBattus]] would run away after [[WhoIsFishie]] offered him apples
-
-there would be multiple other fights between [[iBattus]] and [[WhoIsFishie]] and it would always end with [[iBattus]] either running away or combat logging
-
+This would be the first of several confrontations, each ending with [[iBattus]] either retreating or combat logging.
 ## Wither on the lose
-[[WhoIsFishie]], [[Kuruzu_]] and [[flowerrthiccc]] would go to the mushroom island to spawn a bunch of withers which would get a bit out of control
-
-
-
+In yet another escalation, [[WhoIsFishie]], [[Kuruzu_]], and [[flowerrthiccc]] traveled to a mushroom island to unleash multiple withers. The situation rapidly spiraled beyond their control, adding another chapter to Season 5's legacy of chaos.
 ## Crystal pranks
-[[WhoIsFishie]] plants a Crystal infront of [[TheHamkerCat]] and tells him its his pet now
-[[TheHamkerCat]] falls for this atleast 4 times 
-[[WhoIsFishie]] then tries to sell a house to [[TheHamkerCat]]
 
+[[WhoIsFishie]] continued his campaign of mischief by repeatedly convincing [[TheHamkerCat]] that end crystals were harmless pets, leading to at least four explosive deaths. This torment was followed by yet another attempt to sell [[TheHamkerCat]] a "house."
 ## Ethics of farming
-[[WhoIsFishie]] fills [[flowerrthiccc]] house with chickens again and she kills them again claiming its unethical to breed that many chickens
 
-[[WhoIsFishie]] starts spamming chickens so that for every chicken that dies 2 more will take its place
-
+The server witnessed an unusual philosophical conflict when [[WhoIsFishie]] refilled [[flowerrthiccc]]'s house with chickens, only for her to eliminate them on ethical grounds. In response, [[WhoIsFishie]] implemented a chicken breeding system designed to replace each slain bird with two more - a poultry hydra that threatened to overwhelm the server.
 ## [[iBattus]] Lurking
-even after leaving the server [[iBattus]] can be seen lurking in the groupchat and arguing with players 
 
-after watching [[WhoIsFishie]]'s video [[iBattus]] accuses [[WhoIsFishie]] of hacking
-little did he know [[WhoIsFishie]] wasnt just hacking but also using a duplication exploit as well
+Despite officially leaving the server, [[iBattus]] remained a presence in the group chat, engaging in arguments with active players. After viewing [[WhoIsFishie]]'s gameplay footage, [[iBattus]] renewed accusations of hacking - unaware that his nemesis was not only using hacked clients but also exploiting duplication glitches.
 ## Egg
-[[Nathuf_Nazim]] raids the end and collects the egg before [[WhoIsFishie]] is able to
+In a rare defeat for [[WhoIsFishie]], [[Nathuf_Nazim]] managed to raid the End and claim the dragon egg before the infamous revolutionary could acquire it.
 
 ## End of the Season
-Season 5 didnt go out in a bang like previous season did
-over time players lost interest and one day the server just shut down
-it was a slow death with random server downtime that players didnt notice since no one was playing 
+Unlike previous seasons with their dramatic conclusions, Season 5 ended not with a bang but with a whimper. Player interest gradually waned, and the server experienced increasingly frequent downtimes that went unnoticed as fewer players logged in.
+
+One day, without ceremony or announcement, the server simply shut down - the final chapter in the most revolutionary season of SarCraft history.

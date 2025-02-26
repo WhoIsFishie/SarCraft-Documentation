@@ -4,72 +4,78 @@ tags:
   - vanilla
   - Hacks
 ---
+Code_Name : Post Classical Age : AI and Hacks
+
+In the long and storied history of SarCraft, few periods stand as notorious as what would later be known as the "Post-Classical Age" - **Season 2**. What began as a continuation of Season 1's peaceful existence would transform into a battleground of political intrigue, factional warfare, and perhaps the most egregious display of hacked clients in early SarCraft history.
+
 | Season  | 2       |
 | ------- | ------- |
 | Start   | 2020    |
 | Version | 1.14.4  |
 | Server  | vanilla |
 
-
-Code_Name : Post Classical Age : AI and Hacks
-
-Season 2 resumes where [[Season 1]] left off. 
-
-the [[Weebs]] faction falls in numbers and is left with only one player
-with not much admin activity players start hacking on the server 
-
-### New Players
+## New Players
 [[CatMDV]]
 [[Nausham]]
 [[ToadGod]]
 [[GurdhaanRamzee]]
 
-### Season History
+## The Remnants of a Peaceful Time
+
+Season 2 emerged from the ashes of [[Season 1]], inheriting a world where factions once lived in close proximity without bloodshed. The [[Weebs]] faction, once prosperous, found their numbers dwindling until only a single member remained to carry their banner. In this power vacuum, with [[shihaam_me]] largely absent from administrative duties, the seeds of chaos were planted.
+
+It was during this fragile peace that several new players would join - individuals whose names would soon be etched into SarCraft lore: [[CatMDV]], [[Nausham]], [[ToadGod]], and [[GurdhaanRamzee]]. Little did they know they were stepping into a world on the brink of factional warfare.
+## Season History
 
 #### First Dragon kill
-The [[Nazi]]'s hears chatter about [[Weebs]] plans to raid the end so this leads to the first ever SarCraft speed run 
+The first tremors of conflict began with whispers and rumors. The [[Nazi]] faction intercepted communications about the [[Weebs]]' plans to raid the End dimension and claim its resources. What followed was the first documented SarCraft speedrun - a race to be the first to defeat the Ender Dragon.
 
 ![[end raid.jpg]]
 
-Nazi's raid the end before the [[Weebs]] do and places signs in the end that would put ye to shame
+The [[Nazi]] faction, determined to deny their rivals this achievement, launched a preemptive strike. They stormed the End dimension, slaughtered the dragon, and in a display of dominance that would echo through server history, placed signs throughout the obsidian pillars with messages that, as the historian notes, "would put kanye tweets to shame."
+
+
 ![[egg.jpg]]
+
+*The Dragon Egg - SarCraft's ultimate trophy - now belonged to the [[Nazi]] faction, an undeniable symbol of their supremacy.*
+
 #### Blood is in the air
-tensions starts brewing between Nazi's and the [[Weebs]] and the final nail in the coffin was someone blowing up the bridge that connected Nazi base and [[Weebs]] base
 
-this was a Redstone trap that got triggered by one of the [[Nazi]] player's almost killing him
+As tensions simmered between the major powers, a single incident would ignite the flames of all-out warfare. A bridge connecting the [[Nazi]] base and the [[Weebs]] territory became the site of an unprecedented act of terrorism - a sophisticated redstone trap that nearly claimed the life of a prominent [[Nazi]] member.
 
-[[Nazi]]'s blame the [[Weebs]] for the trap while the [[Weebs]] blamed the [[Nazi]]'s
+Accusations flew like arrows. The [[Nazi]] faction immediately blamed the [[Weebs]], who vehemently denied responsibility. The mystery would deepen when the [[Holy Knights of the Templars|CHSE]] faction later claimed credit for the attack, revealing themselves as the third player in this deadly game of factional chess.
 
-[[Holy Knights of the Templars|CHSE]] later takes credit for the attack 
+Trust, the fragile foundation upon which server peace had been built, crumbled in an instant.
 
 #### War time prep
-with no more trust between factions Nazi's starts building up walls around their base to keep everyone out
+
+With diplomatic relations shattered, the [[Nazi]] faction began a period of militarization that would define Season 2's middle period. Massive walls rose around their compound, designed to keep all potential enemies at bay. Within this fortified position, a new [[SarCube]] was erected - not as a symbol of peaceful building, but as a monument to growing isolationism.
 
 > [!NOTE]
 > Read more about [[Nazi Wall]]
 
-another Sarcube is erected at the Nazi compound 
-
-during this period the [[Nazi]]'s made advancements in redstone technology to keep up with the CHSE kids. this included contracting Cat to build a iron farm as well as multiple test runs with TNT nukes 
+Inside their compound, the [[Nazi]] leadership contracted [[CatMDV]] to develop advanced iron farming techniques, seeking to outpace their technological rivals. But their most ominous advancement came in the form of TNT weaponry development - early prototype "nukes" designed to devastate enemy positions should full-scale war erupt.
 
 #### WAR
-[[Holy Knights of the Templars|CHSE]] rebrands to Holy Knights of the Templars and declares war on [[Nazi]]
+The [[Holy Knights of the Templars|CHSE]], sensing the changing winds, formally rebranded themselves as the "Holy Knights of the Templars" and in a bold move that shocked the server, officially declared war against the [[Nazi]] faction.
 
-> [!NOTE]
-> Read more about [[Holy Knights of the Templars#The Holy War]]
-
-
+> [!NOTE] For a full account of this conflict, see [[Holy Knights of the Templars#The Holy War]]
 #### Hitler gets over thrown
-with [[shihaam_me]] being inactive the leader of [[Nazi]] was in power of running the server and managing it. rest of the players on the server soon became fedup with [[Redacted]]'s rule and voted to over throw him
-other players in [[Nazi]] also voted to overthrow [[Redacted]]
 
-the leader in the revolution to overthrow [[Redacted]] was [[ToadGod]] as he was unhappy with the use of players hacking and diamonds not being used as a currency on the server 
+As factional conflict raged, a more insidious problem plagued the server. With [[shihaam_me]] absent, the [[Nazi]] leadership had effectively taken control of server operations. Their rule grew increasingly tyrannical, with hacked clients becoming commonplace and the diamond-based economy falling into ruin.
 
-thus killing Season 2
+From within the ranks of discontent rose an unlikely revolutionary - [[ToadGod]]. Disgusted by the proliferation of cheating and the economic devastation, he began a movement to overthrow the [[Nazi]] leadership. In a server-wide vote that would change the course of SarCraft history, players from all factions - even members of the [[Nazi]] faction itself - voted to depose [[Redacted]].
 
+The revolution had succeeded, but at a cost - Season 2 itself became a casualty of the political upheaval.
 
 #### Server Nuking 
-The server would have a celebratory ending where [[shihaam_me]] would give everyone OP perms and everyone flew around spawning in mobs such as ghasts withers and ender dragons to blow up all of the builds. this would be livestreamed on [[shihaam_me]]'s facebook account but the footage of it is now buried to protect the players from getting cancelled as there were very hateful names given to the withers such as 
->☠️ to all juice 
+
+Every SarCraft season must come to a close, but few have ended with the spectacular destruction that concluded Season 2. In what can only be described as digital armageddon, [[shihaam_me]] returned to grant all players operator permissions for one final celebration - or rather, annihilation.
+
+Players soared through the skies in creative flight, summoning monstrosities from the depths of Minecraft's code. Ghasts, Withers, and Ender Dragons laid waste to every structure on the server. The event, livestreamed on [[shihaam_me]]'s Facebook account, became infamous not just for its destruction but for the controversial names given to these agents of chaos.
 
 ![[season2 end.png]]
+
+When the dust settled and the servers finally went offline, Season 2 had been wiped from existence - but not from memory. Its legacy of factional warfare, technological advancement, and ultimately revolution would inform all SarCraft seasons to come, establishing patterns of behavior and conflict that would repeat throughout the server's turbulent history.
+
+As the smoke cleared, players could only wonder what new world would await them when the server inevitably returned for [[Season 3]].
