@@ -56,9 +56,9 @@ a telegram call takes place between players where the following players join
 - [[shihaam_me]]
 - [[Anoojfunaid]]
 - [[Buhkiru]]
-- [[Athfan]]
+- [[athphane]]
 
-during this call [[WhoIsFishie|Fishie]] would try to convice [[Athfan]] to join the side of ditching the telegram based auth plugin which is respoinsbile for [[Exploits#Identity Theft]]
+during this call [[WhoIsFishie|Fishie]] would try to convice [[athphane]] to join the side of ditching the telegram based auth plugin which is respoinsbile for [[Exploits#Identity Theft]]
 
 after alot of talks [[iBattus]] and [[shihaam_me]] would agree to switch to EasyAuth and [[WhoIsFishie|Fishie]] and [[iBattus]] would return back to a state of peace 
 
