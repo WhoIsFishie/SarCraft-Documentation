@@ -20,6 +20,7 @@ These players have consistently created exceptional builds
 - [[CatMDV|Cat]]
 - [[flowerrthiccc]]
 - [[StrawBwabii]]
+- [[Buhkiru]]
 
 ### Redstone Engineers
 Known for their complex Redstone contraptions and automation systems:
@@ -34,7 +35,7 @@ Players who have made significant contributions to server History:
 - [[flowerrthiccc]]
 - [[ToadGod]]
 - [[Redacted]]
-
+- [[TheHarryG]]
 
 ### Veteran Players
 Members who have been active for the longest:

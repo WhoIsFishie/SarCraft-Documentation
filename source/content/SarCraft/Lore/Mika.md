@@ -1,3 +1,7 @@
+---
+tags:
+  - Pet
+---
 ![[mika.jpeg]]   
 
 Mika is a real life cat that belonged to [[Anoojfunaid]] who would unfortunately pass away during [[Season 9]]. [[WhoIsFishie]] and [[Nausham]] would build a cat farm to spawn in a similar cat 

@@ -49,7 +49,18 @@ upon realizing that the poll was going in [[WhoIsFishie]]'s favor [[shihaam_me]]
 [^1]: the results are included in the following format [yes:no]
 
 
+#### February 22th - Peace is back
+a telegram call takes place between players where the following players join
+- [[iBattus]]
+- [[WhoIsFishie]]
+- [[shihaam_me]]
+- [[Anoojfunaid]]
+- [[Buhkiru]]
+- [[Athfan]]
 
+during this call [[WhoIsFishie|Fishie]] would try to convice [[Athfan]] to join the side of ditching the telegram based auth plugin which is respoinsbile for [[Exploits#Identity Theft]]
+
+after alot of talks [[iBattus]] and [[shihaam_me]] would agree to switch to EasyAuth and [[WhoIsFishie|Fishie]] and [[iBattus]] would return back to a state of peace 
 
 
 ## Mods and changes
