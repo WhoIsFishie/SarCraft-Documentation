@@ -2,4 +2,4 @@
 title: SarCraft
 ---
 ![[sarcraft_banner.png]]    
-[HomePage]([SarCraft](/SarCraft/))
+[HomePage](/SarCraft/)
