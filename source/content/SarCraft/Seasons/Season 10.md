@@ -3,11 +3,21 @@ tags:
   - modded
   - season
 ---
-| Season  | 10     |
-| ------- | ------ |
-| Start   | 2024   |
-| Version | 1.21.4 |
-| Server  | Fabric |
+Season 10 had alot of things going on in the background even before the launch. [[WhoIsFishie]] and [[iBattus]] makes a peace agreement before the start of the server.  gameplay changes were made to season 10 to artificially slow down player progress so that the season wont fall victim to the "2 week minecraft phase". in collaboration with [[iBattus]] [[WhoIsFishie|Fishie]] would write mods which would change gameplay mechanics
+
+## Fishie Mods
+- no mending
+- no ender eye
+- no diamond ore
+- no nether
+
+a test server would be created to test out all the mods and the auth plugin to see if the teleport bug is still there. issues would arise due to telegram auth plugin which causes teleportation bugs
+
+| Season  | 10             |
+| ------- | -------------- |
+| Start   | pending launch |
+| Version | 1.21.4         |
+| Server  | Fabric         |
 
 ## New players
 [[Klen]]
@@ -16,7 +26,7 @@ tags:
 ## Pre Launch
 #### February 4th - White Flag
 [[WhoIsFishie]] and [[iBattus]] comes to a peace agreement 
-![[Pasted image 20250212141506.png]]
+![[fishie_ibattus_peace_agreement_chatlog.png]]
 
 #### February 5th - A new start
 [[shihaam_me]] activates the group chat with a hello and forwards polls for suggested changes to the new season. these changes included the following
@@ -29,13 +39,15 @@ tags:
  - Disable Ender Chest [50:50]
  - Proximity voice Mod [80:20]
 
+[^1]: the results are included in the following format [yes:no]
+
 #### February 11th - Cracks in the wall
 [[WhoIsFishie]] suggests a more seamless auth plugin which [[iBattus]] and [[shihaam_me]] rejects. 
 after very little discussion [[shihaam_me]] is quoted saying
 > Who cares about what [[WhoIsFishie]] wants  
 
 which leads [[WhoIsFishie]] to make a poll to find out who cares about what [[WhoIsFishie]] wants
-![[Pasted image 20250212142709.png]]
+![[who cares what fishie wants poll results.png]]
 
 upon realizing that the poll was going in [[WhoIsFishie]]'s favor [[shihaam_me]] deletes all history of the chat involving the auth plugin discussion 
 
@@ -44,9 +56,7 @@ upon realizing that the poll was going in [[WhoIsFishie]]'s favor [[shihaam_me]]
 #### February 12th - Short Peace
 [[WhoIsFishie]] and [[iBattus]] continues to argue about auth plugin leading to an end to the truce agreement 
 
-![[Pasted image 20250212141730.png]]
-
-[^1]: the results are included in the following format [yes:no]
+![[fishie vs ibattus over auth plugin chat log.png]]
 
 
 #### February 22th - Peace is back
@@ -79,6 +89,9 @@ with diamonds removed some changes had to be made to balance out the game
 ### Graves mod
 to fix items despawning  a graves mod was added. other players are able to loot graves as well. graves would only store 10% of a players xp. 
 ### Pet mods
+
+changes brought to how pets behave
+
 #### Chested Companions
 this is a mod that allows you to put a chest on dogs which offers 9 slots   
 when a dog is killed it would drop all the items stored. these items are not saved by the grave mod

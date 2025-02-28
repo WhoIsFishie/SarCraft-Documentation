@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Chicken Insurance.md",
+                "file": "Seasons/Season 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chicken Insurance"
+              "title": "Season 5"
+            }
+          },
+          {
+            "id": "555e18fa0ae728bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seasons/Season 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Season 8"
             }
           }
         ]
@@ -94,17 +108,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/iBattus.md",
+                "file": "Seasons/Season 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for iBattus"
+              "title": "Backlinks for Season 5"
             }
           },
           {
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/iBattus.md",
+                "file": "Seasons/Season 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of iBattus"
+              "title": "Outline of Season 5"
             }
           },
           {
@@ -165,12 +179,12 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,30 +195,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc0e6f8de00ead54",
+  "active": "85a8619dd34e9f65",
   "lastOpenFiles": [
+    "Seasons/Season 8.md",
+    "Seasons/Season 5.md",
+    "Seasons/Season 9.md",
+    "Seasons/S8_images/screenshot of death msg saying fishie killed ibattus.png",
+    "Seasons/S8_images",
+    "Seasons/S8_images/Warden_standing_under_oath.png",
+    "Lore/Nazi Wall.md",
+    "Seasons/S10_images/fishie vs ibattus over auth plugin chat log.png",
+    "Seasons/S10_images/who cares what fishie wants poll results.png",
+    "Seasons/S10_images/fishie_ibattus_peace_agreement_chatlog.png",
+    "Players/player_images/ToadBlaze.png",
+    "Seasons/S5_images/ibattus_invis_selfie_ingame.jpg",
+    "Factions/The Alliance.md",
+    "Factions/The alliance.md",
     "Players/athphane.md",
     "Players/Athfan.md",
     "Fishie.md",
     "Seasons/Season 6.md",
-    "Seasons/Season 9.md",
     "Lore/Chicken Insurance.md",
     "Seasons/S9_images/Pasted image 20250226093024.png",
     "Seasons/S9_images/Pasted image 20250226092837.png",
     "Seasons/S9_images/fishie_ss.jpg",
-    "Seasons/S9_images/bassam_ss.jpg",
     "homepage.md",
-    "Seasons/S1_images/sarcraft_banner.png",
     "Lore/Insurance.md",
-    "Seasons/Season 5.md",
     "Seasons/index.md",
     "Seasons/S6_images/bassam_listen2whitegirl_music.mp4",
     "Seasons/S5_images/ibut_killfish.mp4",
-    "Seasons/S6_images/season_6_title_card.jpg",
-    "Seasons/S6_images/minecraft_title.png",
-    "Seasons/S6_images/minecraft_title (4).png",
-    "Seasons/S5_images/season_5_title_card.jpg",
-    "Seasons/S5_images/minecraft_title.png",
     "Factions/Fishie Land.md",
     "Seasons/S9_images/fish_land",
     "Players/Ssahan.md",
@@ -212,7 +231,6 @@
     "Seasons/S9_images/mika_lore",
     "Seasons/S9_images",
     "Players/iBattus.md",
-    "Seasons/Season 8.md",
     "Seasons/Season 7.md",
     "Players/Lko8919.md",
     "Players/Rylisted.md",
@@ -222,12 +240,7 @@
     "Players/index.md",
     "Seasons/Season 10.md",
     "Seasons/Season 3.md",
-    "Seasons/Season 4.md",
     "Seasons/S10_images",
-    "Seasons/S6_images",
-    "Seasons/S5_images",
-    "Seasons/Season 2.md",
-    "Seasons/Season 1.md",
-    "Seasons/Season 0.md"
+    "Seasons/S6_images"
   ]
 }

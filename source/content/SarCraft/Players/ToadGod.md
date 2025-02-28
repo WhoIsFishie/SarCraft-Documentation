@@ -1,3 +1,9 @@
+---
+aliases:
+  - ToadBlaze
+---
+![[ToadBlaze.png]]
+
 ## The People's Champion: SarCraft's Moral Compass
 
 In a server dominated by factional warfare, exploitation, and administrative abuse, ToadGod emerged as a rare voice of principle and fairness. Though his time on SarCraft was relatively brief compared to other legendary figures, his actions fundamentally altered the server's political landscape and established precedents that would echo through subsequent seasons.

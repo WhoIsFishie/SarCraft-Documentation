@@ -268,6 +268,11 @@ In true opportunistic fashion, [[WhoIsFishie]] attempted to capitalize on the di
 
 ## THE REVOLUTION
 
+
+> [!NOTE] Watch Full Revolution Arc
+> [Youtube](https://youtu.be/wFvl39LDiqg?si=lwNo5Dcb9x4PJm2B)
+
+
 As tensions reached a breaking point, [[TheHarryG]] and [[WhoIsFishie]] renewed demands for compensation. The admin created a poll to determine the server's stance - with 6 voting against compensation and 5 in favor.
 
 What proved especially inflammatory was [[iBattus]]'s decisive vote against compensation. As a fellow admin who had previously accused [[WhoIsFishie]] of hacking, his opposition was seen as a betrayal by the revolutionary faction. The server split into two opposing camps, with [[iBattus]] loudly proclaiming that compensation would be "unfair."
@@ -347,6 +352,11 @@ the players unite to kill the dragon
 [[WhoIsFishie]] installs a auto chick farm that would randomly drop eggs all over [[iBattus]] base
 
 ## [[WhoIsFishie]] vs [[iBattus]]
+
+
+> [!NOTE] Watch Full Fight
+> [Youtube](https://youtu.be/PlaMzSOT1Io?si=5c2bqX3nVRduoLWM)
+
 
 Tensions between [[iBattus]] and [[WhoIsFishie]] culminated in a challenge - a one-on-one duel at spawn. Both players entered the arena with hacked clients activated.
 
