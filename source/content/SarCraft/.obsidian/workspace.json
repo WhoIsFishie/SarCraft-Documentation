@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seasons/Season 5.md",
+                "file": "Lore/Red Wool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Season 5"
+              "title": "Red Wool"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seasons/Season 5.md",
+                "file": "Lore/Red Wool.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Season 5"
+              "title": "Outline of Red Wool"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "85a8619dd34e9f65",
   "lastOpenFiles": [
-    "Seasons/Season 8.md",
     "Seasons/Season 5.md",
+    "Lore/Red Wool.md",
+    "Seasons/Season 8.md",
     "Seasons/Season 9.md",
     "Seasons/S8_images/screenshot of death msg saying fishie killed ibattus.png",
     "Seasons/S8_images",
