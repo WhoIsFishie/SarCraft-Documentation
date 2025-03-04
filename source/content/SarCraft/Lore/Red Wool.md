@@ -5,7 +5,7 @@ tags:
 # The Bleeding World
 ## The Crimson Mystery
 
-In the darkest depths of [[Seasons/Season 10/index]], a terrifying discovery shook the SarCraft community to its core. Miners began reporting strange occurrences deep beneath the surface - random patches of blood-red wool embedded within solid stone, appearing where diamond ore should have been. As if the world itself was hemorrhaging, these crimson anomalies spread throughout the underground, witnessed by player after player who ventured into the mines.
+In the darkest depths of [[Season 10]], a terrifying discovery shook the SarCraft community to its core. Miners began reporting strange occurrences deep beneath the surface - random patches of blood-red wool embedded within solid stone, appearing where diamond ore should have been. As if the world itself was hemorrhaging, these crimson anomalies spread throughout the underground, witnessed by player after player who ventured into the mines.
 
 What began as isolated incidents quickly transformed into widespread panic as players documented dozens of these bleeding wounds scattered throughout the world. No region was spared from this crimson corruption.
 
