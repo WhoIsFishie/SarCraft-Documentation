@@ -3,6 +3,8 @@ aliases:
   - Pumkin715
   - invis
 ---
+![[pumkin715.png|300]]
+
 invis was first documented in [[Season 3]] who had set base at spawn. not much is known about his [[Spawn Mason]] activities 
 eye witnesses recounts events of "he had a house on the beach with a turtle sanctuary" in season 3
 

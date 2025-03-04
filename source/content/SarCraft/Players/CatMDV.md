@@ -2,6 +2,7 @@
 aliases:
   - Cat
 ---
+![[CatMDV.png|300]]
 # CatMDV: The Ancient Builder
 
 In the tumultuous history of SarCraft, few players have maintained such a consistent presence through the server's many ages as **CatMDV** - known simply as "Cat" to the countless players who have witnessed his architectural contributions across multiple seasons.

@@ -14,7 +14,7 @@ tags:
 [[Nausham]]
 [[Anoojfunaid]]
 [[StrawBwabii]]
-[[Klen]]
+[[Klen04]]
 
 A group founded by [[WhoIsFishie]] after discovering a Shulkabox duplication exploit that was used to duplicate a bunch of eggs. the groups was informally created back in [[Season 5]] but would later be formally registered
 

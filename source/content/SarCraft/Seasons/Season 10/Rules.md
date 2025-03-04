@@ -1,0 +1,2 @@
+No Hacking 
+No Griefing 

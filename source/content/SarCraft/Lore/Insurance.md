@@ -7,7 +7,7 @@ an insurance plan introduced by [[WhoIsFishie]] after server data loss
 > [!NOTE] Fishurance
 > [[Season 5#Fishurance | Read More]]
 
-## [[Season 10]]
+## [[Seasons/Season 10/index]]
 
 ### [[Chicken Insurance | The Chicken Factory Insurance]]
 an insurance plan introduced to protect builds and items

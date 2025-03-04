@@ -1,4 +1,4 @@
-![[Buhkiru.png]]
+![[Buhkiru.png|300]]
 
 # The Tactical Genius of SarCraft
 

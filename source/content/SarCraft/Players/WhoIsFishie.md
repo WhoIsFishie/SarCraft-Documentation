@@ -2,8 +2,7 @@
 aliases:
   - Fishie
 ---
-
-![[WhoIsFishie.png]]   
+![[WhoIsFishie.png|300]]   
 
 ### Season History
 #### Season 5

@@ -14,7 +14,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 **Notable Features**:
 - Custom Mods
 
-[[Season 10|View Season 10 Details →]]
+[[Seasons/Season 10/index|View Season 10 Details →]]
 
 ## Past Seasons
 

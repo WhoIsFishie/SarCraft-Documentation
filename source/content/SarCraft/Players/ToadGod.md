@@ -2,7 +2,7 @@
 aliases:
   - ToadBlaze
 ---
-![[ToadBlaze.png]]
+![[ToadBlaze.png|300]]
 
 ## The People's Champion: SarCraft's Moral Compass
 

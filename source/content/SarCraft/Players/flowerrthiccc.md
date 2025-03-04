@@ -1,3 +1,9 @@
+---
+aliases:
+  - Flowerr77
+---
+![[Flowerr77.png|300]]
+
 # flowerrthiccc: The Revolutionary Trader
 
 In the war-torn history of SarCraft, few players have undergone such a dramatic transformation as **flowerrthiccc** - a seemingly innocent builder whose journey from peaceful trader to core revolutionary would forever alter the server's power dynamics during the infamous [[Season 5|Age of Revolution]].

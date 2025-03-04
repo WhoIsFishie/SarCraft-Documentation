@@ -2,7 +2,7 @@
 tags:
   - Admin
 ---
-![[iBattus.png]]   
+![[iBattus.png|300]]   
 ## The Rise and Fall of SarCraft's Most Controversial Admin
 
 Few players in SarCraft history have experienced such dramatic shifts in fortune as **iBattus**. From community builder to disgraced administrator to vengeful warrior, his saga spans multiple seasons and encapsulates the chaos that defines SarCraft's unique culture.

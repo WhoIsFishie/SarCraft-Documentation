@@ -2,8 +2,7 @@
 tags:
   - Admin
 ---
-	
-![[shihaam_me.png]]   
+![[shihaam_me.png|300]]   
 
 # The Reluctant Admin of SarCraft
 

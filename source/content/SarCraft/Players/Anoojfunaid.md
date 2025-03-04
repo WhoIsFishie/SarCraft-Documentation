@@ -1,1 +1,1 @@
-![[Anoojfunaid.png]]  
+![[Anoojfunaid.png|300]]  

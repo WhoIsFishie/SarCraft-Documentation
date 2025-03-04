@@ -21,12 +21,13 @@ These players have consistently created exceptional builds
 - [[flowerrthiccc]]
 - [[StrawBwabii]]
 - [[Buhkiru]]
+- [[TheHarryG]]
 
 ### Redstone Engineers
 Known for their complex Redstone contraptions and automation systems:
 - [[CatMDV]]
 - [[Buhkiru]]
-
+- [[TheHarryG]]
 
 ### Community Leaders
 Players who have made significant contributions to server History:
