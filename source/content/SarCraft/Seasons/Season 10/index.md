@@ -8,11 +8,11 @@ title: Season 10
 ---
 In the continuing saga of SarCraft history, Season 10 stands as a testament to both reconciliation and innovation. Before the season's launch, a significant amount of behind-the-scenes preparation took place, including a momentous peace agreement between longtime rivals [[WhoIsFishie]] and [[iBattus]]. To prevent the infamous "2 week Minecraft phase" that had plagued previous seasons, gameplay changes were implemented to artificially slow player progression. [[WhoIsFishie|Fishie]], in collaboration with [[iBattus]], developed mods that would fundamentally alter gameplay mechanics.
 
-| Season  | 10             |
-| ------- | -------------- |
-| Start   | pending launch |
-| Version | 1.21.4         |
-| Server  | Fabric         |
+| Season  | 10               |
+| ------- | ---------------- |
+| Start   | February 28 2025 |
+| Version | 1.21.4           |
+| Server  | Fabric           |
 ## New Players
 
 - [[Klen04]]
@@ -20,6 +20,7 @@ In the continuing saga of SarCraft history, Season 10 stands as a testament to b
 - [[FrumpleX]]
 - [[hadhukeytha]]
 - [[Perhaps]]
+- [[Daisy]]
 
 ## Pre-Launch Developments
 
@@ -64,6 +65,7 @@ A pivotal Telegram call took place with key players:
 - [[athphane]]
 - [[FlameXode]]
 
+
 During this discussion, [[WhoIsFishie|Fishie]] attempted to convince [[athphane]] to support abandoning the Telegram-based authentication plugin responsible for the [[Exploits#Identity Theft]] vulnerability. After extensive negotiations, [[iBattus]] and [[shihaam_me]] agreed to switch to EasyAuth, and the peace between [[WhoIsFishie|Fishie]] and [[iBattus]] was restored.
 ## Mods and changes
 Season 10 started with a lot of pre planning due to collaboration from [[WhoIsFishie]] and [[iBattus]]   
@@ -101,3 +103,22 @@ In a daring display of early-game exploration, [[WhoIsFishie]] and [[Donut]] acc
 The expedition wasn't without its hurdles. Wandering dogs, treacherous terrain, and the sheer scale of the journey tested the explorers' resolve. Yet, [[WhoIsFishie]] and [[Donut]] persevered, successfully mapping over 80,000 blocks of terrain.
 
 ![[four_corners_monument.png]]
+
+
+
+
+### The Chicken Factory Infighting
+
+A tense chapter in SarCraft history unfolded when [[Perhaps]] crafted a legendary weapon - a god sword named after the infamous blade [[Anoojfunaid]] used to slay [[Ssahan]] during the brutal conflicts of [[Season 9]].
+
+What began as a simple naming ceremony spiraled into chaos when [[Nausham]], seeing an opportunity for mischief, attempted to kill [[Anoojfunaid]] with the very sword named in his honor, hoping the server would announce the weapon's prestigious name in the death message.
+
+Alert to the danger, [[Anoojfunaid]] quickly mounted his trusted steed Michelangelo, triggering a frantic chase across the landscape. For four intense minutes, hunter and hunted weaved through the terrain until [[Perhaps]] dramatically intervened - slaying both Michelangelo and [[Anoojfunaid]] in a shocking betrayal.
+
+Fueled by rage and seeking revenge, [[Anoojfunaid]] commandeered [[Buhkiru]]'s prized horse Juan and fled into the wilderness. His escape was short-lived, however, as he accidentally rode into a deep ravine, resulting in the tragic deaths of both himself and the innocent Juan.
+
+The server exploded with outrage at this series of misfortunes. Players mobilized against [[Anoojfunaid]], who responded by slaying Adhuray the endermite - a beloved server pet. This final act of defiance crossed an unspoken line, uniting the entire server in condemnation.
+
+As players closed in for vengeance, someone suggested a more civilized approach - a formal trial for [[Anoojfunaid]]'s crimes. Desperate for representation, [[Anoojfunaid]] approached [[Donut]] to serve as his legal counsel, only to be rebuffed when she declared her allegiance to the fallen Adhuray.
+
+In a last attempt, [[Anoojfunaid]] turned to [[Perhaps]] for legal representation, who took offense at not being the first choice for counsel. Surrounded by enemies and abandoned by potential allies, [[Anoojfunaid]] rage-quit the server, vowing never to return - adding his name to the long list of players whose SarCraft careers ended in infamous glory.

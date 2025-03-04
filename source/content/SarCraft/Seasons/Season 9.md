@@ -27,11 +27,11 @@ Veterans of previous seasons were skeptical - and rightfully so. For behind this
 ## Main Players
 
 
-| Fishie Land     | Bat         |
-| --------------- | ----------- |
-| [[WhoIsFishie]] | [[iBattus]] |
-| [[Nausham]]     | [[Ssahan]]  |
-| [[Anoojfunaid]] |             |   
+| Fishie Land     | [[The Alliance]] |     |
+| --------------- | ---------------- | --- |
+| [[WhoIsFishie]] | [[iBattus]]      |     |
+| [[Nausham]]     | [[Ssahan]]       |     |
+| [[Anoojfunaid]] |                  |     |
 
 The once-mighty [[Chicken Factory]] remained officially retired, with its most active members forming the new [[Fishie Land]] faction. Meanwhile, [[iBattus]], still bearing the psychological scars of humiliations from previous seasons, formed a smaller but determined alliance with newcomer [[Ssahan]] - a player whose skills would prove instrumental in the coming conflict.
 
