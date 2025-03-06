@@ -170,11 +170,11 @@ On the fifth day of Season 10, the server's delicate peace shattered. During a c
 When [[WhoIsFishie]] replied that they hadn't worked, [[FlameXode]] proceeded to demonstrate the correct exploitation technique. It turned out [[WhoIsFishie]] had only performed one of the two steps needed to trigger the command injection. When [[FlameXode]] executed the full exploit, the server granted everyone online two shulker shells - items that should have been impossible to obtain in the season's progression.
 
 Players online during the exploit included:
-- [[Ssahan]]
-- [[WhoIsFishie]]
-- [[iBattus]]
-- [[yeetuz]]
-- [[Alex]]
+- [[Ssahan]] - 4 shells
+- [[WhoIsFishie]] - 4 shells (burned)
+- [[iBattus]] - 2 shells 
+- [[yeetuz]] - 4 shells 
+- [[invisble715|Pumkin715]] - 2 shells
 
 [[WhoIsFishie]], broadcasting live to his audience, immediately destroyed his shells, declaring them "illegal contraband." The fate of the other shells remained uncertain, but suspicion fell heavily on [[WhoIsFishie]].
 
