@@ -1,3 +1,7 @@
+---
+tags:
+  - Faction
+---
 a group of players who rejects the idea of factions but fights together
 
 ## Members

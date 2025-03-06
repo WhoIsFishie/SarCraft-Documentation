@@ -1,5 +1,7 @@
 ---
 title: Players
+tags:
+  - hidden
 ---
 
 # SarCraft Players
@@ -46,24 +48,7 @@ Members who have been active for the longest:
 
 ## Player Statistics
 - Total Registered Players: 25+
-%% - Currently Active Players: 300+
-- Staff Members: 15
-- Master Builders: 25
-- Redstone Engineers: 20
-- Community Event Organizers: 10 %%
 
-%% ## Player Achievements
-- [[Hall of Fame]]
-- [[Building Competition Winners]]
-- [[Event Records]]
-- [[Community Contributors]] %%
-
-%% ## Player Resources
-- [[Rules and Guidelines]]
-- [[How to Become Staff]]
-- [[Building Tips and Tricks]]
-- [[Community Events Guide]]
-- [[Player Ranks Guide]] %%
 
 ## Factions
 - [[Chicken Factory]]

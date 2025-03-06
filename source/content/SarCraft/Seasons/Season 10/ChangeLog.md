@@ -1,5 +1,7 @@
 ---
 title: Season 10 Changelog
+tags:
+  - hidden
 ---
 # Season 10 ChangeLog
 

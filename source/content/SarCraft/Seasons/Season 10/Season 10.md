@@ -20,7 +20,12 @@ In the continuing saga of SarCraft history, Season 10 stands as a testament to b
 - [[FrumpleX]]
 - [[hadhukeytha]]
 - [[yeetuz]]
+- [[apple_idhaan]]
+- [[Alex]]
 - [[Perhaps]]
+- [[invisble715|Pumkin715]]
+- [[sillyxilly]]
+- [[PrincipleOf_AIS]]
 - [[Daisy]]
 
 ## Pre-Launch Developments
@@ -169,6 +174,7 @@ Players online during the exploit included:
 - [[WhoIsFishie]]
 - [[iBattus]]
 - [[yeetuz]]
+- [[Alex]]
 
 [[WhoIsFishie]], broadcasting live to his audience, immediately destroyed his shells, declaring them "illegal contraband." The fate of the other shells remained uncertain, but suspicion fell heavily on [[WhoIsFishie]].
 

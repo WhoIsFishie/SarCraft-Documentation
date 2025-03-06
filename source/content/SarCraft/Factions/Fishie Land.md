@@ -1,3 +1,7 @@
+---
+tags:
+  - Faction
+---
 
 Fishie land is an island that was next to spawn on [[Season 9]] of SarCraft
 

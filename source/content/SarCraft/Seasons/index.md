@@ -1,5 +1,7 @@
 ---
 title: Seasons
+tags:
+  - hidden
 ---
 
 # SarCraft Seasons

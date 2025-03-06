@@ -14,7 +14,9 @@ tags:
 [[Nausham]]
 [[Anoojfunaid]]
 [[StrawBwabii]]
+[[Donut]]
 [[Klen04]]
+[[Daisy]]
 
 A group founded by [[WhoIsFishie]] after discovering a Shulkabox duplication exploit that was used to duplicate a bunch of eggs. the groups was informally created back in [[Season 5]] but would later be formally registered
 
@@ -67,3 +69,7 @@ the chicken factory would host a exact copy of [[Season 6]] world on a private s
 this is a early footage of the trap being tested on the [[Chicken Factory#Shadow Server]] which would later be improved to kill a full netherite player in a few hits. the trap would later be build all around the base to kill anyone coming too close to the base
 
 the trap depended on lagging out a player in first person mode so hard that they cant move away in time 
+
+## Season 10
+
+seasons later the sleeping giant awakans 

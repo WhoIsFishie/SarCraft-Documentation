@@ -1,42 +1,28 @@
 {
-  "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "collapse-filter": true,
+  "search": "-tag:#hidden  -tag:#inactive ",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#Admin  ",
-      "color": {
-        "a": 1,
-        "rgb": 16749824
-      }
-    },
-    {
       "query": "tag:#season  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16741120
       }
     },
     {
       "query": "tag:#lore  ",
       "color": {
         "a": 1,
-        "rgb": 9367536
+        "rgb": 5073663
       }
     },
     {
       "query": "tag:#Faction  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#Nazi  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -44,15 +30,15 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.31223958333333,
-  "lineSizeMultiplier": 0.801822916666667,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 0.865625,
   "collapse-forces": false,
-  "centerStrength": 0.0494791666666667,
-  "repelStrength": 7.44791666666667,
-  "linkStrength": 0.184895833333333,
-  "linkDistance": 313,
-  "scale": 0.3924134707178242,
+  "centerStrength": 0.65625,
+  "repelStrength": 18.9583333333333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.38230109687699815,
   "close": false
 }

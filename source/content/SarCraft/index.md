@@ -1,5 +1,7 @@
 ---
 title: SarCraft
+tags:
+  - hidden
 ---
 
 # Welcome to the SarCraft Wiki
