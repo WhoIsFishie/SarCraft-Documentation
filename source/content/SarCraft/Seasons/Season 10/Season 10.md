@@ -27,18 +27,26 @@ In the continuing saga of SarCraft history, Season 10 stands as a testament to b
 
 ### February 4th - The White Flag
 
-After seasons of bitter rivalry, [[WhoIsFishie]] and [[iBattus]] reached a historic peace agreement, signaling a new era for the server. ![[fishie_ibattus_peace_agreement_chatlog.png]]
+On February 4th, 2025, the unthinkable happened. After years of bitter rivalry spanning multiple seasons, [[WhoIsFishie]] and [[iBattus]] – the server's most legendary antagonists – reached out across enemy lines to negotiate peace.
 
-### February 5th - Charting a New Course
+The server was stunned. Veterans who had witnessed the [[Season 5|Age of Revolution]], the [[Season 8|Fish Bundy Trials]], and the [[Season 9|Great War]] could scarcely believe these mortal enemies had finally buried the hatchet. The white flag had been raised, and for a brief, shining moment, peace seemed possible.
 
-[[shihaam_me]] reactivated the group chat and initiated polls for changes to the new season. The proposed modifications included:
+![[fishie_ibattus_peace_agreement_chatlog.png]]
 
-- Disable all villager trading [53:47]
-- Disable diamond ore spawning [60:40]
-- Disable Mending book [44:56]
-- World size 10k [73:27]
-- Disable Ender Chest [50:50]
-- Proximity voice Mod [80:20]
+### February 5th - The Modded Revolution
+
+With the historic peace agreement signed, attention turned to Season 10's ambitious technical overhaul. For the first time in server history, [[shihaam_me]] activated a suite of game-changing mods designed by the unlikely partnership of [[WhoIsFishie]] and [[iBattus]].
+
+The most controversial changes struck at the very heart of Minecraft progression:
+
+- **Diamond ore generation was completely removed** from the world
+- **Villager trading was disabled**, eliminating the age-old path to enchanted diamond gear
+- **The Nether dimension was sealed** for the first two weeks, preventing quick travel
+- **Ender eye crafting was disabled**, making the End dimension a distant dream
+
+These radical modifications weren't merely technical tweaks – they represented a fundamental rethinking of SarCraft's economy and power structure. No longer could players rush to diamond level, quickly gear up, and dominate the server. Instead, they would need to explore dungeons, raid structures, and actually engage with the dangerous world around them.
+
+"_The two-week Minecraft phase is dead,_" [[WhoIsFishie]] declared, referencing the server's historical tendency to burn bright but brief. "_Season 10 is built to last._"
 
 ### February 11th - Cracks in the Foundation
 
@@ -129,58 +137,56 @@ In a last attempt, [[Anoojfunaid]] turned to [[Perhaps]] for legal representatio
 
 
 ### Server Backdoor
-on day 4 of the server members of [[Chicken Factory]] were bored and decided to mess with the Telegram plugin on the server. this is the same plugin written by [[Udit]] 
+On day 4 of the server, members of the [[Chicken Factory]] found themselves growing restless. With time on their hands and mischief in mind, they turned their attention to the Telegram plugin running on the server - the same authentication system written by [[Udit]] that had been a source of exploits in previous seasons.
 
-[[WhoIsFishie]] and [[Buhkiru]] would keep on trying different injection methods to see if they can inject commands
+[[WhoIsFishie]] and [[Buhkiru]] began methodically testing different injection methods, probing for weaknesses in the system's defenses. Their attempts were persistent but ultimately unsuccessful - the exact formula for command injection remained elusive.
 
-after a while they would get bored of it but [[FlameXode]] took notice of this 
+After numerous failed attempts, they eventually grew bored and moved on to other pursuits. But their experimentation hadn't gone unnoticed. [[FlameXode]], silently observing their efforts, took mental notes of their approach. Unlike his compatriots, he didn't abandon the pursuit - he merely waited for the right moment.
 
 ### Race To Ender Chest
-with ender eyes disabled chicken factory had to get creative with how they were gonna obtain ender chests to store their loot
-
-[[WhoIsFishie]] checks over the [Dungeons and Taverns]([Dungeons and Taverns - Minecraft Data Pack](https://modrinth.com/datapack/dungeons-and-taverns))  structures to find that ender chests would spawn inside ruined jungle temple structures 
 
 ![[echest_in_temple.jpg]]
 
-as soon as the [[Chicken Factory]] was made aware of this news players would split into 4 corners of the world to locate the rare ender chests. before heading out [[Buhkiru]] would give all players a silk touch pickaxe 
+With diamond ore disabled and traditional progression paths blocked, Season 10's economy evolved around an entirely new form of wealth – jungle temple ender chests. The [[Chicken Factory]] mobilized its members in an unprecedented treasure hunt spanning the entire world.
 
-- [[Perhaps]] would locate the first ender chest on the south west corner of the map 
-- [[Buhkiru]] would locate the second ender chest on the northern side of the map that [[WhoIsFishie|Fishie]] barely missed on his trip to the northern border
+The race was on:
 
-with the ender chest secured [[WhoIsFishie|Fishie]] would ask [[Ssahan]] to come to spawn so that he can go and flex on him
+- [[Perhaps]] claimed the first victory, locating an ender chest in the southwestern corner
+- [[Buhkiru]] secured the second prize on the northern frontier – a structure [[WhoIsFishie]] had narrowly missed during the Four Corners Expedition
 
-things would go bad as [[WhoIsFishie|Fishie]] also had purple concrete in his hotbar which [[Ssahan]] would see as [[WhoIsFishie|Fishie]] was scrolling through his inventory and incorrectly assume its a shulker box 
+With these precious resources secured, [[WhoIsFishie]] couldn't resist flaunting his faction's achievement. He summoned [[Ssahan]] to spawn, intending to display the coveted ender chest and cement the [[Chicken Factory]]'s dominance.
 
-### Day of the exploit
+But the display of power backfired spectacularly. While scrolling through his hotbar, [[WhoIsFishie]] revealed a stack of purple concrete that [[Ssahan]] mistook for a shulker box – an impossible item under Season 10's restrictions. Accusations of cheating immediately flooded server chat, reopening old wounds between rival factions.
 
-day 5
+### The Telegram Exploit and Administrative Crisis
 
-[[WhoIsFishie]] would go live on tiktok streaming SarCraft and [[FlameXode]] would join the chat to ask if she exploit worked. [[WhoIsFishie|Fishie]] would say it didnt and [[FlameXode]] would then demonstrate the correct way to do the exploit. turns out [[WhoIsFishie|Fishie]] only did one of the 2 steps needed to trigger the command
+On the fifth day of Season 10, the server's delicate peace shattered. During a casual TikTok livestream by [[WhoIsFishie]], [[FlameXode]] joined the chat and asked if his earlier attempts at exploiting the Telegram integration had been successful.
 
-as soon as [[FlameXode]] replied to his own command msg it gave everyone on the server 2 shulker shells
+When [[WhoIsFishie]] replied that they hadn't worked, [[FlameXode]] proceeded to demonstrate the correct exploitation technique. It turned out [[WhoIsFishie]] had only performed one of the two steps needed to trigger the command injection. When [[FlameXode]] executed the full exploit, the server granted everyone online two shulker shells - items that should have been impossible to obtain in the season's progression.
 
-Players active at the time of exploit
+Players online during the exploit included:
 - [[Ssahan]]
 - [[WhoIsFishie]]
 - [[iBattus]]
 - [[yeetuz]]
 
-[[WhoIsFishie]] would burn his shells on live as the items are considered illegal. its unclear what the other users did with their shells
+[[WhoIsFishie]], broadcasting live to his audience, immediately destroyed his shells, declaring them "illegal contraband." The fate of the other shells remained uncertain, but suspicion fell heavily on [[WhoIsFishie]].
 
-with a exploit being widely known and [[Ssahan]] suspecting [[WhoIsFishie]]. [[iBattus]] finally had enough cause to go after [[WhoIsFishie]].
-
-[[iBattus]] would use admin powers to check [[WhoIsFishie]]'s ender chest
+[[iBattus]], reinstated as an administrator for Season 10, seized the opportunity. Using his elevated permissions, he inspected [[WhoIsFishie]]'s ender chest, discovering what appeared to be an illegitimate shulker box.
 
 ![[fishie_echest.jpg]]
 
-this would get posted in the SarCraft group chat as evidence of [[WhoIsFishie]] cheating. 
+The evidence was posted in the SarCraft group chat, seemingly confirming [[WhoIsFishie]]'s guilt. Yet [[WhoIsFishie]] vehemently denied the accusations, claiming [[iBattus]] had planted the evidence to frame him and validate [[Ssahan]]'s earlier suspicions.
 
-[[WhoIsFishie]] would accuse [[iBattus]] of framing him by placing the shulker box there as he dont want to admit that [[Ssahan]] was wrong 
+"_If I owned a shulker box, it would be red,_" [[WhoIsFishie]] insisted, referencing his well-documented preference for the color. [[shihaam_me]], in a rare moment of intervention, confirmed this quirk of [[WhoIsFishie]]'s character.
 
-[[WhoIsFishie]] is also said if he owned a shulker box it would be red.  [[shihaam_me]] would agree with this statement knowing that [[WhoIsFishie|Fishie]] loves the color red
+The controversy escalated further when [[WhoIsFishie]] accused [[iBattus]] of administrative abuse, inspecting his ender chest without proper authorization or a server court order.
 
-[[WhoIsFishie]] would also accuse [[iBattus]] of admin abuse as he checked [[WhoIsFishie]]'s ender chest without a court order
+In the chaos that followed, [[shihaam_me]] disabled Minecraft message forwarding to the Telegram group, preventing further exploitation of the vulnerability. Later that night, the server went offline as [[FlameXode]] attempted to deploy an emergency patch to fix the [[Exploits#Telegram Command Injection|Telegram Command Injection]] exploit once and for all.
 
-ultimately nothing would happen and everyone would clown on [[iBattus]]. the server would then disable Minecraft msgs being shown in the telegram group chat as to prevent users from using the [[Exploits#Telegram Command Injection]]. 
+The first week of Season 10 had delivered more drama, betrayal, and technical chaos than some entire seasons before it. And this was just the beginning. 
 
-later that night server would go down as [[FlameXode]] tried to push an update to patch out the exploit 
+
+
+
+> [!NOTE] For a complete list of Season 10 modifications and changes, see [[ChangeLog]]
