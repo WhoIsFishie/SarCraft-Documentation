@@ -19,6 +19,7 @@ In the continuing saga of SarCraft history, Season 10 stands as a testament to b
 - [[Donut]]
 - [[FrumpleX]]
 - [[hadhukeytha]]
+- [[yeetuz]]
 - [[Perhaps]]
 - [[Daisy]]
 
@@ -67,6 +68,8 @@ A pivotal Telegram call took place with key players:
 
 
 During this discussion, [[WhoIsFishie|Fishie]] attempted to convince [[athphane]] to support abandoning the Telegram-based authentication plugin responsible for the [[Exploits#Identity Theft]] vulnerability. After extensive negotiations, [[iBattus]] and [[shihaam_me]] agreed to switch to EasyAuth, and the peace between [[WhoIsFishie|Fishie]] and [[iBattus]] was restored.
+
+[[iBattus]] would also return as an admin for this season
 ## Mods and changes
 Season 10 started with a lot of pre planning due to collaboration from [[WhoIsFishie]] and [[iBattus]]   
 
@@ -122,3 +125,62 @@ The server exploded with outrage at this series of misfortunes. Players mobilize
 As players closed in for vengeance, someone suggested a more civilized approach - a formal trial for [[Anoojfunaid]]'s crimes. Desperate for representation, [[Anoojfunaid]] approached [[Donut]] to serve as his legal counsel, only to be rebuffed when she declared her allegiance to the fallen Adhuray.
 
 In a last attempt, [[Anoojfunaid]] turned to [[Perhaps]] for legal representation, who took offense at not being the first choice for counsel. Surrounded by enemies and abandoned by potential allies, [[Anoojfunaid]] rage-quit the server, vowing never to return - adding his name to the long list of players whose SarCraft careers ended in infamous glory.
+
+
+
+### Server Backdoor
+on day 4 of the server members of [[Chicken Factory]] were bored and decided to mess with the Telegram plugin on the server. this is the same plugin written by [[Udit]] 
+
+[[WhoIsFishie]] and [[Buhkiru]] would keep on trying different injection methods to see if they can inject commands
+
+after a while they would get bored of it but [[FlameXode]] took notice of this 
+
+### Race To Ender Chest
+with ender eyes disabled chicken factory had to get creative with how they were gonna obtain ender chests to store their loot
+
+[[WhoIsFishie]] checks over the [Dungeons and Taverns]([Dungeons and Taverns - Minecraft Data Pack](https://modrinth.com/datapack/dungeons-and-taverns))  structures to find that ender chests would spawn inside ruined jungle temple structures 
+
+![[echest_in_temple.jpg]]
+
+as soon as the [[Chicken Factory]] was made aware of this news players would split into 4 corners of the world to locate the rare ender chests. before heading out [[Buhkiru]] would give all players a silk touch pickaxe 
+
+- [[Perhaps]] would locate the first ender chest on the south west corner of the map 
+- [[Buhkiru]] would locate the second ender chest on the northern side of the map that [[WhoIsFishie|Fishie]] barely missed on his trip to the northern border
+
+with the ender chest secured [[WhoIsFishie|Fishie]] would ask [[Ssahan]] to come to spawn so that he can go and flex on him
+
+things would go bad as [[WhoIsFishie|Fishie]] also had purple concrete in his hotbar which [[Ssahan]] would see as [[WhoIsFishie|Fishie]] was scrolling through his inventory and incorrectly assume its a shulker box 
+
+### Day of the exploit
+
+day 5
+
+[[WhoIsFishie]] would go live on tiktok streaming SarCraft and [[FlameXode]] would join the chat to ask if she exploit worked. [[WhoIsFishie|Fishie]] would say it didnt and [[FlameXode]] would then demonstrate the correct way to do the exploit. turns out [[WhoIsFishie|Fishie]] only did one of the 2 steps needed to trigger the command
+
+as soon as [[FlameXode]] replied to his own command msg it gave everyone on the server 2 shulker shells
+
+Players active at the time of exploit
+- [[Ssahan]]
+- [[WhoIsFishie]]
+- [[iBattus]]
+- [[yeetuz]]
+
+[[WhoIsFishie]] would burn his shells on live as the items are considered illegal. its unclear what the other users did with their shells
+
+with a exploit being widely known and [[Ssahan]] suspecting [[WhoIsFishie]]. [[iBattus]] finally had enough cause to go after [[WhoIsFishie]].
+
+[[iBattus]] would use admin powers to check [[WhoIsFishie]]'s ender chest
+
+![[fishie_echest.jpg]]
+
+this would get posted in the SarCraft group chat as evidence of [[WhoIsFishie]] cheating. 
+
+[[WhoIsFishie]] would accuse [[iBattus]] of framing him by placing the shulker box there as he dont want to admit that [[Ssahan]] was wrong 
+
+[[WhoIsFishie]] is also said if he owned a shulker box it would be red.  [[shihaam_me]] would agree with this statement knowing that [[WhoIsFishie|Fishie]] loves the color red
+
+[[WhoIsFishie]] would also accuse [[iBattus]] of admin abuse as he checked [[WhoIsFishie]]'s ender chest without a court order
+
+ultimately nothing would happen and everyone would clown on [[iBattus]]. the server would then disable Minecraft msgs being shown in the telegram group chat as to prevent users from using the [[Exploits#Telegram Command Injection]]. 
+
+later that night server would go down as [[FlameXode]] tried to push an update to patch out the exploit 

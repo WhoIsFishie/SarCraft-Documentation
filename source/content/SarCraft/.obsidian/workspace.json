@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85a8619dd34e9f65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Red Wool.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Red Wool"
-            }
-          },
-          {
             "id": "555e18fa0ae728bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seasons/Season 8.md",
+                "file": "Seasons/Season 10/Season 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Season 8"
+              "title": "Season 10"
             }
           }
         ]
@@ -156,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Red Wool.md",
+                "file": "Seasons/Season 10/Season 10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Red Wool"
+              "title": "Outline of Season 10"
             }
           },
           {
@@ -195,10 +181,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc0e6f8de00ead54",
+  "active": "555e18fa0ae728bb",
   "lastOpenFiles": [
+    "Seasons/S10_images/fishie_echest.jpg",
+    "Players/yeetuz.md",
     "Seasons/Season 10/Season 10.md",
     "Seasons/Season 10/Rules.md",
+    "Seasons/Season 10/ChangeLog.md",
+    "Lore/Exploits.md",
+    "Players/Udit.md",
+    "Seasons/Season 8.md",
+    "Players/iBattus.md",
+    "Seasons/S10_images/echest_in_temple.jpg",
+    "Lore/Red Wool.md",
     "Players/Perhaps.md",
     "Players/Klen04.md",
     "Players/player_images/CatMDV.png",
@@ -210,15 +205,11 @@
     "Players/player_images/athphane.png",
     "Players/player_images/Perhaps.png",
     "Players/player_images/Donut.png",
-    "Players/player_images/Flowerr77.png",
-    "Seasons/Season 10/ChangeLog.md",
     "Seasons/Season 10/index.md",
     "Seasons/Season 10",
     "Players/FrumpleX.md",
     "Players/Donut.md",
     "Seasons/Season 5.md",
-    "Lore/Red Wool.md",
-    "Seasons/Season 8.md",
     "Seasons/Season 9.md",
     "Seasons/S8_images",
     "Lore/Nazi Wall.md",
@@ -230,14 +221,9 @@
     "Seasons/Season 6.md",
     "Lore/Chicken Insurance.md",
     "homepage.md",
-    "Lore/Insurance.md",
-    "Seasons/index.md",
     "Seasons/S6_images/bassam_listen2whitegirl_music.mp4",
     "Seasons/S5_images/ibut_killfish.mp4",
-    "Factions/Fishie Land.md",
     "Seasons/S9_images/fish_land",
-    "Players/Ssahan.md",
-    "Lore/Mika.md",
     "Seasons/S9_images/mika_lore",
     "Seasons/S9_images",
     "Seasons/S6_images/balls_buster3000.mp4",
