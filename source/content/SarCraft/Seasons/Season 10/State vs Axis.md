@@ -6,28 +6,33 @@ a court case taking place after the ban of [[WhoIsFishie]], [[Anoojfunaid]] and 
 
 [floating.log.txt](https://t.me/c/2251060085/2)    
 [floating.png](https://t.me/c/2251060085/29)     
-[nothacking](https://t.me/c/2251060085/30)
+[nothacking](https://t.me/c/2251060085/30)     
+
 remarks : Perhaps flying logs
 submitted by [[shihaam_me]]
 
 #### Exhibit B
 
 [Recording of Anooj](https://t.me/c/2251060085/3)
+
 submitted by [[shihaam_me]]
 
 #### Exhibit C
 
 [givenitems.txt](https://t.me/c/2251060085/5)
+
 submitted by [[shihaam_me]]
 
 #### Exhibit D
 
 [ibattus encouraging exploiting](https://t.me/c/2251060085/6)
+
 submitted by [[WhoIsFishie]]
 
 #### Exhibit E
 
 [screenshot uploaded by shihaam provided by ibattus of whoisfishie's echest](https://t.me/c/2251060085/7)
+
 submitted by [[WhoIsFishie]]
 
 #### Exhibit E
@@ -44,6 +49,7 @@ submitted by [[WhoIsFishie]]
 #### Exhibit F
 
 [telegram chatlog of FlameXode executing commands](https://t.me/c/2251060085/9)
+
 submitted by [[WhoIsFishie]]
 
 #### Exhibit G
@@ -58,13 +64,13 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 
 ```
 
-remarks : 
-first shulker shell spread
-players online
-Perhaps
-BuhKiru
-WhoIsFishie
-12OK
+remarks :    
+first shulker shell spread     
+players online     
+Perhaps    
+BuhKiru    
+WhoIsFishie   
+12OK    
 
 submitted by [[iBattus]]
 
@@ -81,7 +87,7 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 
 ```
 
-remarks : fishie made OP
+remarks : fishie made OP     
 submitted by [[iBattus]]
 
 
@@ -95,9 +101,9 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 
 ```
 
-remarks : 
-5th feb
-fishie gave himself shulker
+remarks :     
+5th feb      
+fishie gave himself shulker     
 
 submitted by [[iBattus]]
 
@@ -111,28 +117,31 @@ submitted by [[iBattus]]
 
 ```
 
-remarks : 
-5th feb
-perhaps weapon generated
-was run twice, so he has 2
+remarks :     
+5th feb     
+perhaps weapon generated    
+was run twice, so he has 2    
 
 submitted by [[iBattus]]
 
 #### Exhibit K
 
 `[13:24:37] [Server thread/INFO]: Gave 1 [Ender Chest] to Perhaps`
-remarks : perhaps enderchest was genereated too
+
+remarks : perhaps enderchest was genereated too      
 submitted by [[iBattus]]
 
 #### Exhibit L
 
 `[14:08:24] [Server thread/INFO]: Gave 64 [Ender Chest] to Perhaps`
-remarks : perhaps has infinit enderchest
+
+remarks : perhaps has infinit enderchest        
 submitted by [[iBattus]]
 
 #### Exhibit M
 
-`[14:12:20] [Server thread/INFO]: Gave 64 [Elder Guardian Spawn Egg] to Perhaps`
+`[14:12:20] [Server thread/INFO]: Gave 64 [Elder Guardian Spawn Egg] to Perhaps`      
+
 submitted by [[iBattus]]
 
 #### Exhibit N
@@ -146,12 +155,12 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 
 ```
 
-remarks : perhaps chestplate
+remarks : perhaps chestplate          
 submitted by [[iBattus]]
 
 #### Exhibit O
 
 `[18:54:52] [Server thread/INFO]: Gave 1 [Diamond Helmet] to Anoojfunaid`
 
-remarks : anoof super helmet
+remarks : anoof super helmet         
 submitted by [[iBattus]]
