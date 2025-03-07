@@ -144,7 +144,26 @@ In a last attempt, [[Anoojfunaid]] turned to [[Perhaps]] for legal representatio
 ### Server Backdoor
 On day 4 of the server, members of the [[Chicken Factory]] found themselves growing restless. With time on their hands and mischief in mind, they turned their attention to the Telegram plugin running on the server - the same authentication system written by [[Udit]] that had been a source of exploits in previous seasons.
 
+it all started when [[Buhkiru]] discovered that if there is an _ at the end of the chat msg it wont be shown in the telegram group chat
+
+this would lead to players testing different things on the chat to see if there are any exploits
+
+[[Anoojfunaid]] would find out that you can get the bot to mention players by putting an @ before their username 
+
 [[WhoIsFishie]] and [[Buhkiru]] began methodically testing different injection methods, probing for weaknesses in the system's defenses. Their attempts were persistent but ultimately unsuccessful - the exact formula for command injection remained elusive.
+
+a small break through would be made after [[WhoIsFishie]] goes therough the open source code for the plugin and notice a json escape weakness and run the following command 
+
+```
+Message","color":"white"}]
+say hello world
+```
+
+
+
+[[athphane]] would see the chat msgs and leave a ramark saying "bro tryna do the sql injection equivalent to minecraft"
+
+
 
 After numerous failed attempts, they eventually grew bored and moved on to other pursuits. But their experimentation hadn't gone unnoticed. [[FlameXode]], silently observing their efforts, took mental notes of their approach. Unlike his compatriots, he didn't abandon the pursuit - he merely waited for the right moment.
 
@@ -178,6 +197,9 @@ Players online during the exploit included:
 
 [[WhoIsFishie]], broadcasting live to his audience, immediately destroyed his shells, declaring them "illegal contraband." The fate of the other shells remained uncertain, but suspicion fell heavily on [[WhoIsFishie]].
 
+
+%% make correction it was [[shihaam_me]] who checked the enderchest %%
+
 [[iBattus]], reinstated as an administrator for Season 10, seized the opportunity. Using his elevated permissions, he inspected [[WhoIsFishie]]'s ender chest, discovering what appeared to be an illegitimate shulker box.
 
 ![[fishie_echest.jpg]]
@@ -191,6 +213,60 @@ The controversy escalated further when [[WhoIsFishie]] accused [[iBattus]] of ad
 In the chaos that followed, [[shihaam_me]] disabled Minecraft message forwarding to the Telegram group, preventing further exploitation of the vulnerability. Later that night, the server went offline as [[FlameXode]] attempted to deploy an emergency patch to fix the [[Exploits#Telegram Command Injection|Telegram Command Injection]] exploit once and for all.
 
 The first week of Season 10 had delivered more drama, betrayal, and technical chaos than some entire seasons before it. And this was just the beginning. 
+
+### The Audit
+
+Server would be down till night of day 6  
+and would return with the [[Udit]] plugin patched thus patching out any backdoors for the server. 
+
+auditing plugins would be installed to check player inventory and ender chests
+
+the following players would be questioned due to having items with mending 
+- [[BuhKiru]]
+- [[TheHarryG|12OK]]
+- [[WhoIsFishie]]
+- [[Anoojfunaid]]
+- [[Perhaps]]
+
+players would claim they got it through legal means
+
+[[iBattus]] would then question [[Anoojfunaid]] about the [[Exploits#Illegal Items#Hacked Helmet]]
+
+[[Anoojfunaid]], [[WhoIsFishie]] and [[Buhkiru]] would get on a call where [[WhoIsFishie]] tell [[Buhkiru]] about the helmet situation
+
+during this call [[WhoIsFishie]] and [[Anoojfunaid]] would forget to mute their mic so [[shihaam_me]] heard part of what was said 
+
+[[shihaam_me]] would over hear [[WhoIsFishie]] talking about hacks and incorrectly assume he was hacking 
+
+this would lead to players getting banned
+- [[WhoIsFishie]] : 1 count of hacking
+- [[Anoojfunaid]] : 1 count of illegal items
+
+[[Donut]] and [[TheHarryG|12OK]] would be appointed as lawyers for [[WhoIsFishie]] and [[Anoojfunaid]]
+the team would compile proof of [[WhoIsFishie]] not using clients as he was clean the entire season
+
+[[athphane]] would be the judge over seeing the case with [[shihaam_me]] and [[iBattus]] being the prosecutor 
+
+while this is happening [[shihaam_me]] and [[iBattus]] would go through server logs and discover even more sus things things leading to [[Perhaps]] getting banned for alleged flying and owning illegal items
+
+```
+Perhaps has Diamond Chestplate, Ender Chest, cokestone via cheat 
+he also seems to use a flying hack
+
+AnoojFunaid has Diamond Helmet via cheat
+```
+
+```
+diamond_swordcustom_name='["",{"text":"cokestone","italic":false}]',enchantments={levels:{fire_aspect:1000,knockback:1000,looting:1000,mending:1,sharpness:1000,unbreaking:1000,vanishing_curse:1}}
+```
+
+the [[Chicken Factory]] would submit a case against the state
+
+**Chicken Factory V The State** 
+
+1. one count of illegal search and seizure and abuse of administrative power for [[shihaam_me]]. 
+2. two counts of wiretapping for [[shihaam_me]]. 
+3. one count of negligence for both [[iBattus]] and [[shihaam_me]]
 
 
 

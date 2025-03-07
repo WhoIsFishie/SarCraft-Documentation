@@ -8,17 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "555e18fa0ae728bb",
+            "id": "e115381466264939",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Seasons/Season 10/State vs Axis.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "State vs Axis"
             }
           },
           {
-            "id": "e115381466264939",
+            "id": "a414acbc5d346113",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +35,7 @@
               "title": "Season 10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seasons/Season 10/Season 10.md",
+                "file": "Seasons/Season 10/State vs Axis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Season 10"
+              "title": "Outline of State vs Axis"
             }
           },
           {
@@ -181,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,6 +197,18 @@
   },
   "active": "e115381466264939",
   "lastOpenFiles": [
+    "Players/shihaam_me.md",
+    "Seasons/Season 10/State vs Axis.md",
+    "Lore/Exploits.md",
+    "Seasons/Season 10/Evidence/flyinglogs.md",
+    "Seasons/Season 10/Evidence",
+    "Seasons/Season 10/Season 10.md",
+    "Seasons/Season 8.md",
+    "Players/Buhkiru.md",
+    "Players/Azuwlaa.md",
+    "Players/athphane.md",
+    "Players/player_images/athphane.png",
+    "Players/Anoojfunaid.md",
     "Players/yeetuz.md",
     "Players/XcutionerX.md",
     "Players/WhoIsFishie.md",
@@ -205,22 +219,12 @@
     "Players/StrawBwabii.md",
     "Players/Ssahan.md",
     "Players/shinwo_o.md",
-    "Players/shihaam_me.md",
     "Players/Rylisted.md",
     "Players/Redacted.md",
     "Players/Pronez.md",
     "Players/Perhaps.md",
     "Players/Nausham.md",
     "Players/Nathuf_Nazim.md",
-    "Players/MikkoAgain.md",
-    "Players/Lko8919.md",
-    "Players/Kuruzu_.md",
-    "Players/Klen04.md",
-    "Players/invisble715.md",
-    "Players/index.md",
-    "Players/idhaan701.md",
-    "Players/iBattus.md",
-    "Players/GurdhaanRamzee.md",
     "Players/player_images/rqzq.png",
     "Seasons/S10_images/fishie_echest.jpg",
     "Seasons/S10_images/echest_in_temple.jpg",
@@ -229,7 +233,6 @@
     "Players/player_images/FlameXode.png",
     "Players/player_images/StrawBwabii.png",
     "Players/player_images/body.png",
-    "Players/player_images/athphane.png",
     "Players/player_images/Perhaps.png",
     "Seasons/Season 10",
     "Seasons/S8_images",
@@ -239,7 +242,6 @@
     "Seasons/S9_images/mika_lore",
     "Seasons/S9_images",
     "Seasons/S6_images/balls_buster3000.mp4",
-    "Players/player_images",
-    "Seasons/S10_images"
+    "Players/player_images"
   ]
 }
