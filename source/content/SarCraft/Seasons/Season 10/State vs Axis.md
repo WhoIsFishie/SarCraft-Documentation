@@ -36,7 +36,7 @@ submitted by [[shihaam_me]]
 
 [screenshot uploaded by shihaam provided by ibattus of whoisfishie's echest](https://t.me/c/2251060085/7)
 
-submitted by [[WhoIsFishie]]
+submitted by [[shihaam_me]]
 
 ---
 
@@ -318,7 +318,7 @@ submitted by [[WhoIsFishie]]
 
 #### Exhibit V - Fishie and Flame Footage
 
-pending upload
+[video](https://t.me/c/2251060085/43)
 
 remarks : 
 Footage of fishie showing to flame failed exploit attempts as well ass flame showing fishie how the exploit is done
