@@ -266,3 +266,19 @@ submitted by [[WhoIsFishie]]
 remarks : above is evidence/info from questioning
 
 submitted by [[iBattus]]
+
+#### Exhibit U
+
+![[admin_finds_hacked_helmet_beloning_to_anooj.jpg]]     
+
+submitted by [[iBattus]]
+
+#### Exhibit V
+
+pending upload
+
+remarks : 
+Footage of fishie showing to flame failed exploit attempts as well ass flame showing fishie how the exploit is done
+As well as flame giving fishie op
+
+submitted by [[WhoIsFishie]]
