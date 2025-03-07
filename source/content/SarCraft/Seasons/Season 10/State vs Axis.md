@@ -174,3 +174,95 @@ submitted by [[iBattus]]
 remarks : anoof super helmet         
 
 submitted by [[iBattus]]
+
+#### Exhibit P
+
+```
+TLDR
+
+2 non admin players found another player holding illegal item 
+
+The non admin player reported it to admin 
+
+The admin checked accused players inventory 
+
+The admin confirmed that player has illegal items 
+
+(Note server was down)
+
+Admins checked server logs and found several instances of illegal items being spawned 
+
+(Server back up)
+
+Admins checked all players inventory 
+
+Admins questioned about in telegram group chat 
+
+Players denied it
+
+ accused players logged in to server almost immediately 
+
+Admins spectated the player 
+
+Player had their mic on and admitted to things admin didn't know about 
+
+Players tried to hide the illegal items in chests 
+
+Players banned
+```
+
+[Telegram Link](https://t.me/c/2251060085/32)
+
+submitted by [[WhoIsFishie]]
+
+#### Exhibit Q
+
+```
+1. we found out about it when it was active 
+2. it was disabled as soon as we found 
+3. it was patched and updated as soon as we could 
+
+
+we is admins
+me, bassam, flame
+```
+
+[Telegram Link](https://t.me/c/2251060085/33)
+
+remarks by [[WhoIsFishie]] : shihaam declaring that flame is an admin
+
+remarks by [[shihaam_me]] : flame was server admin from the start
+
+submitted by [[WhoIsFishie]]
+
+
+#### Exhibit R
+
+```
+Recently, two of our regular players noticed something unusual - another player with items that aren't supposed to be in our gameplay. They thoughtfully brought this to our admin team's attention.
+
+While our server was temporarily offline, our admin team looked into the situation. After checking the player's inventory and reviewing server logs, we found several instances where unauthorized items had appeared.
+
+Once the server was back online, we did a routine inventory check of all players and opened a conversation in our Telegram group to understand what happened. Though the players in question initially didn't acknowledge the situation, they joined the server shortly after.
+
+During admin observation, we overheard some unintentional admissions through an open microphone, and noticed attempts to conceal the unauthorized items in storage containers.
+
+To maintain a fair and enjoyable environment for everyone, we made the difficult decision to issue bans to the players involved.
+
+We appreciate everyone's understanding and continued support in keeping our community fun and fair for all players!
+```
+
+announcement made and posted on the official SarCaft channel
+
+submitted by [[WhoIsFishie]]
+
+#### Exhibit S
+
+- [[iBattus]] : was the first time the time you run it on group?
+- [[FlameXode]] : first one I saw fishie run it
+- [[FlameXode]] : he quickly deleted it but I saw what he did
+- [[FlameXode]] : and then wrote my own command based on the one he wrote
+
+remarks : above is evidence/info from questioning
+
+submitted by [[iBattus]]
