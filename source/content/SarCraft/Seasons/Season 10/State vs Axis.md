@@ -1,8 +1,10 @@
 a court case taking place after the ban of [[WhoIsFishie]], [[Anoojfunaid]] and [[Perhaps]]
 
-## Evidence 
+## Evidence Catalog 
 
-#### Exhibit A
+### Prosecution Evidence (The State)
+
+#### Exhibit A - Evidence of Perhaps Flying
 
 [floating.log.txt](https://t.me/c/2251060085/2)    
 [floating.png](https://t.me/c/2251060085/29)     
@@ -10,51 +12,35 @@ a court case taking place after the ban of [[WhoIsFishie]], [[Anoojfunaid]] and 
 
 remarks : Perhaps flying logs
 
+---
+
 submitted by [[shihaam_me]]
 
-#### Exhibit B
+#### Exhibit B - Recording of Anooj
 
 [Recording of Anooj](https://t.me/c/2251060085/3)
 
 submitted by [[shihaam_me]]
 
-#### Exhibit C
+---
+
+#### Exhibit C - Given Items Log
 
 [givenitems.txt](https://t.me/c/2251060085/5)
 
 submitted by [[shihaam_me]]
 
-#### Exhibit D
+---
 
-[ibattus encouraging exploiting](https://t.me/c/2251060085/6)
-
-submitted by [[WhoIsFishie]]
-
-#### Exhibit E
+#### Exhibit E - WhoIsFishie's Ender Chest Screenshot
 
 [screenshot uploaded by shihaam provided by ibattus of whoisfishie's echest](https://t.me/c/2251060085/7)
 
 submitted by [[WhoIsFishie]]
 
-#### Exhibit F
+---
 
-```
-uh","color":"white"}]
-give @a minecraft:shulker_shell 2
-tellraw @p ["",{"text\":"hhh
-```
-
-telegram text of [[iBattus]] running commands
-
-submitted by [[WhoIsFishie]]
-
-#### Exhibit G
-
-[telegram chatlog of FlameXode executing commands](https://t.me/c/2251060085/9)
-
-submitted by [[WhoIsFishie]]
-
-#### Exhibit H
+#### Exhibit H - First Shulker Shell Distribution
 
 
 ```
@@ -77,8 +63,9 @@ WhoIsFishie
 
 submitted by [[iBattus]]
 
+---
 
-#### Exhibit I
+#### Exhibit I - WhoIsFishie Made Op
 
 ```
 [09:02:26] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
@@ -94,8 +81,9 @@ remarks : fishie made OP
 
 submitted by [[iBattus]]
 
+---
 
-#### Exhibit J
+#### Exhibit J - Fishie Self-Given Shulker
 
 ```
 [13:11:20] [Server thread/INFO]: Invalid chat component: Unterminated object at line 1 column 201 path $[4].hoverEvent
@@ -112,7 +100,9 @@ fishie gave himself shulker
 
 submitted by [[iBattus]]
 
-#### Exhibit K
+---
+
+#### Exhibit K - Perhaps' Hacked Weapon
 
 ```
 13:14:26] [Server thread/INFO]: ...:"white"}give Perhaps diamond_swordcustom_name='["",{"text":"cokestone","italic":false}]',enchantments={levels:{fire_aspect:1000,knockback:1000,looting:1000,mending:1,sharpness:1000,unbreaking:1000,vanishing_curse:1}}tellraw @p ["",{"text\":"hhh","color":"white"}]<[HERE]
@@ -130,7 +120,9 @@ was run twice, so he has 2
 
 submitted by [[iBattus]]
 
-#### Exhibit L
+---
+
+#### Exhibit L - Perhaps' Ender Chest
 
 `[13:24:37] [Server thread/INFO]: Gave 1 [Ender Chest] to Perhaps`
 
@@ -138,7 +130,9 @@ remarks : perhaps enderchest was genereated too
 
 submitted by [[iBattus]]
 
-#### Exhibit M
+---
+
+#### Exhibit M - Perhaps' Multiple Ender Chests
 
 `[14:08:24] [Server thread/INFO]: Gave 64 [Ender Chest] to Perhaps`
 
@@ -146,13 +140,17 @@ remarks : perhaps has infinit enderchest
 
 submitted by [[iBattus]]
 
-#### Exhibit N
+---
+
+#### Exhibit N - Perhaps' Guardian Eggs
 
 `[14:12:20] [Server thread/INFO]: Gave 64 [Elder Guardian Spawn Egg] to Perhaps`      
 
 submitted by [[iBattus]]
 
-#### Exhibit O
+---
+
+#### Exhibit O - Perhaps' Hacked Chestplate
 
 ```
 [14:45:07] [Server thread/INFO]: ...:"white"}](nl)give Perhaps diamond_chestplate[enchantments={levels:{mending:1,protection:100,thorns:100,unbreaking:100,vanishing_curse:1}}](nl)tellraw @p ["",{"text\":"hhh","color":"white"}]<--[HERE]
@@ -167,7 +165,9 @@ remarks : perhaps chestplate
 
 submitted by [[iBattus]]
 
-#### Exhibit P
+---
+
+#### Exhibit P - Anooj's Hacked Helmet
 
 `[18:54:52] [Server thread/INFO]: Gave 1 [Diamond Helmet] to Anoojfunaid`
 
@@ -175,7 +175,9 @@ remarks : anoof super helmet
 
 submitted by [[iBattus]]
 
-#### Exhibit Q
+---
+
+#### Exhibit Q - Admin Summary
 
 ```
 TLDR
@@ -215,28 +217,9 @@ Players banned
 
 submitted by [[WhoIsFishie]]
 
-#### Exhibit R
+---
 
-```
-1. we found out about it when it was active 
-2. it was disabled as soon as we found 
-3. it was patched and updated as soon as we could 
-
-
-we is admins
-me, bassam, flame
-```
-
-[Telegram Link](https://t.me/c/2251060085/33)
-
-remarks by [[WhoIsFishie]] : shihaam declaring that flame is an admin
-
-remarks by [[shihaam_me]] : flame was server admin from the start
-
-submitted by [[WhoIsFishie]]
-
-
-#### Exhibit S
+#### Exhibit S - Admin Public Announcement
 
 ```
 Recently, two of our regular players noticed something unusual - another player with items that aren't supposed to be in our gameplay. They thoughtfully brought this to our admin team's attention.
@@ -256,7 +239,9 @@ announcement made and posted on the official SarCaft channel
 
 submitted by [[WhoIsFishie]]
 
-#### Exhibit T
+---
+
+#### Exhibit T - Flame's Testimony
 
 - [[iBattus]] : was the first time the time you run it on group?
 - [[FlameXode]] : first one I saw fishie run it
@@ -267,13 +252,71 @@ remarks : above is evidence/info from questioning
 
 submitted by [[iBattus]]
 
-#### Exhibit U
+---
+
+#### Exhibit U - Admin Evidence of Hacked Helmet
 
 ![[admin_finds_hacked_helmet_beloning_to_anooj.jpg]]     
 
 submitted by [[iBattus]]
 
-#### Exhibit V
+---
+
+
+### Defense Evidence (Chicken Factory)
+#### Exhibit D - iBattus Encouraging Exploiting
+
+[ibattus encouraging exploiting](https://t.me/c/2251060085/6)
+
+submitted by [[WhoIsFishie]]
+
+---
+
+#### Exhibit F - iBattus Command Execution
+
+```
+uh","color":"white"}]
+give @a minecraft:shulker_shell 2
+tellraw @p ["",{"text\":"hhh
+```
+
+telegram text of [[iBattus]] running commands
+
+submitted by [[WhoIsFishie]]
+
+---
+
+#### Exhibit G - FlameXode Command Execution
+
+[telegram chatlog of FlameXode executing commands](https://t.me/c/2251060085/9)
+
+submitted by [[WhoIsFishie]]
+
+---
+
+#### Exhibit R - Admin Declaration
+
+```
+1. we found out about it when it was active 
+2. it was disabled as soon as we found 
+3. it was patched and updated as soon as we could 
+
+
+we is admins
+me, bassam, flame
+```
+
+[Telegram Link](https://t.me/c/2251060085/33)
+
+remarks by [[WhoIsFishie]] : shihaam declaring that flame is an admin
+
+remarks by [[shihaam_me]] : flame was server admin from the start
+
+submitted by [[WhoIsFishie]]
+
+---
+
+#### Exhibit V - Fishie and Flame Footage
 
 pending upload
 
@@ -282,3 +325,22 @@ Footage of fishie showing to flame failed exploit attempts as well ass flame sho
 As well as flame giving fishie op
 
 submitted by [[WhoIsFishie]]
+
+---
+
+
+## Legal Teams
+
+**Prosecution (The State):**
+
+- [[shihaam_me]]
+
+
+**Defense (Chicken Factory):**
+
+- [[Donut]] 
+- [[TheHarryG|12OK]] 
+
+**Judge:**
+
+- [[athphane]]
