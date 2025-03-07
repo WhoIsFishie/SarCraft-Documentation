@@ -42,6 +42,7 @@ uh","color":"white"}]
 give @a minecraft:shulker_shell 2
 tellraw @p ["",{"text\":"hhh
 ```
+
 telegram text of [[iBattus]] running commands
 
 submitted by [[WhoIsFishie]]
@@ -65,6 +66,7 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 ```
 
 remarks :    
+
 first shulker shell spread     
 players online     
 Perhaps    
@@ -88,6 +90,7 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 ```
 
 remarks : fishie made OP     
+
 submitted by [[iBattus]]
 
 
@@ -102,6 +105,7 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 ```
 
 remarks :     
+
 5th feb      
 fishie gave himself shulker     
 
@@ -118,6 +122,7 @@ submitted by [[iBattus]]
 ```
 
 remarks :     
+
 5th feb     
 perhaps weapon generated    
 was run twice, so he has 2    
@@ -129,6 +134,7 @@ submitted by [[iBattus]]
 `[13:24:37] [Server thread/INFO]: Gave 1 [Ender Chest] to Perhaps`
 
 remarks : perhaps enderchest was genereated too      
+
 submitted by [[iBattus]]
 
 #### Exhibit L
@@ -136,6 +142,7 @@ submitted by [[iBattus]]
 `[14:08:24] [Server thread/INFO]: Gave 64 [Ender Chest] to Perhaps`
 
 remarks : perhaps has infinit enderchest        
+
 submitted by [[iBattus]]
 
 #### Exhibit M
@@ -155,7 +162,8 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 
 ```
 
-remarks : perhaps chestplate          
+remarks : perhaps chestplate        
+
 submitted by [[iBattus]]
 
 #### Exhibit O
@@ -163,4 +171,5 @@ submitted by [[iBattus]]
 `[18:54:52] [Server thread/INFO]: Gave 1 [Diamond Helmet] to Anoojfunaid`
 
 remarks : anoof super helmet         
+
 submitted by [[iBattus]]
