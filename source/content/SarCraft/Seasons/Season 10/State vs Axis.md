@@ -3,34 +3,34 @@ tags:
   - court
   - lore
 ---
-a court case taking place after the ban of [[WhoIsFishie]], [[Anoojfunaid]] and [[Perhaps]]
+## The Landmark Trial of Season 10
+
+In the wake of a server-wide controversy involving the banning of [[WhoIsFishie]], [[Anoojfunaid]], and [[Perhaps]], a formal trial was convened to determine their guilt and appropriate punishments. This trial would become one of the most significant judicial proceedings in SarCraft history, revealing deep divisions between server administration and the powerful [[Chicken Factory]] faction.
 
 ## Legal Teams
 
 **Prosecution (The State):**
 
-- [[shihaam_me]]
-- [[iBattus]]
-
+- [[shihaam_me]] - Server Owner
+- [[iBattus]] - Administrator
 
 **Defense (Chicken Factory):**
 
-- [[Donut]] 
-- [[Buhkiru]] 
-- [[TheHarryG|12OK]] 
+- [[Donut]] - Lead Counsel for [[WhoIsFishie]]
+- [[Buhkiru]] - Counsel for [[Perhaps]] and [[Anoojfunaid]]
+- [[TheHarryG|12OK]] - Supporting Counsel
 
-**Judge:**
+**Presiding Judge:**
 
-- [[athphane]]
+- [[athphane]] - Renowned for his previous judicial role in the [[Season 8#The Trial of the Century|Fish Bundy Trials]]
 
-### Evidence Catalog
+> [!NOTE] For a complete list of evidence submitted by both sides, see [[Evidence Catalog]]
 
-  > [!NOTE] For a complete list of Evidence submitted, see [[Evidence Catalog]]
 
-## Verdicts
+## Charges and Trials
 
 ### [[WhoIsFishie]]'s Charges
-#### Shulker box Charges
+#### 1. Illegal Possession of Shulker Box
 on the ground of [[WhoIsFishie]] holding in a shulker box charge has been reduced to a simple possession charge as eye witness of the accounts is not concrete enough 
 
 **Eye witnesses
@@ -44,37 +44,39 @@ on the ground of [[WhoIsFishie]] holding in a shulker box charge has been reduce
 - eyewitness claims are thrown out of court
 - admins tampered with evidence by deleting the shulker found in [[WhoIsFishie]]'s ender chest
 
-#### [[WhoIsFishie]] OP Charges
+#### 2. Unauthorized Server Operator Status
 
-- [[Evidence Catalog#Exhibit I - WhoIsFishie Made Op]]
+**Evidence:** [[Evidence Catalog#Exhibit I - WhoIsFishie Made Op|Exhibit I]]
 
-[[Buhkiru]] would claim it was someone else who gave [[WhoIsFishie]] OP 
-[[WhoIsFishie]] claims he had no idea how he got admin
+**Key Exchanges:**
 
-op charges would be dropped and no punishment is given to [[WhoIsFishie]]
-#### [[WhoIsFishie]]'s Hacking charges
+> **[[Buhkiru]]:** "It was someone else who gave [[WhoIsFishie]] OP."
 
-the state would drop [[WhoIsFishie]]'s hacking charges 
+> **[[WhoIsFishie]]:** "I had no idea how I got admin."
+
+**Result:** OP charges dropped, no punishment given.
+#### 3. Use of Hacked Clients
+
+The state formally dropped these charges against [[WhoIsFishie]].
 ### [[Anoojfunaid]]'s Charges
 
-- [[Evidence Catalog#Exhibit P - Anooj's Hacked Helmet]]
-- [[Evidence Catalog#Exhibit B - Recording of Anooj]]
+#### 1. Possession of Illegal Items & Use of Exploits
 
+**Evidence:**
 
-**evidence 
-![[admin_finds_hacked_helmet_beloning_to_anooj.jpg]]
+- [[Evidence Catalog#Exhibit P - Anooj's Hacked Helmet|Exhibit P]]
+- [[Evidence Catalog#Exhibit B - Recording of Anooj|Exhibit B]]
+- [[Evidence Catalog#Exhibit U - Admin Evidence of Hacked Helmet|Exhibit U]]
 
-[[Anoojfunaid]] using hacks scripts and exploits, ownership of hacked helmet 
-[[Anoojfunaid]] admits to cheating charges
-[[Chicken Factory]] would go into recess to discuses a plea deal for [[Anoojfunaid]]
-[[TheHarryG|12OK]] would speak for [[Anoojfunaid]] and call him and idiot and admit to crimes [[Anoojfunaid]] committed but would forget to make a plea deal with the judge
+**[[Anoojfunaid]]** admitted to cheating charges, and [[Chicken Factory]] went into recess to discuss a plea deal.
 
-[[Chicken Factory]] would go into recess to discuses a plea deal for [[Anoojfunaid]] again
+Initially, [[TheHarryG|12OK]] bungled the defense:
 
-[[Buhkiru]] would come as the new judge for [[Anoojfunaid]]
+> **[[TheHarryG|12OK]]:** _[speaking for [[Anoojfunaid]]]_ "He's an idiot and admits to the crimes he committed." _[but forgets to make an actual plea deal with the judge]_
 
-statement by [[Buhkiru]]
->Your Honor, on behalf of my client, [[Anoojfunaid]], I would like to formally request a plea deal. My client recognizes the seriousness of the charges against him and understands the impact of his actions on the server community. However, we believe that a more lenient outcome would be in the best interest of justice, given the following points:
+After a second recess, [[Buhkiru]] presented a formal plea:
+
+> **[[Buhkiru]]:** Your Honor, on behalf of my client, [[Anoojfunaid]], I would like to formally request a plea deal. My client recognizes the seriousness of the charges against him and understands the impact of his actions on the server community. However, we believe that a more lenient outcome would be in the best interest of justice, given the following points:
 >
 >1. Lack of Malicious Intent: While [[Anoojfunaid]] did use the exploited items, it was done without malicious intent or an understanding of the full consequences. [[Anoojfunaid]] did not engage in the exploitation with the intention of disrupting gameplay or gaining unfair advantages. Rather, this was a misunderstanding of the situation, possibly due to unclear server rules or a lack of awareness regarding the hack.
 >
@@ -86,165 +88,177 @@ statement by [[Buhkiru]]
 >
 >Thank you, Your Honor, for considering this request.
 
-[[iBattus]] would accept the plea deal for the [[Evidence Catalog#Exhibit P - Anooj's Hacked Helmet]]
-
-[[Anoojfunaid]] would be given a 2 day ban in exchange of the return of the helmet.
-
-
+**Result:** [[iBattus]] accepted the plea deal, giving [[Anoojfunaid]] a 2-day ban in exchange for the return of the helmet.
 ### [[Perhaps]]'s charges
 
-- [[Evidence Catalog#Exhibit L - Perhaps' Ender Chest]]
-- [[Evidence Catalog#Exhibit K - Perhaps' Hacked Weapon]]
-- [[Evidence Catalog#Exhibit N - Perhaps' Guardian Eggs]]
-- [[Evidence Catalog#Exhibit M - Perhaps' Multiple Ender Chests]]
-- [[Evidence Catalog#Exhibit A - Evidence of Perhaps Flying]]
+#### 1. Flying Charges
 
-#### Hacked Weapon charges
+**Evidence:** [[Evidence Catalog#Exhibit A - Evidence of Perhaps Flying|Exhibit A]]
 
-[[Buhkiru]] would question [[iBattus]] about [[Evidence Catalog#Exhibit K - Perhaps' Hacked Weapon]]. 
+**Key Exchanges:**
 
-- [[Buhkiru]] : can you tell the court the date of this event.
-- [[iBattus]] : on the evidence i wrote **5th February**, carry on.
-- [[Buhkiru]] : **5th February**?
-- [[iBattus]] : yup. if you check the evidence you will see it. the evidence i provided will have the date
-- [[Buhkiru]] : can you repeat the data again. you said **5th February**?
-- [[iBattus]] : yeah. 
-- [[Buhkiru]] : your honor id like to say the server started on **28th February**. 
-- [[iBattus]] : no i didn't say February I said March. you can check the recordings. i said march
-- [[Buhkiru]] : i asked you if you said 5th February and you said yes. i confirmed with you.
-- [[iBattus]] : go and check the evidence i provided. please refer to the evidence and come back. you call yourself a lawyer?
-- [[shihaam_me]] : [[iBattus]] you said 5th February in the evidence locker
-- [[iBattus]] : check again i said march, check again
-- [[shihaam_me]] : I'm checking and it says February twice, i checked the logs and it is march but you said its February 
+> **[[Perhaps]]:** "It's not my fault that [[shihaam_me]] has a shitty server. I am barely moving right now and I got kicked out 21 times and now imagine me going on a boat."
 
-[[WhoIsFishie]] would take this opportunity to point out that [[iBattus]] is showing a pattern of mishandling evidence 
+> **[[Perhaps]]:** _[noting that server logs said he was "floating for too long" on a boat, not flying]_
 
-[[iBattus]] said he was fasting when he wrote the date that was submitted to evidence for the court case 
+> **[[iBattus]]:** "The logs do not mention he was caught flying in a boat. If a player is flying on a boat, it would say so in the logs."
 
-[[WhoIsFishie]] asks if he was fasting when he responded to [[Buhkiru]]'s questions 
+> **[[athphane]]:** "I also run my own Minecraft server. I also know that this particular line pertains to fly hacks. The argument for a vessel floating is not applicable because Minecraft console will clearly tell you if it's a boat or a horse. If the horse is named, it will also tell you what the name of the horse is as well, so yeah, guilty for flying."
 
-[[shihaam_me]] would link to [[Evidence Catalog#Exhibit K - Perhaps' Hacked Weapon]] showing it says 5th February 
+**Result:** [[Perhaps]] found guilty of flying. If caught again, a 4-day ban per play session would be applied.
 
-[[shihaam_me]] says even if the date is wrong he saw the items in [[Perhaps]]'s inventory. he would retract this statement right away 
+> **[[Perhaps]]:** "It's not fair."
 
-[[Buhkiru]] would request the charge be dismissed due to lack of evidence 
-[[athphane]] the judge would claim that the evidence is wrong 
-[[Perhaps]] claims this is a mistrial and he's innocent 
+> **[[Perhaps]]:** _[requests 6 diamonds every time the server lags for him]_
 
-#### Flying charges
+> **[[athphane]]:** _[rejects this request]_
 
-the court would move on to [[Evidence Catalog#Exhibit A - Evidence of Perhaps Flying]]
+#### 2. Illegal Items Charges
 
-[[Perhaps]] : its not my fault that [[shihaam_me]] has a shitty server. i am barely moving right now and i got kicked out 21 times and now imagine me going on a boat
+**Evidence:**
 
-[[Perhaps]] would also note that the server logs said that he was floating for too long on a boat and not that he was flying
+- [[Evidence Catalog#Exhibit L - Perhaps' Ender Chest|Exhibit L]]
+- [[Evidence Catalog#Exhibit N - Perhaps' Guardian Eggs|Exhibit N]]
+- [[Evidence Catalog#Exhibit M - Perhaps' Multiple Ender Chests|Exhibit M]]
+- [[Evidence Catalog#Exhibit K - Perhaps' Hacked Weapon|Exhibit K]]
 
-[[iBattus]] would note that [[Perhaps]] logs does not mention that he was caught flying in a boat. if a player is flying on a boat it would say so in the logs
+The case took an unexpected turn when discussing evidence dates:
 
-[[athphane]] would reference [nothacking](https://t.me/c/2251060085/30) link that was submitted to the evidance locker by [[shihaam_me]]
+> **[[Buhkiru]]:** "Can you tell the court the date of this event?"
 
-[[iBattus]] would note that [[Perhaps]] is also caught moving too fast on a 'Cherry Boat'
+> **[[iBattus]]:** "On the evidence I wrote **5th February**, carry on."
 
-[[Buhkiru]] would request the judge decide.
+> **[[Buhkiru]]:** "**5th February**?"
 
-[[athphane]] : i also run my own Minecraft server. i also know that this particular line pertains to fly hacks. the argument for a vessle was floating is not applicable becuase minecraft console will clearly tell you if its a boat or a horse if the horse is named it will also tell you what the name of the horse is as well so yeah guilty for flying 
+> **[[iBattus]]:** "Yup. If you check the evidence you will see it. The evidence I provided will have the date."
 
-if [[Perhaps]] is caught flying again in the logs [[Buhkiru]] suggests a week ban
+> **[[Buhkiru]]:** "Can you repeat the data again. You said **5th February**?"
 
-[[Perhaps]] says its not fair
+> **[[iBattus]]:** "Yeah."
 
-[[athphane]] says for every time he's caught flying again he will get 4 day ban 
-the ban is per play session and not per log line
+> **[[Buhkiru]]:** "Your honor, I'd like to say the server started on **28th February**."
 
-basically allowing [[Perhaps]] to fly once every 4 days 
+> **[[iBattus]]:** "No I didn't say February, I said March. You can check the recordings. I said March."
 
-[[Perhaps]] requests 6 diamonds every time the server lags for him
-[[athphane]] rejects this
+> **[[Buhkiru]]:** "I asked you if you said 5th February and you said yes. I confirmed with you."
 
-#### Illegal Item Charges
+> **[[iBattus]]:** "Go and check the evidence I provided. Please refer to the evidence and come back. You call yourself a lawyer?"
 
-- [[Evidence Catalog#Exhibit L - Perhaps' Ender Chest]]
-- [[Evidence Catalog#Exhibit N - Perhaps' Guardian Eggs]]
-- [[Evidence Catalog#Exhibit M - Perhaps' Multiple Ender Chests]]
+> **[[shihaam_me]]:** "[[iBattus]], you said 5th February in the evidence locker."
 
-[[iBattus]] offers [[Perhaps]] an unban if he returns all the illegal items 
+> **[[iBattus]]:** "Check again, I said March, check again."
 
-[[Perhaps]] claims he didn't spawn them he merely was the recipient of the items 
+> **[[shihaam_me]]:** "I'm checking and it says February twice. I checked the logs and it is March but you said it's February."
 
- - [[iBattus]] : the logs dont lie
- - [[Perhaps]] : but youre a lier
- - [[iBattus]] : thats why im quoting the server logs
- - [[Buhkiru]] : it was not [[Perhaps]] who spawned the items in. he burned the items he got
- - [[Perhaps]] : i dont have shit on me man, you can check my chests you can check my echest you can check my inventory. all my items are legit man
- - [[iBattus]] : all your items are not legit 
- - [[Perhaps]] : all my items are legit
- - [[iBattus]] : your sword has the same name its not legit
- - [[Perhaps]] : my sword is legit. you wanna transport me to the actual world and check my sword? wanna check my inventory when i spawn in?
- - [[iBattus]] : the logs says you have the sword with the name `cockstone`
- - [[Buhkiru]] : he cant return anything he doesn't have. he burned all the illegals he was given. he didn't want illegal items 
- - [[athphane]] : okay why did you burn them?
- - [[Buhkiru]] : he didnt want any illegal items
- - [[Perhaps]] : im a legit player 
- - [[iBattus]] : i dont belive he would burn all the illegals 
- - [[athphane]] : ok what will you([[iBattus]]) accept
- - [[iBattus]] : i just want the items back
- - [[iBattus]] : okay he says he burned them so if we see it in the wild can we ban him forever?
- - [[athphane]] : yes
+> **[[WhoIsFishie]]:** _[taking the opportunity to point out that [[iBattus]] is showing a pattern of mishandling evidence]_
+
+> **[[iBattus]]:** _[claimed he was fasting when he wrote the date submitted to evidence]_
+
+> **[[WhoIsFishie]]:** _[asks if he was fasting when he responded to [[Buhkiru]]'s questions]_
+
+Regarding the illegal items themselves:
+
+> **[[iBattus]]:** "The logs don't lie."
+
+> **[[Perhaps]]:** "But you're a liar."
+
+> **[[iBattus]]:** "That's why I'm quoting the server logs."
+
+> **[[Buhkiru]]:** "It was not [[Perhaps]] who spawned the items in. He burned the items he got."
+
+> **[[Perhaps]]:** "I don't have shit on me man, you can check my chests, you can check my ender chest, you can check my inventory. All my items are legit man."
+
+> **[[iBattus]]:** "All your items are not legit."
+
+> **[[Perhaps]]:** "All my items are legit."
+
+> **[[iBattus]]:** "Your sword has the same name, it's not legit."
+
+> **[[Perhaps]]:** "My sword is legit. You wanna transport me to the actual world and check my sword? Wanna check my inventory when I spawn in?"
+
+> **[[iBattus]]:** "The logs says you have the sword with the name 'cockstone'."
+
+> **[[Buhkiru]]:** "He can't return anything he doesn't have. He burned all the illegals he was given. He didn't want illegal items."
+
+> **[[athphane]]:** "Okay, why did you burn them?"
+
+> **[[Buhkiru]]:** "He didn't want any illegal items."
+
+> **[[Perhaps]]:** "I'm a legit player."
+
+> **[[iBattus]]:** "I don't believe he would burn all the illegals."
+
+> **[[athphane]]:** "Okay, what will you ([[iBattus]]) accept?"
+
+> **[[iBattus]]:** "I just want the items back."
+
+> **[[iBattus]]:** "Okay, he says he burned them, so if we see it in the wild, can we ban him forever?"
+
+> **[[athphane]]:** "Yes."
+
+**Result:** [[iBattus]] requested a court order to monitor [[Perhaps]], which [[athphane]] granted.
+
+### Chicken Factory's Mending Controversy
+
+The prosecution raised concerns about [[Chicken Factory]] members possessing items with mending enchantments.
+**Key Exchanges:**
+
+> **[[Buhkiru]]:** _[demonstrates how they used a hopper to transfer mending books to anvils to enchant items]_
+
+> **[[iBattus]]:** "My concern is not how mending was applied to the items but how the members of Chicken Factory got enough mending books."
+
+> **[[Buhkiru]]:** "I got mending pants and tools from the Deep Dark."
+
+> **[[WhoIsFishie]]:** "Not all Chicken Factory players have mending, only the most active players."
+
+> **[[iBattus]]:** "It doesn't make sense."
+
+> **[[WhoIsFishie]]:** "The judge decides that."
+
+> **[[iBattus]]:** "No one else on the server has mending even though [[The Alliance]] has been looting structures."
+
+> **[[WhoIsFishie]]:** "Before the server started, we checked the mod packs installed on the server and found where mending would spawn, so our methods are much more efficient than your methods of checking random structures you see."
+
+> **[[Buhkiru]]:** "I was on the test server checking the structures."
+
+> **[[iBattus]]:** "I don't believe it."
+
+> **[[athphane]]:** "I am willing to believe it. I don't know man, you guys said you research and your methods are efficient, which they are—I applaud you for it—but it's kinda gay considering there are other players playing and you guys have OP gear."
+
+> **[[iBattus]]:** "They have mending on everything and I haven't even seen a mending book."
+
+> **[[WhoIsFishie]]:** _[makes an offer]_ "Drop the mending charges and the Chicken Factory will disclose a structure that 100% spawns mending books."
+
+> **[[ToadGod|ToadBlaze]]:** _[in chat backing up [[Chicken Factory]]]_ "I also researched the mod pack and it's possible to get mending on day 1 if you explore enough."
+
+> **[[Perhaps]]:** _[in chat]_ "We are being on trial for [[iBattus]] being bad at Minecraft."
+
+> **[[shihaam_me]]:** "This whole thing sounds like an [[iBattus]] skill issue."
+
+> **[[iBattus]]:** "I'll respect whatever [[athphane]] decides."
+
+> **[[athphane]]:** _[says he wants a full set of mending diamond armor]_
+
+> **[[WhoIsFishie]]:** "We can get it for you in a week."
+
+> **[[athphane]]:** "[[Chicken Factory]] has to deliver within a week."
 
 
-[[iBattus]] would request for a court order to monitor [[Perhaps]]
-[[athphane]] would grant the court order 
-### [[Chicken Factory]] charged with ownership of mending 
+## Final Judgments
 
-after discussion the [[Chicken Factory]] would reveal one of their methods of obtaining mending 
-
-[[Buhkiru]] would show to the court how they used a hopper to transfer mending book to an anvil to give a sword mending enchantment 
-
-[[iBattus]] says his concern is not how mending was applied to the items but how the members of chicken factory got enough mending books to 
-
-[[Buhkiru]] would claim he got mending pants and tools from deep dark
-
-[[WhoIsFishie]] would note that not all chicken factory players has mending and only the most active players 
-
-[[iBattus]] says it doesn't make sense
-
-[[WhoIsFishie]] says the judge decides that
-
-[[iBattus]] says no one else on the server has mending even tho [[The Alliance]] has been looting structures 
-
-[[WhoIsFishie]] : before the server started we checked the mod packs that's installed on the server and found where mending would spawn so our methods are much more efficient then your methods of checking random structures you see
-
-[[Buhkiru]] : i was on the test server checking the structures
-
-[[iBattus]] : i don't believe it
-
-[[athphane]] : i am willing to believe it. idk man you guys said you research and your method are efficient which they are i applaud you for it but its kinda gay considering there is other players playing and you guys have OP gear
-
-[[iBattus]] : they have mending on everything and i haven't even seen a mending book
-
-[[WhoIsFishie]] makes an offer to [[iBattus]]
-- drop the mending charges and the chicken factory will disclose a structure that 100% spawns mending book
-
-[[ToadGod|ToadBlaze]] in the chat would backup the claims of the [[Chicken Factory]] saying he also researched the mod pack and its possible to get mending on day 1 if you explore enough 
-
-[[Perhaps]] in the chat would say "we are being on trial for [[iBattus]] being bad at Minecraft"
-
-[[shihaam_me]] : this whole thing sounds like a [[iBattus]] skill issue
-
-[[iBattus]] : ill respect whatever [[athphane]] decides 
-
-[[athphane]] says he wants a full set of mending diamond armor 
-
-[[WhoIsFishie]] : we can get it for you in a week 
-
-[[athphane]] : [[Chicken Factory]] has to deliver with a week
+- **[[WhoIsFishie]]:** Cleared of all charges, required to pay 6 diamonds to the court
+- **[[Anoojfunaid]]:** Guilty on all charges, banned for 2 days with conditions for return
+- **[[Perhaps]]:** Not guilty of item spawning but guilty of flying, placed under court monitoring
+- **[[Chicken Factory]]:** Required to deliver mending gear and diamonds to Judge [[athphane]]
 
 
-### Final Conclusion 
+## TL;DR Summary
 
-[[WhoIsFishie]] clear of all charges
-[[Anoojfunaid]] guilty of all charges and unban after 2a days
-[[Perhaps]] not guilty but under a court order 
-
-[[athphane]] is to receive mending gear and diamonds 
-
+- **The Date Fiasco:** [[iBattus]] submitted evidence incorrectly dated February 5th when the server started February 28th, severely damaging prosecution credibility.
+- **Shulker Box Drama:** What [[iBattus]] claimed was an illegal shulker box in [[WhoIsFishie]]'s ender chest was ruled to be purple concrete.
+- **The Helmet Plea:** [[Anoojfunaid]] admitted to having an illegal helmet and got a reduced 2-day ban through a plea deal.
+- **Flight Allowance:** [[Perhaps]] was found guilty of flying but given a unique punishment: one free flight every 4 days.
+- **Burned Evidence:** [[Perhaps]] claimed he burned all illegal items given to him. Court ruled he'd be permanently banned if these items reappeared.
+- **Mending Mystery:** [[Chicken Factory]] revealed they had researched structure loot tables before the server launched, allowing them to efficiently target mending books while other factions wandered randomly.
+- **Skill Issue:** Even [[shihaam_me]] sided with defendants at points, describing [[iBattus]]'s inability to find mending as a "skill issue."
+- **Judicial Profits:** Judge [[athphane]] ended the trial significantly richer, with diamonds and a promised set of mending armor.
