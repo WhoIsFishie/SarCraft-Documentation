@@ -54,7 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 30,
         fontSize: 0.3,
         opacityScale: 2,
-        removeTags: [hidden, inactive], // what tags to remove from the graph
+        removeTags: ["hidden", "inactive"], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
       },
     }),
