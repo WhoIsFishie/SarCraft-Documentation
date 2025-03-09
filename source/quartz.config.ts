@@ -10,6 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "SarCraft",
     pageTitleSuffix: "",
+    generateSocialImages: true,
     enableSPA: true,
     enablePopovers: true,
     analytics: {
