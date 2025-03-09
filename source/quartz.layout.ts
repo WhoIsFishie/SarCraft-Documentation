@@ -52,7 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
         repelForce: 18.96,
         centerForce: 0.66,
         linkDistance: 30,
-        fontSize: 0.3,
+        fontSize: 12.3,
         opacityScale: 2,
         removeTags: ["hidden", "inactive"], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
