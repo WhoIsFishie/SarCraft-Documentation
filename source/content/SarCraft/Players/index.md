@@ -9,6 +9,7 @@ tags:
 ## Active Staff
 ### Administrators
 - [[shihaam_me]] - Server Owner
+- [[FlameXode]] - Season 10 Admin
 
 ### Retired/Kicked Admins
 - [[iBattus]] - Season 5 Admin

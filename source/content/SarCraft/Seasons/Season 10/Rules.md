@@ -2,5 +2,6 @@
 tags:
   - hidden
 ---
-No Hacking 
-No Griefing 
+- No Hacking 
+- No Griefing 
+- reporting bugs will be rewarded

@@ -160,9 +160,7 @@ say hello world
 ```
 
 
-
 [[athphane]] would see the chat msgs and leave a ramark saying "bro tryna do the sql injection equivalent to minecraft"
-
 
 
 After numerous failed attempts, they eventually grew bored and moved on to other pursuits. But their experimentation hadn't gone unnoticed. [[FlameXode]], silently observing their efforts, took mental notes of their approach. Unlike his compatriots, he didn't abandon the pursuit - he merely waited for the right moment.
@@ -197,9 +195,6 @@ Players online during the exploit included:
 
 [[WhoIsFishie]], broadcasting live to his audience, immediately destroyed his shells, declaring them "illegal contraband." The fate of the other shells remained uncertain, but suspicion fell heavily on [[WhoIsFishie]].
 
-
-%% make correction it was [[shihaam_me]] who checked the enderchest %%
-
 [[iBattus]], reinstated as an administrator for Season 10, seized the opportunity. Using his elevated permissions, he inspected [[WhoIsFishie]]'s ender chest, discovering what appeared to be an illegitimate shulker box.
 
 ![[fishie_echest.jpg]]
@@ -230,7 +225,7 @@ the following players would be questioned due to having items with mending
 
 players would claim they got it through legal means
 
-[[iBattus]] would then question [[Anoojfunaid]] about the [[Exploits#Illegal Items#Hacked Helmet]]
+[[iBattus]] would then question [[Anoojfunaid]] about the [[Exploits#Hacked Helmet]]
 
 [[Anoojfunaid]], [[WhoIsFishie]] and [[Buhkiru]] would get on a call where [[WhoIsFishie]] tell [[Buhkiru]] about the helmet situation
 
@@ -268,7 +263,64 @@ the [[Chicken Factory]] would submit a case against the state
 2. two counts of wiretapping for [[shihaam_me]]. 
 3. one count of negligence for both [[iBattus]] and [[shihaam_me]]
 
+### The Trial of the Century 
+
+In what would become known as one of the most significant judicial proceedings in SarCraft history, "The State vs Axis Powers" trial began on March 7th. With [[athphane]] presiding as judge, the court sought to determine the fate of the three banned players and address the alleged administrative overreach. 
+
+the following players were attending the hearing as civilians 
+- [[FrumpleX]]
+- [[FlameXode]]
+- [[ToadGod|ToadBlaze]]
+- [[Klen04]]
+- [[StrawBwabii]]
+
+this would be the highest server player count this season 
+
+many other players would be watching the hearing on the telegram live stream 
+
+The 2 hour trial featured dramatic testimony, technical demonstrations, and several shocking revelations: 
+- [[iBattus]] was caught submitting misdated evidence, claiming certain logs were from February 5th when the server hadn't even launched until February 28th 
+- [[Buhkiru]] demonstrated legitimate methods of obtaining mending enchantments that [[The Alliance]] had simply failed to discover 
+- [[Perhaps]] was found guilty of flying but not of item spawning 
+- [[Anoojfunaid]] negotiated a plea deal for a reduced ban after admitting to possession of illegal items 
+- [[WhoIsFishie]] was cleared of all major charges, with the judge determining the alleged shulker box was merely "purple concrete" 
+
+Perhaps most remarkably, [[shihaam_me]] himself sided with the defendants at several key moments, describing the prosecution's arguments as "a [[iBattus]] skill issue." This fracturing of the administrative alliance revealed deeper tensions within the server's governance structure. 
+
+By the trial's conclusion, [[WhoIsFishie]] and [[Perhaps]] were unbanned, [[Anoojfunaid]] received a reduced sentence of just two days, and Judge [[athphane]] had secured himself both diamonds and a promised set of mending armor from the [[Chicken Factory]]. 
+
+> [!NOTE] For the complete trial proceedings, see [[State vs Axis]] 
 
 
+## Week 2
+
+the server would go quite as everyone took their time to take in the footage from the court hearings. players would spend more of their time speaking of the court case. 
+
+[[iBattus]] and [[WhoIsFishie]] would have some disagreements in the group chat but for the time being nothing happened on the server.
+
+[[iBattus]] : Man logs don't lie, I don't wanna argue about this with you, You would hold a cigarette and make the person Infront believe you don't have a cigarette
+
+[[CatMDV|Cat]] would have some strong words to say about how the court hearing went as he was not happy about [[athphane]] being too lenient on the accused.
+
+- [[CatMDV|Cat]] : I am looking at what i see is Sodom
+- [[CatMDV|Cat]] : i've see 1 year old infants getting scolded stronger than whatever the hell that "court" was
+- [[CatMDV|Cat]] : [[shihaam_me]] have AI write lengthy laws and regulation documents so that the next court case doesn't turn in to a jester circus like the last one did
+
+in the end no one really cared for what [[CatMDV|Cat]] said cause he wasn't an active player in the first week of Season 10
+
+### Nether Update
+00:00 at 10th March the nether update is released giving players access to the nether. 
+
+[[Buhkiru]] would find ancient debris
+
+moments after [[WhoIsFishie]] and [[Donut]] would also go into the nether and collect blaze rods
+
+by a coincidence [[TheHarryG|12OK]], [[Donut]], [[WhoIsFishie]] and [[Buhkiru]] would all get wither skeleton skulls at the same time 
+
+
+[[WhoIsFishie]] and [[Donut]] would go to explore a bastion remnant and find ancient debris
 
 > [!NOTE] For a complete list of Season 10 modifications and changes, see [[ChangeLog]]
+
+
+

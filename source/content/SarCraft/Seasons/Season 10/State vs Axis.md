@@ -33,11 +33,11 @@ In the wake of a server-wide controversy involving the banning of [[WhoIsFishie]
 #### 1. Illegal Possession of Shulker Box
 on the ground of [[WhoIsFishie]] holding in a shulker box charge has been reduced to a simple possession charge as eye witness of the accounts is not concrete enough 
 
-**Eye witnesses
+**Eye witnesses**
 - [[Ssahan]]
 - [[yeetuz]]
 
-**Verdicts by the judge
+**Verdicts by the judge**
 - [[WhoIsFishie]] is required to pay the judge 6 diamonds 
 - [[WhoIsFishie]] is on the spectrum and needs help
 - [[WhoIsFishie]] is flexing concrete 

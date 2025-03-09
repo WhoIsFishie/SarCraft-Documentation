@@ -3,7 +3,6 @@ title: Seasons
 tags:
   - hidden
 ---
-
 # SarCraft Seasons
 
 Welcome to the comprehensive archive of Sarcraft's seasons. Each season represents a unique chapter in our server's history, with its own theme, challenges, and memorable moments.

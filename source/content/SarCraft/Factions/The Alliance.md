@@ -8,5 +8,7 @@ a group of players who rejects the idea of factions but fights together
 - [[iBattus]]
 - [[invisble715]]
 - [[Ssahan]]  
-- [[Nausham]] (no longer a part of The Alliance) 
+- [[yeetuz]]
+- [[Nausham]] (kicked for being a double agent) 
+ 
 

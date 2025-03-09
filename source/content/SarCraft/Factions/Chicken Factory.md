@@ -58,7 +58,7 @@ Balls island is the location chicken farm would setup base
 #### New members
 [[Nausham]] gets recruited to the chicken factory as a spy who pretends to join [[iBattus]]'s crew
 [[Anoojfunaid]] gets recruited to help with building and vote manipulation 
-[[FlameXode]] gets recruited as [[WhoIsFishie]]'s drug dealer since he cant eat Gapples so flame's job is to brew pots for [[WhoIsFishie]]   
+[[FlameXode]] gets recruited as [[WhoIsFishie]]'s drug dealer since he cant eat golden apples so flame's job is to brew pots for [[WhoIsFishie]]   
 ![[flame_kit.jpg]]
 
 #### Shadow Server
@@ -72,4 +72,9 @@ the trap depended on lagging out a player in first person mode so hard that they
 
 ## Season 10
 
-seasons later the sleeping giant awakans 
+seasons later the sleeping giant awakens
+
+![[factory_base.png]]
+
+the players would travel north to set base on top of a hill 
+
