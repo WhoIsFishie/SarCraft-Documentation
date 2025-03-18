@@ -55,15 +55,15 @@ NOW THEREFORE, the undersigned parties hereby establish this binding Peace Accor
 
 By signing below, we solemnly commit to upholding the terms of this Peace Accord:
 
-_[[WhoIsFishie]]_ : WhoIsFishie
-_[[iBattus]]_ : : submit pr to git repo with your name here
+- _[[WhoIsFishie]]_ : WhoIsFishie
+- _[[iBattus]]_ : : submit pr to git repo with your name here
 
 ---
 
 Witnessed by:
 
-_[[shihaam_me]]_ : submit pr to git repo with your name here
-_[[athphane]]_ : submit pr to git repo with your name here
+- _[[shihaam_me]]_ : submit pr to git repo with your name here
+- _[[athphane]]_ : submit pr to git repo with your name here
 
 ---
 
