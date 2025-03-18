@@ -25,10 +25,14 @@
             "id": "44e2f7392cd890a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Seasons/Season 10/PEACE ACCORD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PEACE ACCORD"
             }
           }
         ],
@@ -153,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Seasons/Season 10/PEACE ACCORD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PEACE ACCORD"
             }
           },
           {
