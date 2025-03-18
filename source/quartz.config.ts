@@ -10,12 +10,12 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "SarCraft",
     pageTitleSuffix: "",
-    generateSocialImages: true,
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
+    generateSocialImages: true,
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],

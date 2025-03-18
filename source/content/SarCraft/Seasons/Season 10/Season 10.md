@@ -320,6 +320,68 @@ by a coincidence [[TheHarryG|12OK]], [[Donut]], [[WhoIsFishie]] and [[Buhkiru]] 
 
 [[WhoIsFishie]] and [[Donut]] would go to explore a bastion remnant and find ancient debris
 
+### 100 deaths
+
+[[Alex]] a player famous for his death count would be reaching 100 deaths. [[WhoIsFishie]] would start bidding to be his 100th death reason. the final settlement would allow [[WhoIsFishie]] to kill [[Alex]] 5 times in exchange for 6 diamonds per death. [[WhoIsFishie]] would kill [[Alex]] 5 times and pay him as soon as he reached 100 deaths. this marks the first 100 deaths on SarCraft history 
+### Murder on SarCraft
+
+11th March 2025
+
+a player named [[PrincipleOf_AIS]] who joined SarCraft sometime in week 1 of Season 10 would be out exploring when he came across [[The Alliance]]'s base. not much is known about the exchange but [[PrincipleOf_AIS]] would be killed by [[Ssahan]] under [[iBattus]]'s orders for spying and trespassing.  
+
+[[PrincipleOf_AIS]] a player who was not allied to any faction has been killed 5k blocks away from spawn
+
+[[PrincipleOf_AIS]] would deny any spying or trespassing allegations and would say he never entered [[iBattus]]'s base 
+
+later things got heated and [[PrincipleOf_AIS]] would leak [[The Alliance]]'s base location. [[iBattus]] angry over this would have [[PrincipleOf_AIS]]'s items burned.
+
+the rest of the server watched as this unusual cruel behavior was taken place on a new player and it was condemned by the [[Chicken Factory]] members.
+
+[[shihaam_me]] would show up due to all the argument to see what was going on
+
+[[PrincipleOf_AIS]] in retaliation to his items burning would start snitching on [[The Alliance]] stating that he saw them jumping very high. alluding to the use of hacked clients among [[The Alliance]] members
+
+[[shihaam_me]] would ban [[Ssahan]] and [[iBattus]] until a court hearing 
+
+### 89 seconds to midnight
+the dooms day clock on SarCraft would be moved to 89 seconds to midnight as [[Chicken Factory]] would make their way to [[The Alliance]]'s base now that its leaked and [[iBattus]] and [[Ssahan]] are banned
+
+they would find [[yeetuz]]'s pets there
+
+[[WhoIsFishie]] would post a picture of the pets with the caption
+"i miss [[Mika]]"
+
+tension would rise as [[WhoIsFishie]] threaten to kill the dogs to avenge [[Mika]]
+
+the factory members would leave after a few hours and no pets were killed.
+
+### Court Case 
+
+> [!NOTE] For the complete trial proceedings, see [[PrincipleOf_AIS vs The Alliance]]
+ 
+
+### Era of Peace
+
+week 2 would end with players starting to play together alot more. with the return of [[CatMDV|Cat]] to the server [[ToadGod|ToadBlaze]] would bring back the [[Spawn Mason]] and [[Chicken Factory]] would make a peace agreement with players at spawn.
+
+many builds would take place during this period including a nether highway by [[Buhkiru]]
+
+a overworld tunnel system would start by [[WhoIsFishie]]
+
+[[Chicken Factory]] base would become public as players would split out to make their own base and the original base would end up being owned by [[Buhkiru]]
+
+[[ToadGod|ToadBlaze]] would also take this time to build up his base at spawn 
+
+[[shihaam_me]] would head out about 4k blocks to build his world famous cube but his plans would have to be put on hold as [[TheHarryG|12OK]] offers to buy 14k dirt blocks in exchange for diamonds.
+
+[[WhoIsFishie]] and [[Perhaps]] would make the journey to visit [[shihaam_me]] and give him some diamonds 
+
+[[Buhkiru]] would build the black pearl at spawn 
+
+overall end of week 2 and start of week 3 would be the most peacefull as the server has been with new builds and collaboration 
+
+## Week 3
+
 > [!NOTE] For a complete list of Season 10 modifications and changes, see [[ChangeLog]]
 
 
