@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Chicken Factory.md",
+                "file": "Seasons/Season 10/Season 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chicken Factory"
-            }
-          },
-          {
-            "id": "44e2f7392cd890a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seasons/Season 10/PEACE ACCORD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PEACE ACCORD"
+              "title": "Season 10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seasons/Season 10/PEACE ACCORD.md",
+                "file": "Seasons/Season 10/Season 10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PEACE ACCORD"
+              "title": "Outline of Season 10"
             }
           },
           {
@@ -196,16 +181,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44e2f7392cd890a6",
+  "active": "cc0e6f8de00ead54",
   "lastOpenFiles": [
+    "Players/player_images/StrawBwabii.png",
+    "Players/player_images/_StrawBwabii.png",
+    "Players/player_images/body.png",
+    "Players/player_images/f3b5e42c9917deb8.png",
     "Seasons/Season 10/PEACE ACCORD.md",
+    "Seasons/Season 10/Season 10.md",
+    "Factions/Chicken Factory.md",
     "Seasons/Season 10/Untitled.md",
     "Seasons/Season 10/PrincipleOf_AIS vs The Alliance.md",
     "Players/PrincipleOf_AIS.md",
     "Untitled.canvas",
     "Seasons/index.md",
-    "Seasons/Season 10/Season 10.md",
-    "Factions/Chicken Factory.md",
     "Seasons/S10_images/factory_base.png",
     "Players/shihaam_me.md",
     "Lore/Adhuray.md",
@@ -228,14 +217,10 @@
     "Players/Udit.md",
     "Players/ToadGod.md",
     "Players/TheHamkerCat.md",
-    "Players/StrawBwabii.md",
     "Players/player_images/rqzq.png",
     "Seasons/S10_images/fishie_echest.jpg",
     "Seasons/S10_images/echest_in_temple.jpg",
     "Players/player_images/CatMDV.png",
-    "Players/player_images/pumkin715.png",
-    "Players/player_images/FlameXode.png",
-    "Players/player_images/StrawBwabii.png",
     "Seasons/Season 10",
     "Seasons/S8_images",
     "Seasons/S6_images/bassam_listen2whitegirl_music.mp4",

@@ -27,6 +27,8 @@ In the continuing saga of SarCraft history, Season 10 stands as a testament to b
 - [[sillyxilly]]
 - [[PrincipleOf_AIS]]
 - [[Daisy]]
+- [[Raptross]]
+- [[dannyzek]]
 
 ## Pre-Launch Developments
 
@@ -362,25 +364,175 @@ the factory members would leave after a few hours and no pets were killed.
 
 ### Era of Peace
 
-week 2 would end with players starting to play together alot more. with the return of [[CatMDV|Cat]] to the server [[ToadGod|ToadBlaze]] would bring back the [[Spawn Mason]] and [[Chicken Factory]] would make a peace agreement with players at spawn.
+Week 2 would end with players starting to play together a lot more. Several significant developments shaped this period:
 
-many builds would take place during this period including a nether highway by [[Buhkiru]]
+#### Community Revival
 
-a overworld tunnel system would start by [[WhoIsFishie]]
+- [[CatMDV|Cat]] returned to the server
+- [[ToadGod|ToadBlaze]] reinvigorated the [[Spawn Mason]] faction
+- [[Chicken Factory]] established a peace agreement with players at spawn
 
-[[Chicken Factory]] base would become public as players would split out to make their own base and the original base would end up being owned by [[Buhkiru]]
+#### Infrastructure Projects
 
-[[ToadGod|ToadBlaze]] would also take this time to build up his base at spawn 
+- [[Buhkiru]] constructed a nether highway
+- [[WhoIsFishie]] began an overworld tunnel system
+- [[Buhkiru]] built the Black Pearl at spawn
 
-[[shihaam_me]] would head out about 4k blocks to build his world famous cube but his plans would have to be put on hold as [[TheHarryG|12OK]] offers to buy 14k dirt blocks in exchange for diamonds.
+#### Base Developments
 
-[[WhoIsFishie]] and [[Perhaps]] would make the journey to visit [[shihaam_me]] and give him some diamonds 
+- [[Chicken Factory]] base became public as members split off to make their own bases
+- The original Chicken Factory headquarters became [[Buhkiru]]'s personal base
+- [[ToadGod|ToadBlaze]] developed his base at spawn
+- [[shihaam_me]] ventured about 4,000 blocks from spawn to start building his world-famous cube
+    - This project was temporarily paused when [[TheHarryG|12OK]] offered to buy 14,000 dirt blocks in exchange for diamonds
+    - [[WhoIsFishie]] and [[Perhaps]] made the journey to visit [[shihaam_me]] and deliver diamonds
 
-[[Buhkiru]] would build the black pearl at spawn 
+Overall, the end of week 2 and beginning of week 3 marked the most peaceful period the server had experienced, characterized by collaborative building projects and reduced factional tensions.
 
-overall end of week 2 and start of week 3 would be the most peacefull as the server has been with new builds and collaboration 
 
 ## Week 3
+
+### The TSA Incident: Border Tension and Hostage Crisis
+
+On March 18th, 2025, another such confrontation unfolded—one that would become known as "The TSA Incident and Hostage Crisis."
+
+#### The Intrusion
+
+It began like many conflicts on SarCraft: with an unexpected visitor in claimed territory. As [[Buhkiru]] logged into the server, he immediately noticed something alarming—[[iBattus]], a member of [[The Alliance]] and longtime rival of the [[Chicken Factory]], standing suspiciously inside Chicken Factory territory.
+
+"Why are u just there?" Buhkiru questioned, his suspicion evident.
+
+The situation escalated quickly when [[WhoIsFishie]] joined the server. Recognizing the potential threat of having a rival faction member within their borders, he immediately instituted an improvised security protocol.
+
+"If you come here you must go through TSA," WhoIsFishie declared, establishing what would become one of the most contentious border policies in Season 10.
+
+#### The TSA Standoff
+
+What exactly was the "TSA" that WhoIsFishie demanded? Much like its real-world counterpart, the SarCraft TSA (Territory Security Administration) required visitors to submit to an inventory inspection—or as WhoIsFishie colorfully put it, "a cavity search."
+
+The terms were simple: show your inventory to prove you haven't stolen anything, or face immediate expulsion—likely at the end of a Netherite sword. In SarCraft's brutal implementation of border security, a "cavity search" typically involved killing uncooperative players and checking their dropped items—a grim but effective method of inventory inspection.
+
+"Our land, our rules," WhoIsFishie stated firmly, embodying the territorial sovereignty that had defined faction politics since the earliest seasons.
+
+[[iBattus]], no stranger to SarCraft conflict and a veteran of multiple wars, refused to comply with the demand. "I don't wanna show inv," he insisted, despite [[Buhkiru]]'s repeated warnings.
+
+As Buhkiru's patience wore thin, he issued his final warning: "Show inv or I'm killing u."
+
+Faced with this ultimatum and surrounded by Chicken Factory forces, [[Ssahan]] made the decision that has long been controversial in SarCraft history—he combat logged, disconnecting from the server to avoid potential death and item loss.
+
+"He logged," Buhkiru announced, confirming what many considered to be a cardinal sin in server etiquette.
+
+When [[Ssahan]] rejoined the server, he attempted to defuse the situation by showing his inventory, claiming: "I raided a desert ruin and got these, believe it or not." But the Chicken Factory members remained suspicious, particularly of the enchanted books in his possession.
+
+"I need to see enchants," Buhkiru demanded, concerned that valuable books might have been stolen from his chests.
+
+[[Ssahan]] protested his innocence: "There is none that I took from u," but the Chicken Factory wasn't convinced. As tensions escalated, [[Perhaps]] joined the security detail, and [[Anoojfunaid]] arrived to reinforce their position.
+
+#### The Hostage Situation
+
+What began as a border security check transformed into something far more serious: a hostage situation. When [[Ssahan]] asked "Can I leave?" he was met with a chilling response from Buhkiru:
+
+"Ure not leaving till [[iBattus]] comes back."
+
+The Chicken Factory had effectively taken [[Ssahan]] prisoner, using him as leverage against [[iBattus]]. The faction was now demanding that [[iBattus]] submit to his authority and provide his replay file—a recording of his actions on the server that might reveal any theft.
+
+"You give us your replay file and we let him go," [[WhoIsFishie]] declared, establishing clear hostage negotiation terms.
+
+As [[iBattus]] protested through the Telegram chat, [[Perhaps]] ominously asked [[Ssahan]]: "Have you ever heard of the term prison wife?"
+
+Desperate to free his ally, [[iBattus]] appealed directly to the server's highest authority: "shihaam_me what is this," he pleaded repeatedly, attempting to summon the server owner to intervene in what he perceived as unjust imprisonment.
+
+The Chicken Factory's response was immediate and threatening. "If u spam the kid dies," [[Perhaps]] warned, escalating the hostage situation to new heights.
+
+Under this pressure, [[iBattus]] finally relented, sharing an image of his inventory in the Telegram chat: "Here is my inv, ffs."
+
+But even this concession wasn't enough. "You could have hidden items," [[WhoIsFishie]] countered, while [[Perhaps]] added: "2 ender chests is sus."
+
+As negotiations reached an impasse, the [[Chicken Factory ]]began formalizing their improvised hostage-taking. [[Buhkiru]] issued a series of commands that revealed their intentions: "Box this area. Remove water. Below that. Box that."
+
+They were constructing a proper prison cell around [[Ssahan]], transforming what had begun as a simple border check into a full-scale hostage crisis that would echo the obsidian imprisonment techniques used against [[iBattus]] himself in previous seasons.
+
+The hostage situation eventually dissipated without administrative intervention. While [[shihaam_me]] briefly appeared in the Telegram chat, he merely joked about the situation rather than taking action, stating "Because you can't attend [court] if I don't allow you to" when players suggested a trial.
+
+Later that day, the server's attention shifted dramatically as [[Donut]] and [[StrawBwabii]] engaged in what appeared to be a death competition, generating hundreds of "fell from a high place" messages in the server log over the span of nearly an hour. This bizarre activity drew [[BuhKiru]] into the mix, who began alternately killing the players with various named weapons including "Tig Bits," "Back Shots," and "COAL."
+
+Even [[shihaam_me]] joined this chaotic activity, earning the "Ice Bucket Challenge" advancement while occasionally burning to death in lava.
+
+During this period, [[StrawBwabii]] experienced a tragedy when their pet goat "Milk Maid" was killed by a wolf—ironically, their own dog. This led to efforts to breed new pets, with players discussing the creation of a "rare white wolf" variant.
+
+By the end of the day, [[iBattus]] had effectively abandoned negotiations for [[Ssahan]]'s release, eventually telling the Chicken Factory to "Kill him" when they proposed further talks. This callous dismissal prompted [[WhoIsFishie]] to remark that [[iBattus]] was "tryna make us catch a case."
+
+[[iBattus]] was later accused of being on a hacked client by [[shihaam_me]] himself, who asked directly in the Telegram chat: "are you on a hacked client." This accusation was particularly ironic given that earlier the same day, [[iBattus]] had accused [[Buhkiru]] of flying hacks after seeing him use Avas Ride, a trident with riptide.
+
+In a final twist of irony, [[TheHarryG|12OK]] shared a link to a website about handling tantrums in children, a barbed reference to [[iBattus]]'s repeated complaints to [[shihaam_me]] about the hostage situation.
+
+### The Failed Peace Accord and Unwhitelisting
+
+On March 19th, the consequences of the hostage crisis continued to reverberate through the server. The day began with [[Buhkiru]] attempting to sweeten the deal for [[Ssahan]]'s release, proposing: "I'll make the deal even sweeter. You give me 64 dirt block and he is free to go. But you and only you will be KOS [Kill On Sight]. If Sahan or yeetuz comes to the base they are KOS too."
+
+In a significant diplomatic move, [[WhoIsFishie]] unveiled a formal peace agreement: "The Chicken Factory is ready to make a peace treaty in the interest of preserving builds and farms on the server and to avoid acts of terror that took place last season." He shared a link to an official document titled "[[PEACE ACCORD]]," noting that "this agreement also protects pets and not just builds."
+
+The document seemed like a major step toward stability after the hostilities of previous days—but the optimism would be short-lived.
+
+#### The Jail Break and Threats
+
+Rather than engaging with the peace proposal, [[Ssahan]] executed a daring escape from his prison cell. he fails and burns to death, his first message to the server after this was ominous: "u lot gonna die soon." This threat set the tone for what would become a day of escalating tensions.
+#### The Alliance Collapse
+
+As the day progressed, the tension reached a breaking point. In what would become a pivotal moment in Season 10 politics, [[iBattus]] left the SarCraft group chat entirely, effectively withdrawing from server politics in dramatic fashion.
+
+The server logs captured [[WhoIsFishie]]'s reaction:
+
+> "Damn, there goes my batman."
+
+[[Perhaps]] observed with equal parts sarcasm and insight:
+
+> "Can't believe we did nothing this season and he still got mad." "Average SarCraft season without the killings."
+
+#### Administrative Intervention
+
+At approximately 17:10 server time, [[iBattus]] briefly returned to the server, announcing cryptically: "wiping stuffs." This immediately triggered concern among [[Chicken Factory]] members that he might be preparing to destroy his base or engage in acts of retaliation.
+
+When questioned by [[shihaam_me]] about his purpose for logging in, [[iBattus]] doubled down on his hostile stance: "you are bad admin, good for chicken factory."
+
+Sensing the potential for significant server damage, [[shihaam_me]] took the extraordinary step of unwhitelisting both [[iBattus]] and [[Ssahan]] from the server—not quite a ban, but effectively removing their ability to access the game world.
+
+Explaining the decision to others in the Telegram chat, [[shihaam_me]] clarified: "theyre not banned, theyre unwhitelisted" – technically allowing them a path to return if they wished to reconcile with the server community.
+
+#### Diplomatic Reflections
+
+As the dust settled, a period of reflection began. [[athphane]], the renowned server judge, remarked that he would "wear my winnings from court then" – a reference to the diamonds he had received during the previous week's trial. He added that it was "the easiest diamond grind I've ever done," highlighting the unusual economics of SarCraft's judicial system.
+
+Meanwhile, [[Buhkiru]] was already preparing for potential retribution: "Ik the nuke is coming, but if [[iBattus]] blows my base up while im offline, he is the biggest wuss... correction, biggest pussy."
+
+#### The Era of Construction
+
+With the immediate threat of conflict diminished by the unwhitelisting, the server entered a brief period of peaceful construction. [[Buhkiru]] and [[StrawBwabii]] began work on an ambitious lush cave project, gathering resources and discussing design plans.
+
+The logs record their collaboration:
+
+-  **[[StrawBwabii]]**: "can i help"
+- **[[BuhKiru]]**: "sure" 
+- **[[StrawBwabii]]**: "what do we need" 
+- **[[BuhKiru]]**: "just stone for now" 
+- **[[StrawBwabii]]**: "ik we need moss for them to grow" 
+- **[[BuhKiru]]**: "make the cave then decorate"
+
+In a moment of unintentional comedy, [[StrawBwabii]] was briefly accused of flying hacks by [[Buhkiru]], who jokingly called for [[shihaam_me]]'s attention. [[StrawBwabii]] played along: "no don't expose my hacks," highlighting the server's ongoing preoccupation with hacking accusations.
+
+## Week 4
+
+to keep the server interesting sarcraft would receive a new modpack update which adds new decoration blocks, elytra trims and a camera
+
+as the end update was getting ready to release players would start preparing for the dragon fight
+
+on the night of 27th [[shihaam_me]] would open the end allowing players to join.
+
+the [[Chicken Factory]] wouldn't join as they wanted all members to be present
+
+[[WhoIsFishie]] suffering from a irl injury would suggest everyone to do the end event without him  
+[[Donut]] would suggest the same as she is traveling irl 
+
 
 > [!NOTE] For a complete list of Season 10 modifications and changes, see [[ChangeLog]]
 

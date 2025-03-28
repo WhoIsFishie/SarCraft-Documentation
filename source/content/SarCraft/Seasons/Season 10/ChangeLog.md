@@ -110,3 +110,48 @@ Wandering traders now offer miniature versions of regular blocks, providing uniq
 
 - Enderman griefing has been disabled
 - Crops won't break when players with Feather Falling enchantment jump on them
+
+
+## later updates
+these are additional updates released to the server over time
+
+## [Sit](https://curseforge.com/minecraft/mc-mods/sit-fabric) by bl4ckscor3
+Adds the ability to sit on slabs and stairs.
+this mod was added for the second court session
+
+## VinURL by Plompi, Hoofer
+Adds a writeable music disc, allowing you to customize the music that plays from any youtube link.
+
+### What Are They Up To (Watut)
+Lets you see if players are typing, in a GUI, idle, with cool ingame visuals
+### Tasty Vanilla
+A Delicious Expansion to Minecraft’s Food System
+Farm and harvest new crops and berries, and cook new food recipes, all while staying true to vanilla mechanics and feel.
+
+### Leashable Collars
+a mod that allows you to put leashes on players
+
+## NotEnoughPots
+mod to make all plants and food be put in a pot
+
+## More Berries by Marcus Elg
+Adds more berries, that can be used for cakes and more!
+
+### headpats
+Give headpats to other players!
+
+## [Elytra Trims](https://modrinth.com/mod/elytra-trims) by KikuGie
+
+Lightweight and customizable support for elytra trims and other decorations
+
+## [ElectricMace](https://modrinth.com/project/electric-mace) by anvian
+
+Adds the possibility of enchanting the new Mace with Channeling so that when we hit a mob from above it will be hit by lightning if it thunders.
+
+### [Camerapture](https://modrinth.com/mod/camerapture) by chrrrs
+Take photos and display pictures in Minecraft.
+
+## [Beautify](https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated) by Suel_ki
+
+Beautify adds lots of vanilla-styled ways to spice up your builds with custom models that'll fit right in to your houses etc.
+
