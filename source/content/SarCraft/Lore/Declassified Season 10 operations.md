@@ -165,7 +165,7 @@ This base was later abandoned due to security concerns and was considered a prot
 
 *pending declassification* 
 
-![[collection_storage.png]]
+![[collection_storage.webp]]
 
 ![[collection_station2.webp]]
 
