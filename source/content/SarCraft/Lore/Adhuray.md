@@ -2,7 +2,7 @@
 tags:
   - Pet
 ---
-![[adhuray.png]]
+![[adhuray.webp]]
 
 Adhuray is a pet owned by [[Chicken Factory]] in [[Season 10]]. 
 

@@ -11,3 +11,6 @@ eye witnesses recounts events of "he had a house on the beach with a turtle sanc
 in later seasons invis would mostly be known for being [[iBattus]] right hand man. helping him escape from obsidian cages and basing together 
 
 ![[ibattus_invis_selfie_ingame.jpg]]
+
+
+TODO : update

@@ -10,7 +10,7 @@ tags:
 [[flowerrthiccc]]
 [[TheHarryG]]
 [[WhoIsFishie]]
-[[FlameXode]]
+[[FlameXode]] - kicked in season 10
 [[Nausham]]
 [[Anoojfunaid]]
 [[StrawBwabii]]
@@ -52,7 +52,7 @@ I need something against the chicken factory
 ![[Balls island ign.jpg]]
 Balls island is the location chicken farm would setup base 
 
-![[bal_land.png]]
+![[bal_land.webp]]
 
 
 #### New members
@@ -71,10 +71,49 @@ this is a early footage of the trap being tested on the [[Chicken Factory#Shadow
 the trap depended on lagging out a player in first person mode so hard that they cant move away in time 
 
 ## Season 10
-
 seasons later the sleeping giant awakens
 
-![[factory_base.png]]
+![[factory_base.webp]]
 
 the players would travel north to set base on top of a hill 
+
+during season 10 the factory would take control of all of the server votes bringing much needed changes such as one player sleep as well as disabling phantoms 
+
+the factory would also use its influence to open up the first ever [[SAR_Shop]] to buy the globe pattern as it cant be accessed due to villagers being banned. 
+
+the Chicken hill as it would be known would come to be the center of the small village that built around it
+
+
+![[cf_selfie.webp]]
+[[Buhkiru]]'s base being the house on top of the hill with a small pond and farm to its right as well as custom 2 cherry trees both sides of the house
+
+
+![[bridge.jpg]] 
+a bridge would be build that would connect the hill to [[TheHarryG|12OK]]'s base that was a few hundred blocks from the hill
+
+
+![[donut_stairs.webp]]
+[[Donut]] would build her staircase that went down hill that would connect to her flower garden which you had to go through to enter her hobbit base that was carved into a mountain
+
+![[StrawBwabii_cafe.webp]]
+nearby to [[Donut]] [[StrawBwabii]] would setup her base and her cafe' at the foot of the hill as well where she would keep her dogs and serve the players with lovely treats sold at her cafe'
+
+![[jap_town_1.webp]]
+
+to the east of the hill [[Buhkiru]] would build some Japanese style houses and a garden 
+
+![[factory_east_view.jpg]]
+
+a tunnel would be built underground by [[WhoIsFishie]] which would connect the hill to spawn as well as his temp base
+
+![[hills_top_view.jpg]]
+
+by the end of season 10 the area would be nicely populated and had a community feel to it.
+
+![[idk.jpg]]
+
+
+![[cf_village.webp]]
+
+the chicken factory village was well protected geographically as the trip to there from spawn is almost 5000 blocks away as well as the rough snowy mountains that acted as walls for the base. 
 

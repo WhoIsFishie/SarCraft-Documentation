@@ -74,7 +74,7 @@ Every SarCraft season must come to a close, but few have ended with the spectacu
 
 Players soared through the skies in creative flight, summoning monstrosities from the depths of Minecraft's code. Ghasts, Withers, and Ender Dragons laid waste to every structure on the server. The event, livestreamed on [[shihaam_me]]'s Facebook account, became infamous not just for its destruction but for the controversial names given to these agents of chaos.
 
-![[season2 end.png]]
+![[season2 end.webp]]
 
 When the dust settled and the servers finally went offline, Season 2 had been wiped from existence - but not from memory. Its legacy of factional warfare, technological advancement, and ultimately revolution would inform all SarCraft seasons to come, establishing patterns of behavior and conflict that would repeat throughout the server's turbulent history.
 

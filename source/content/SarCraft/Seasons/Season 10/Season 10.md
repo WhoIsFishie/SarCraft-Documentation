@@ -6,6 +6,9 @@ aliases:
   - Season 10
 title: Season 10
 ---
+![[Seasons/S10_images/minecraft_title.png]]
+
+
 In the continuing saga of SarCraft history, Season 10 stands as a testament to both reconciliation and innovation. Before the season's launch, a significant amount of behind-the-scenes preparation took place, including a momentous peace agreement between longtime rivals [[WhoIsFishie]] and [[iBattus]]. To prevent the infamous "2 week Minecraft phase" that had plagued previous seasons, gameplay changes were implemented to artificially slow player progression. [[WhoIsFishie|Fishie]], in collaboration with [[iBattus]], developed mods that would fundamentally alter gameplay mechanics.
 
 | Season  | 10               |
@@ -18,7 +21,6 @@ In the continuing saga of SarCraft history, Season 10 stands as a testament to b
 - [[Klen04]]
 - [[Donut]]
 - [[FrumpleX]]
-- [[hadhukeytha]]
 - [[yeetuz]]
 - [[apple_idhaan]]
 - [[Alex]]
@@ -100,6 +102,8 @@ Season 10 witnessed the unexpected return of [[ToadGod]], a legendary figure fro
 Unlike the revolutionary firebrand who once led server-wide votes and championed the [[Spawn Mason]]'s community ideals, ToadBlaze chose to keep a low profile in Season 10. Most current players knew neither his former nor current persona, recognizing his name only through server chronicles and old chat logs, if at all. 
 
 The man who once deposed the [[Nazi]] leadership and inadvertently triggered the "Diamond Penis Incident" that ended Season 3 now kept largely to himself, avoiding the factional politics and server-wide drama that had become SarCraft's hallmark in his absence. Whether this reflected a change in his approach or simply caution in a server landscape that had evolved dramatically during his seven-season absence remained to be seen.
+
+TODO : add section to explain the creation of Chicken hill
 ### The Four Corners Expedition
 
 In a daring display of early-game exploration, [[WhoIsFishie]] and [[Donut]] accomplished the seemingly impossible: visiting all four world borders in just three days. Supported by [[Chicken Factory]] members [[Klen04]] and [[Buhkiru]], the duo set out with carefully prepared diamond gear and a strategic plan.
@@ -120,7 +124,7 @@ In a daring display of early-game exploration, [[WhoIsFishie]] and [[Donut]] acc
 
 The expedition wasn't without its hurdles. Wandering dogs, treacherous terrain, and the sheer scale of the journey tested the explorers' resolve. Yet, [[WhoIsFishie]] and [[Donut]] persevered, successfully mapping over 80,000 blocks of terrain.
 
-![[four_corners_monument.png]]
+![[4corners_trip.webp]]
 
 
 
@@ -135,13 +139,15 @@ Alert to the danger, [[Anoojfunaid]] quickly mounted his trusted steed Michelang
 
 Fueled by rage and seeking revenge, [[Anoojfunaid]] commandeered [[Buhkiru]]'s prized horse Juan and fled into the wilderness. His escape was short-lived, however, as he accidentally rode into a deep ravine, resulting in the tragic deaths of both himself and the innocent Juan.
 
+![[juan_grave.webp]]
+
 The server exploded with outrage at this series of misfortunes. Players mobilized against [[Anoojfunaid]], who responded by slaying Adhuray the endermite - a beloved server pet. This final act of defiance crossed an unspoken line, uniting the entire server in condemnation.
+
+![[adhuray_grave.webp]]
 
 As players closed in for vengeance, someone suggested a more civilized approach - a formal trial for [[Anoojfunaid]]'s crimes. Desperate for representation, [[Anoojfunaid]] approached [[Donut]] to serve as his legal counsel, only to be rebuffed when she declared her allegiance to the fallen Adhuray.
 
 In a last attempt, [[Anoojfunaid]] turned to [[Perhaps]] for legal representation, who took offense at not being the first choice for counsel. Surrounded by enemies and abandoned by potential allies, [[Anoojfunaid]] rage-quit the server, vowing never to return - adding his name to the long list of players whose SarCraft careers ended in infamous glory.
-
-
 
 ### Server Backdoor
 On day 4 of the server, members of the [[Chicken Factory]] found themselves growing restless. With time on their hands and mischief in mind, they turned their attention to the Telegram plugin running on the server - the same authentication system written by [[Udit]] that had been a source of exploits in previous seasons.
@@ -164,8 +170,20 @@ say hello world
 
 [[athphane]] would see the chat msgs and leave a ramark saying "bro tryna do the sql injection equivalent to minecraft"
 
+After numerous failed attempts, they eventually grew bored and moved on to other pursuits. But their experimentation hadn't gone unnoticed. [[FlameXode]], silently observing their efforts, took mental notes of their approach.
 
-After numerous failed attempts, they eventually grew bored and moved on to other pursuits. But their experimentation hadn't gone unnoticed. [[FlameXode]], silently observing their efforts, took mental notes of their approach. Unlike his compatriots, he didn't abandon the pursuit - he merely waited for the right moment.
+> [!info] Declassified Information
+> Here's what really happened :
+> 
+> 1. [[WhoIsFishie]] typed a command in chat to give everyone shulker shells
+> 2. [[FlameXode]] replied to this message, which triggered the command to actually work
+> 3. [[Perhaps]] noticed new shulker shells in his inventory and called [[WhoIsFishie]] about it
+> 4. [[WhoIsFishie]] checked his own inventory, found shells, and quickly deleted the command evidence from the group chat
+> 5. Everyone would stop trying to exploit in the chat
+> 6. [[WhoIsFishie]] called [[Buhkiru]] about their discovery
+> 7. The three players had a secret Telegram call and agreed to keep quiet about the shells
+> 8. They hid the shells inside bundles to avoid detection
+> 9. These bundles were then hidden in secret stashes across the map
 
 ### Race To Ender Chest
 
@@ -174,7 +192,6 @@ After numerous failed attempts, they eventually grew bored and moved on to other
 With diamond ore disabled and traditional progression paths blocked, Season 10's economy evolved around an entirely new form of wealth – jungle temple ender chests. The [[Chicken Factory]] mobilized its members in an unprecedented treasure hunt spanning the entire world.
 
 The race was on:
-
 - [[Perhaps]] claimed the first victory, locating an ender chest in the southwestern corner
 - [[Buhkiru]] secured the second prize on the northern frontier – a structure [[WhoIsFishie]] had narrowly missed during the Four Corners Expedition
 
@@ -182,9 +199,25 @@ With these precious resources secured, [[WhoIsFishie]] couldn't resist flaunting
 
 But the display of power backfired spectacularly. While scrolling through his hotbar, [[WhoIsFishie]] revealed a stack of purple concrete that [[Ssahan]] mistook for a shulker box – an impossible item under Season 10's restrictions. Accusations of cheating immediately flooded server chat, reopening old wounds between rival factions.
 
+> [!info] Declassified Information
+> The plan to trick [[The Alliance]] went like this:
+> 
+> 1. [[Klen04]] came up with the idea to confuse [[The Alliance]] by showing a purple shulker box and then quickly switching to purple concrete
+> 2. The goal was to make them question what they actually saw
+> 3. [[WhoIsFishie]] improved the plan by bringing an ender chest into the mix
+> 4. This way, if questioned, he could claim he was only showing off the legitimate ender chest
+
 ### The Telegram Exploit and Administrative Crisis
 
 On the fifth day of Season 10, the server's delicate peace shattered. During a casual TikTok livestream by [[WhoIsFishie]], [[FlameXode]] joined the chat and asked if his earlier attempts at exploiting the Telegram integration had been successful.
+
+> [!info] Declassified Information
+> Before starting his TikTok livestream:
+> 
+> 1. [[WhoIsFishie]] broke the rule of not putting shulker in enderchest
+> 2. He placed the purple shulker box (that he had previously shown to [[Ssahan]]) into his ender chest
+> 3. This mistake would later become evidence used against him
+> 4. This purple shulker was the same one used in the earlier psychological operation
 
 When [[WhoIsFishie]] replied that they hadn't worked, [[FlameXode]] proceeded to demonstrate the correct exploitation technique. It turned out [[WhoIsFishie]] had only performed one of the two steps needed to trigger the command injection. When [[FlameXode]] executed the full exploit, the server granted everyone online two shulker shells - items that should have been impossible to obtain in the season's progression.
 
@@ -196,6 +229,11 @@ Players online during the exploit included:
 - [[invisble715|Pumkin715]] - 2 shells
 
 [[WhoIsFishie]], broadcasting live to his audience, immediately destroyed his shells, declaring them "illegal contraband." The fate of the other shells remained uncertain, but suspicion fell heavily on [[WhoIsFishie]].
+
+> [!info] Declassified Information
+> [[WhoIsFishie]] had no issue burning his shulker shells as he had multiple stashes of the shells
+> this was also done to pressure any of [[The Alliance]] to also burn theirs
+
 
 [[iBattus]], reinstated as an administrator for Season 10, seized the opportunity. Using his elevated permissions, he inspected [[WhoIsFishie]]'s ender chest, discovering what appeared to be an illegitimate shulker box.
 
@@ -230,6 +268,8 @@ players would claim they got it through legal means
 [[iBattus]] would then question [[Anoojfunaid]] about the [[Exploits#Hacked Helmet]]
 
 [[Anoojfunaid]], [[WhoIsFishie]] and [[Buhkiru]] would get on a call where [[WhoIsFishie]] tell [[Buhkiru]] about the helmet situation
+
+during this call [[Buhkiru]] would learn that the server has been exploited and that [[Anoojfunaid]] was hacking
 
 during this call [[WhoIsFishie]] and [[Anoojfunaid]] would forget to mute their mic so [[shihaam_me]] heard part of what was said 
 
@@ -302,6 +342,9 @@ the server would go quite as everyone took their time to take in the footage fro
 
 [[iBattus]] : Man logs don't lie, I don't wanna argue about this with you, You would hold a cigarette and make the person Infront believe you don't have a cigarette
 
+![[cat_posts_meme.jpg]]  
+_meme sent to the group chat by [[CatMDV|Cat]]_
+
 [[CatMDV|Cat]] would have some strong words to say about how the court hearing went as he was not happy about [[athphane]] being too lenient on the accused.
 
 - [[CatMDV|Cat]] : I am looking at what i see is Sodom
@@ -319,7 +362,6 @@ moments after [[WhoIsFishie]] and [[Donut]] would also go into the nether and co
 
 by a coincidence [[TheHarryG|12OK]], [[Donut]], [[WhoIsFishie]] and [[Buhkiru]] would all get wither skeleton skulls at the same time 
 
-
 [[WhoIsFishie]] and [[Donut]] would go to explore a bastion remnant and find ancient debris
 
 ### 100 deaths
@@ -335,6 +377,8 @@ a player named [[PrincipleOf_AIS]] who joined SarCraft sometime in week 1 of Sea
 
 [[PrincipleOf_AIS]] would deny any spying or trespassing allegations and would say he never entered [[iBattus]]'s base 
 
+![[ais_spying.jpg]]
+
 later things got heated and [[PrincipleOf_AIS]] would leak [[The Alliance]]'s base location. [[iBattus]] angry over this would have [[PrincipleOf_AIS]]'s items burned.
 
 the rest of the server watched as this unusual cruel behavior was taken place on a new player and it was condemned by the [[Chicken Factory]] members.
@@ -345,11 +389,26 @@ the rest of the server watched as this unusual cruel behavior was taken place on
 
 [[shihaam_me]] would ban [[Ssahan]] and [[iBattus]] until a court hearing 
 
+>[!info] Declassified Information The truth about the [[PrincipleOf_AIS]] incident:
+>
+>1. [[PrincipleOf_AIS]] was not an innocent player - he was sent by [[WhoIsFishie]] as part of a plan
+>2. AXIS had already completed several successful recon missions at [[The Alliance]]'s base when members were offline
+>3. [[PrincipleOf_AIS]] was specifically instructed to get caught and create drama
+>4. When [[PrincipleOf_AIS]] noticed [[The Alliance]] members using hacked clients, he went off-script to gather evidence
+>5. [[The Alliance]] detected [[PrincipleOf_AIS]] on their ESP hacks and moved to eliminate him
+>6. [[PrincipleOf_AIS]] spotted them approaching via free cam, logged out, and contacted [[WhoIsFishie]] for new instructions
+>7. [[WhoIsFishie]] told him to play dumb and provoke them further
+>8. [[WhoIsFishie]] alerted [[Chicken Factory]] members to be ready to escalate the situation in group chat
+>9. When [[Ssahan]] killed [[PrincipleOf_AIS]], the coordinates were leaked publicly - exactly as planned
+>
+> you can read more at [[Declassified Season 10 operations#6.1 PRINCIPLE OF AIS (Artificial Intelligent Shihaam)]]
+
 ### 89 seconds to midnight
 the dooms day clock on SarCraft would be moved to 89 seconds to midnight as [[Chicken Factory]] would make their way to [[The Alliance]]'s base now that its leaked and [[iBattus]] and [[Ssahan]] are banned
 
 they would find [[yeetuz]]'s pets there
 
+![[miss_mika.webp]]
 [[WhoIsFishie]] would post a picture of the pets with the caption
 "i miss [[Mika]]"
 
@@ -361,7 +420,6 @@ the factory members would leave after a few hours and no pets were killed.
 
 > [!NOTE] For the complete trial proceedings, see [[PrincipleOf_AIS vs The Alliance]]
  
-
 ### Era of Peace
 
 Week 2 would end with players starting to play together a lot more. Several significant developments shaped this period:
@@ -448,23 +506,23 @@ Under this pressure, [[iBattus]] finally relented, sharing an image of his inven
 
 But even this concession wasn't enough. "You could have hidden items," [[WhoIsFishie]] countered, while [[Perhaps]] added: "2 ender chests is sus."
 
+![[sshana_escape.webm]]
+
 As negotiations reached an impasse, the [[Chicken Factory ]]began formalizing their improvised hostage-taking. [[Buhkiru]] issued a series of commands that revealed their intentions: "Box this area. Remove water. Below that. Box that."
+
+![[sshan_box.jpg]]
 
 They were constructing a proper prison cell around [[Ssahan]], transforming what had begun as a simple border check into a full-scale hostage crisis that would echo the obsidian imprisonment techniques used against [[iBattus]] himself in previous seasons.
 
-The hostage situation eventually dissipated without administrative intervention. While [[shihaam_me]] briefly appeared in the Telegram chat, he merely joked about the situation rather than taking action, stating "Because you can't attend [court] if I don't allow you to" when players suggested a trial.
+![[sshan_prison.webp]]
 
-Later that day, the server's attention shifted dramatically as [[Donut]] and [[StrawBwabii]] engaged in what appeared to be a death competition, generating hundreds of "fell from a high place" messages in the server log over the span of nearly an hour. This bizarre activity drew [[BuhKiru]] into the mix, who began alternately killing the players with various named weapons including "Tig Bits," "Back Shots," and "COAL."
-
-Even [[shihaam_me]] joined this chaotic activity, earning the "Ice Bucket Challenge" advancement while occasionally burning to death in lava.
-
-During this period, [[StrawBwabii]] experienced a tragedy when their pet goat "Milk Maid" was killed by a wolf—ironically, their own dog. This led to efforts to breed new pets, with players discussing the creation of a "rare white wolf" variant.
+The hostage situation eventually dissipated without administrative intervention. While [[shihaam_me]] briefly appeared in the Telegram chat, he merely joked about the situation rather than taking action, stating "Because you can't attend court if I don't allow you to" when players suggested a trial.
 
 By the end of the day, [[iBattus]] had effectively abandoned negotiations for [[Ssahan]]'s release, eventually telling the Chicken Factory to "Kill him" when they proposed further talks. This callous dismissal prompted [[WhoIsFishie]] to remark that [[iBattus]] was "tryna make us catch a case."
 
-[[iBattus]] was later accused of being on a hacked client by [[shihaam_me]] himself, who asked directly in the Telegram chat: "are you on a hacked client." This accusation was particularly ironic given that earlier the same day, [[iBattus]] had accused [[Buhkiru]] of flying hacks after seeing him use Avas Ride, a trident with riptide.
+[[iBattus]] was later accused of being on a hacked client by [[shihaam_me]] himself, who asked directly in the Telegram chat: "are you on a hacked client." This accusation was particularly ironic given that earlier the same day, [[iBattus]] had accused [[Buhkiru]] of flying hacks after seeing him use `Avas Ride`, a trident with riptide.
 
-In a final twist of irony, [[TheHarryG|12OK]] shared a link to a website about handling tantrums in children, a barbed reference to [[iBattus]]'s repeated complaints to [[shihaam_me]] about the hostage situation.
+In a final twist of irony, [[TheHarryG|12OK]] shared a link to a [website](https://kidshealth.org/en/parents/tantrums.html#:~:text=If%20a%20tantrum%20happens%20after,best%20to%20ignore%20the%20tantrum) about handling tantrums in children, a barbed reference to [[iBattus]]'s repeated complaints to [[shihaam_me]] about the hostage situation.
 
 ### The Failed Peace Accord and Unwhitelisting
 
@@ -477,6 +535,10 @@ The document seemed like a major step toward stability after the hostilities of 
 #### The Jail Break and Threats
 
 Rather than engaging with the peace proposal, [[Ssahan]] executed a daring escape from his prison cell. he fails and burns to death, his first message to the server after this was ominous: "u lot gonna die soon." This threat set the tone for what would become a day of escalating tensions.
+
+>[!info] Declassified Information 
+> AXIS would work on building an arsenal of weapons to prepare for war including the following 
+> you can read more at [[Declassified Season 10 operations#Ibattus Killer 6000]]
 #### The Alliance Collapse
 
 As the day progressed, the tension reached a breaking point. In what would become a pivotal moment in Season 10 politics, [[iBattus]] left the SarCraft group chat entirely, effectively withdrawing from server politics in dramatic fashion.
@@ -493,17 +555,20 @@ The server logs captured [[WhoIsFishie]]'s reaction:
 
 At approximately 17:10 server time, [[iBattus]] briefly returned to the server, announcing cryptically: "wiping stuffs." This immediately triggered concern among [[Chicken Factory]] members that he might be preparing to destroy his base or engage in acts of retaliation.
 
+This action would put [[Chicken Factory]]'s doomsday clock to 58 seconds. [[Buhkiru]] would take everyone's pets to Exploit Island to keep them safe incase the Chicken Hill gets nuked
+
 When questioned by [[shihaam_me]] about his purpose for logging in, [[iBattus]] doubled down on his hostile stance: "you are bad admin, good for chicken factory."
 
 Sensing the potential for significant server damage, [[shihaam_me]] took the extraordinary step of unwhitelisting both [[iBattus]] and [[Ssahan]] from the server—not quite a ban, but effectively removing their ability to access the game world.
 
 Explaining the decision to others in the Telegram chat, [[shihaam_me]] clarified: "theyre not banned, theyre unwhitelisted" – technically allowing them a path to return if they wished to reconcile with the server community.
 
-#### Diplomatic Reflections
+#### Pranks
+![[frame_job.jpg]]
 
-As the dust settled, a period of reflection began. [[athphane]], the renowned server judge, remarked that he would "wear my winnings from court then" – a reference to the diamonds he had received during the previous week's trial. He added that it was "the easiest diamond grind I've ever done," highlighting the unusual economics of SarCraft's judicial system.
+[[Donut]] and [[StrawBwabii]] would go and egg [[athphane]]'s house and leave signs blaming [[Ssahan]] and [[iBattus]]
 
-Meanwhile, [[Buhkiru]] was already preparing for potential retribution: "Ik the nuke is coming, but if [[iBattus]] blows my base up while im offline, he is the biggest wuss... correction, biggest pussy."
+![[athphan_chickens.png]]
 
 #### The Era of Construction
 
@@ -522,17 +587,115 @@ In a moment of unintentional comedy, [[StrawBwabii]] was briefly accused of flyi
 
 ## Week 4
 
-to keep the server interesting sarcraft would receive a new modpack update which adds new decoration blocks, elytra trims and a camera
+### The ModPack Update
 
-as the end update was getting ready to release players would start preparing for the dragon fight
+![[elytra-trims1.png]]
+In Week 4, the server got a new modpack update to keep things fresh. This update added:
 
-on the night of 27th [[shihaam_me]] would open the end allowing players to join.
+- New decoration blocks for building 
+- Elytra trims to make flying gear look cool
+- A camera to take pictures
 
-the [[Chicken Factory]] wouldn't join as they wanted all members to be present
+![[beautify-refabricated.png]]
 
-[[WhoIsFishie]] suffering from a irl injury would suggest everyone to do the end event without him  
-[[Donut]] would suggest the same as she is traveling irl 
+These new items came at a good time, right after all the fighting and drama had settled down.
 
+### The Path to The End
+
+Players started getting ready for the Ender Dragon fight. Everyone was excited as they gathered their best gear for the big battle.
+
+On March 27th, [[shihaam_me]] opened The End dimension. This was a big deal since the server started with no diamonds and a locked Nether. The slow opening of each area had worked well to make the season last longer than the usual "two-week Minecraft phase."
+
+The [[Chicken Factory]] would delay the first dragon event because they wanted all their members there. [[WhoIsFishie]], who was hurt in real life, told everyone to go ahead without him. [[Donut]], who was traveling, said the same thing.
+
+### SarCube
+[[Buhkiru]] would document the building of the SarCube for this season
+
+> [!NOTE] Read more at [[SarCube]]
+
+### End raid
+
+After weeks of preparation and strategic planning, the long-awaited End dimension raid finally took place on March 30th. 
+
+[[WhoIsFishie]] and [[Donut]] would join the end raid while on vacation. [[Anoojfunaid]] would miss the raid because he fell asleep 
+
+The [[Chicken Factory]] made a diplomatic gesture by inviting [[ToadGod|ToadBlaze]] to join the expedition, strengthening relations with the [[Spawn Mason]] faction.
+
+![[End_Fight_selfie.webp]]
+
+- [[WhoIsFishie]]
+- [[ToadGod|ToadBlaze]]
+- [[Donut]]
+- [[Perhaps]]
+- [[Buhkiru]]
+- [[StrawBwabii]]
+- [[TheHarryG|12OK]]
+
+![[dragon_crazy.webm]]
+
+What came as a surprise to the raiding party was that the Ender Dragon had been significantly modified with new mechanics and attacks. Players had to adapt to these changes in real-time and work together to defeat the enhanced dragon.
+
+The modified dragon featured numerous changes including:
+
+- Increased health from 200 HP to 300 HP
+- A new dive attack creating massive shockwaves when hitting the ground
+- A "Triple Dive" variant when the dragon reached 75% health
+- Chain-fired dragon fireballs that dealt direct impact damage
+- A devastating laser attack
+- Phantom guardians protecting the end crystals
+- A dramatic final phase where the dragon hovered, forcing players to levitate and deliver the killing blow mid-air
+- Boss music that played to all players on the center island
+- Blue soul fire replacing standard fire on end crystals
+
+The fight was further complicated by the dragon's increased knockback resistance, which prevented the traditional strategy of locking it in place with arrows. Additionally, dragon breath effects lasted twice as long as normal, creating dangerous zones throughout the battle arena.
+
+When the dragon reached 10% health, it became temporarily immune to damage until perched, forcing players to adapt their strategy for the final phase.
+
+![[dragon death.webp]]
+
+After an intense battle, the group succeeded in defeating the enhanced dragon, with [[WhoIsFishie]] claiming the egg as his prize. Everyone within 128 blocks of the center island received the "Free the End" advancement to commemorate their victory.
+
+Following the dragon fight, the team made their way through the End dimension to raid end cities, collecting valuable shulker shells and elytra wings to bring back to the overworld.
+## Past the 4 weeks
+
+With the planned 4 weeks of SarCraft coming to an end, [[shihaam_me]] decided to let the server continue running without further updates or maintenance. The Season 10 world would remain active as long as players continued to engage with it.
+
+### Continued Activity
+
+Despite reaching the official end of the planned season, several dedicated players maintained their presence on the server:
+
+- [[StrawBwabii]] continued expanding her elaborate base, adding intricate details and new structures
+- [[WhoIsFishie]] worked on finishing his ambitious underground complex
+- [[dannyzek]] remained one of the most active players, regularly logging in to continue his projects
+- [[Buhkiru]] focused on documenting the famous [[SarCube]] that had become a server landmark
+- [[ToadGod|ToadBlaze]] continued developing the revitalized [[Spawn Mason]] headquarters
+
+### Community Renaissance
+
+Season 10 distinguished itself as the most artistically productive season in SarCraft history. Unlike previous seasons that focused primarily on faction warfare and political maneuvering, Season 10 fostered an unprecedented era of creativity and community expression:
+
+- [[StrawBwabii]] created drawings of the [[Chicken Factory]] members, which were shared throughout the community
+- [[FlameXode]] produced a voiceover for [[Buhkiru]]'s documentary chronicling the creation of the [[SarCube]]	
+- [[invisble715|Pumkin715]] animated key moments from the historic "State vs Axis" trial, preserving the dramatic courtroom exchanges
+
+This extended period of peace and creativity helped cement Season 10's reputation as one of the most successful and enjoyable seasons in SarCraft history, proving that the modified gameplay mechanics had indeed succeeded in extending the server's lifespan beyond the dreaded "two-week Minecraft phase."
+ 
+
+## Fishie's Retirement 
+
+[[WhoIsFishie]] officially retired after five seasons on SarCraft. This was no surprise, as he had been hinting at stepping back for some time. 
+
+"*The time has come to pass the torch,*" Fishie told everyone in [[Chicken Factory]]. After years of faction fights, court cases, and helping with server tech, he was stepping back from playing regularly.
+
+The [[Chicken Factory]] would now be led by [[Buhkiru]], Fishie's friend and ally. This was the end of an era for the server and the start of something new for the faction that had been so powerful for many seasons.
+
+Fishie said he would still help with server maintenance and show up for special events, but wouldn't be an active player in future seasons.
+
+He explained he was retiring because of changes in his life and wanting to spend more time with family and work. This showed how the server community had grown up along with its players.
+
+As [[Buhkiru]] took over the [[Chicken Factory]], everyone wondered what would happen next. Would the faction stay strong with a new leader? Or would this change shake up the server's power balance?
+
+Only time would tell what would happen to the [[Chicken Factory]] now. But everyone knew that [[WhoIsFishie]] had left his mark on SarCraft's history.
 
 > [!NOTE] For a complete list of Season 10 modifications and changes, see [[ChangeLog]]
 

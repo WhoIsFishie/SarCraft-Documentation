@@ -49,3 +49,5 @@ In a server defined by revolution, admin abuse, and factional warfare, Cat stand
 
 > "If it was a dick made out of obs, I'm not interested" — Cat's dismissive response during the infamous [[Season 3#The Diamond Penis Incident|Diamond Penis Trial]]
 
+
+TODO : update

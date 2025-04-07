@@ -73,17 +73,17 @@ A minimap mod that allows players to share locations and map the chunks they've 
 
 Players receive a notification when their tools or armor are about to break, preventing unexpected item loss.
 
-#### Enchanting Storage
+#### [Enchanting Storage](https://github.com/Fuzss/easymagic) by Fuzss
 
 Lapis lazuli can now be stored inside enchanting tables, eliminating the need to carry it for each enchanting session.
 
 ### Content Additions
 
-#### Dungeons and Taverns
+#### [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns)
 
 New structures have been added to the world, containing valuable loot including diamonds and armor. These structures provide an alternative progression path since diamond ore is disabled.
 
-#### Voice Chat
+#### [Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 Integrated voice communication includes both proximity-based chat for nearby players and group calls for team coordination.
 
@@ -91,14 +91,14 @@ Integrated voice communication includes both proximity-based chat for nearby pla
 
 Multiple modifications to pets:
 
-- **Chested Companions** - Dogs can wear chests with 9 inventory slots (items not protected by grave mod if the dog dies)
-- **Sleeping Dogs** - Dogs will go to sleep after sitting for an extended period
+- **[Chested Companions](https://modrinth.com/mod/chested-companions)** - Dogs can wear chests with 9 inventory slots (items not protected by grave mod if the dog dies)
+- **[Sleeping Dogs](https://modrinth.com/mod/let-sleeping-dogs-lie)** - Dogs will go to sleep after sitting for an extended period
 - **Fat Cats** - Resource pack that makes cats appear chonky
-- **Better Horses** - Improved horse mechanics and abilities
+- **[Better Horses](https://modrinth.com/mod/horsebuff)** - Improved horse mechanics and abilities
 
 ### Balance Changes
 
-#### Anvil Overhaul
+#### [Anvil Overhaul]((https://github.com/Fuzss/easyanvils) by Fuzss
 
 With mending removed, anvils have been modified to allow unlimited repairs without increasing costs or refusing to repair heavily-used tools.
 
@@ -115,43 +115,43 @@ Wandering traders now offer miniature versions of regular blocks, providing uniq
 ## later updates
 these are additional updates released to the server over time
 
-## [Sit](https://curseforge.com/minecraft/mc-mods/sit-fabric) by bl4ckscor3
+### [Sit](https://curseforge.com/minecraft/mc-mods/sit-fabric) by bl4ckscor3
 Adds the ability to sit on slabs and stairs.
 this mod was added for the second court session
 
-## VinURL by Plompi, Hoofer
+### [VinURL](https://modrinth.com/mod/vinurl) by Plompi, Hoofer
 Adds a writeable music disc, allowing you to customize the music that plays from any youtube link.
 
-### What Are They Up To (Watut)
+### [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to) (Watut)
 Lets you see if players are typing, in a GUI, idle, with cool ingame visuals
-### Tasty Vanilla
+### [Tasty Vanilla](https://modrinth.com/mod/tasty-vanilla) by Jaubert
 A Delicious Expansion to Minecraft’s Food System
 Farm and harvest new crops and berries, and cook new food recipes, all while staying true to vanilla mechanics and feel.
 
-### Leashable Collars
+### [Leashable Collars](https://modrinth.com/mod/leashable-collars) by jlortiz0
 a mod that allows you to put leashes on players
 
-## NotEnoughPots
+### [NotEnoughPots](https://modrinth.com/mod/not-enough-pots) by anweisen
 mod to make all plants and food be put in a pot
 
-## More Berries by Marcus Elg
+### [More Berries](https://modrinth.com/mod/more-berries) by Marcus Elg
 Adds more berries, that can be used for cakes and more!
 
-### headpats
+### [headpat](https://modrinth.com/plugin/headpat) by enjarai
 Give headpats to other players!
 
-## [Elytra Trims](https://modrinth.com/mod/elytra-trims) by KikuGie
+### [Elytra Trims](https://modrinth.com/mod/elytra-trims) by KikuGie
 
 Lightweight and customizable support for elytra trims and other decorations
 
-## [ElectricMace](https://modrinth.com/project/electric-mace) by anvian
+### [ElectricMace](https://modrinth.com/project/electric-mace) by anvian
 
 Adds the possibility of enchanting the new Mace with Channeling so that when we hit a mob from above it will be hit by lightning if it thunders.
 
 ### [Camerapture](https://modrinth.com/mod/camerapture) by chrrrs
 Take photos and display pictures in Minecraft.
 
-## [Beautify](https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated) by Suel_ki
+### [Beautify](https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated) by Suel_ki
 
 Beautify adds lots of vanilla-styled ways to spice up your builds with custom models that'll fit right in to your houses etc.
 

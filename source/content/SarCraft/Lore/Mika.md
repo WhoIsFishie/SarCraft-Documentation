@@ -6,7 +6,7 @@ tags:
 
 Mika is a real life cat that belonged to [[Anoojfunaid]] who would unfortunately pass away during [[Season 9]]. [[WhoIsFishie]] and [[Nausham]] would build a cat farm to spawn in a similar cat 
 
-![[noof_meets_mika.png]]
+![[noof_meets_mika.webp]]
 
 during the [[iBattus]] war [[Anoojfunaid]] would text [[iBattus]] requesting that Mika be kept safe during the war   
 ![[mika_peace_treaty.jpg]]  

@@ -73,3 +73,6 @@ Despite trials that would break lesser administrators, Shihaam's resilience rema
 His continued presence through nine seasons stands as testament to an unwritten rule of SarCraft: the server may crash, factions may rise and fall, but Shihaam - and his cobblestone monstrosities - will always return.
 
 > "I would like to apologize once again and I will do everything to make sure this never happens again." - [[shihaam_me]], a promise made and broken across multiple seasons
+
+
+TODO : update

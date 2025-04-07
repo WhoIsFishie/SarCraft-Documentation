@@ -14,7 +14,7 @@ The Holy Knights of the Templars is a faction originally started by a group of C
 ### The Holy War
 The holy war is a war raged against the Nazi's at the tail end of [[Season 2]] where they would build a large monument Infront of the [[Nazi]]'s compound with a book declaring their plans to kill off all nazi members 
 
-![[Holy Knights of the Templars.png]]
+![[Holy Knights of the Templars.webp]]
 
 inside the monument was found the following book
 ![[templers_msg.jpg]]

@@ -115,8 +115,8 @@ As [[WhoIsFishie]] and his crew returned to find their paradise in ruins. The si
 
 The destruction of [[Fishie Land]]'s agricultural foundation demanded retaliation. [[WhoIsFishie]], abandoning all pretense of pacifism, launched a scorched earth campaign against [[iBattus]]'s base. TNT was just the beginning - lava cascades turned the once-proud structure into a smoldering ruin:
 
-![[2024-03-30_21.11.44.png]]     
-![[2024-03-30_21.16.25.png]]
+![[2024-03-30_21.11.44.webp]]     
+![[2024-03-30_21.16.25.webp]]
 
 Meanwhile, [[iBattus]] continued his systematic destruction of [[Fishie Land]], and in perhaps the most emotionally devastating attack of the war, killed [[Mika]] - an act of cruelty that crossed an unspoken line.
 
@@ -138,7 +138,7 @@ With this final blow, [[Fishie Land]] claimed victory. [[iBattus]], refusing to 
 
 In a final act of defiance, [[iBattus]] claimed moral victory, insisting he had accomplished his true objective - the destruction of [[Fishie Land]]. But the evidence suggested otherwise:
 
-![[fishieland_rebuilt.png]]    
+![[fishieland_rebuilt.webp]]    
 Rising from the ashes of destruction, [[Fishie Land]] was rebuilt stronger than before - a testament to the resilience of its faction and the ultimate failure of [[iBattus]]'s revenge.
 
 Perhaps [[iBattus]]'s revenge had succeeded after all, not in destroying [[Fishie Land]] permanently, but in forever altering the sense of security and superiority that had defined [[WhoIsFishie]]'s reign for so many seasons.

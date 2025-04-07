@@ -45,6 +45,65 @@ In what would become known as "The Great War of Season 9," iBattus and Ssahan la
 
 Though ultimately outmatched in the final battle, iBattus claimed moral victory in his mission to destroy [[Fishie Land]]. Rather than face defeat, he chose to never log into the server again - ending Season 9 on his own terms.
 
+#### Season 10 - Truce, Treachery, and Exile
+
+The unthinkable occurred at the dawn of Season 10 when iBattus and [[WhoIsFishie]] - mortal enemies for half a decade - negotiated peace. This momentous reconciliation shocked veterans who had witnessed their bitter feuds across multiple seasons.
+
+> "After years of bitter rivalry spanning multiple seasons, [[WhoIsFishie]] and [[iBattus]] – the server's most legendary antagonists – reached out across enemy lines to negotiate peace."
+
+The truce enabled an unprecedented collaboration, with iBattus and [[WhoIsFishie]] working together to design mods that would fundamentally transform gameplay. Their partnership produced revolutionary changes. 
+
+In a gesture of reconciliation, [[shihaam_me]] restored iBattus to his former administrative position - a dramatic reversal of fortune that gave him another chance at authority. Yet the peace would prove short-lived.
+
+##### The Telegram Plugin Feud
+
+Tensions emerged when iBattus rejected [[WhoIsFishie]]'s proposal for a more secure authentication system, preferring to stick with the notoriously exploitable Telegram plugin that had been a source of server vulnerabilities for years. The ensuing dispute collapsed their fragile truce, with both reverting to old antagonisms.
+
+> "Who cares about what [[WhoIsFishie]] wants"
+
+This dismissive statement from [[shihaam_me]], which iBattus supported, rekindled the old hostilities. When [[WhoIsFishie]] created a poll that showed overwhelming support for his position, the administrative alliance found itself on the defensive.
+
+##### The Exploit and Evidence Controversy
+
+When the Telegram plugin vulnerability was finally exploited, resulting in illegal items appearing on the server, iBattus saw an opportunity. Using his administrative powers, he inspected [[WhoIsFishie]]'s ender chest and claimed to discover an illegitimate shulker box - evidence he immediately posted in the group chat.
+
+![[fishie_echest.jpg]] _The controversial screenshot that would lead to "The Trial of the Century"_
+
+[[WhoIsFishie]] vehemently denied the accusation, claiming iBattus had planted the evidence to frame him. The controversy escalated into formal legal proceedings when three players were banned in connection with the exploit.
+
+##### The State vs. Axis Trial
+
+In what would become one of the most significant judicial proceedings in SarCraft history, iBattus found himself in the unfamiliar position of prosecutor rather than defendant. Working alongside [[shihaam_me]], he presented evidence against [[WhoIsFishie]], [[Anoojfunaid]], and [[Perhaps]].
+
+The trial revealed deep flaws in iBattus's case when he was caught submitting misdated evidence, claiming certain logs were from February 5th when the server hadn't even launched until February 28th. This critical error undermined his credibility and shifted momentum toward the defense.
+
+When [[shihaam_me]] himself sided against iBattus at several key moments, describing the prosecution's arguments as "a [[iBattus]] skill issue," the administrative alliance fractured publicly. By the trial's conclusion, [[WhoIsFishie]] and [[Perhaps]] were cleared of major charges, with Judge [[athphane]] determining the alleged shulker box was merely "purple concrete."
+
+This judicial defeat represented another humiliating setback for iBattus, who found his evidence discredited and his administrative judgment questioned.
+
+##### The PrincipleOf_AIS Incident
+
+iBattus's most consequential action in Season 10 came when he ordered the killing of new player [[PrincipleOf_AIS]] for allegedly spying on [[The Alliance]]'s base. When [[PrincipleOf_AIS]] denied the accusations and later leaked the base coordinates in retaliation, iBattus escalated the situation by ordering the player's items burned.
+
+This unusually cruel behavior toward a new player drew condemnation from the server community, particularly the [[Chicken Factory]]. The situation worsened when [[PrincipleOf_AIS]] accused [[The Alliance]] members of using hacked clients, leading [[shihaam_me]] to ban both iBattus and [[Ssahan]] pending a formal hearing.
+
+The resulting trial, presided over by [[CatMDV]], resulted in a two-day ban for iBattus and a requirement to provide a full diamond set to the wronged player - another public humiliation.
+
+##### The TSA Incident and Final Unwhitelisting
+
+The final chapter of iBattus's Season 10 saga began when he was discovered trespassing in [[Chicken Factory]] territory. When confronted and asked to submit to a "TSA inspection" (inventory check), he refused, leading to a standoff.
+
+The situation escalated dramatically when [[Ssahan]] was taken hostage by the [[Chicken Factory]], who demanded iBattus's compliance in exchange for his ally's freedom. Despite repeated appeals to [[shihaam_me]] for intervention, iBattus received no administrative support.
+
+> "If u spam the kid dies," [[Perhaps]] warned, escalating the hostage situation.
+
+The crisis reached its breaking point when iBattus eventually abandoned [[Ssahan]] to his fate, telling the [[Chicken Factory]] to "Kill him" when they proposed further negotiations. This callous dismissal prompted [[WhoIsFishie]] to remark that iBattus was "tryna make us catch a case."
+
+In the aftermath, iBattus left the SarCraft group chat entirely, effectively withdrawing from server politics. His brief return to announce "wiping stuffs" triggered concerns of retaliatory destruction, leading [[shihaam_me]] to take the extraordinary step of unwhitelisting both iBattus and [[Ssahan]] from the server.
+
+When questioned about his purpose for logging in, iBattus's final words to the server community revealed his bitterness: "you are bad admin, good for chicken factory."
+
+With this unceremonious exit, iBattus's Season 10 journey ended not with a dramatic last stand, but with administrative removal - a fitting conclusion for a player whose SarCraft career had been defined by authority, its abuse, and its loss.
 ### Character Traits
 
 #### The Engineer
@@ -61,8 +120,10 @@ Perhaps iBattus's most defining characteristic was his tendency to disconnect du
 
 ### Legacy
 
-iBattus's journey through SarCraft history serves as a cautionary tale about the corrupting influence of power and the price of pride. From community builder to disgraced administrator to vengeful warrior, his evolution mirrors the server's own transition from peaceful cooperation to factional warfare.
+iBattus's journey through SarCraft history serves as a cautionary tale about the corrupting influence of power and the price of pride. From community builder to disgraced administrator to vengeful warrior to reluctant peacemaker and finally to exiled pariah, his evolution mirrors the server's own complex transitions.
 
-Though his final act was to abandon the server rather than face defeat, iBattus's impact on SarCraft cannot be overstated. His rivalry with [[WhoIsFishie]] drove some of the most dramatic moments in server history, and his administrative abuses provided the catalyst for the revolutionary movements that would reshape SarCraft's political landscape forever.
+His rivalry with [[WhoIsFishie]] drove some of the most dramatic moments in server history, from the Season 5 Revolution to the Season 8 Fish Bundy Trials to the Season 9 Great War to the Season 10 administrative controversies. Even in their brief alliance at the start of Season 10, their relationship defined server politics.
 
-In the pantheon of SarCraft legends, iBattus stands as neither hero nor villain, but as something more complex - a player whose ambition and pride created both moments of community brilliance and episodes of catastrophic destruction.
+In the pantheon of SarCraft legends, iBattus stands as neither hero nor villain, but as something more complex - a player whose ambition and pride created both moments of community brilliance and episodes of catastrophic destruction. Perhaps most significantly, his inability to accept defeat gracefully - whether through combat logging, administrative abuse, or server abandonment - serves as his most enduring and controversial legacy.
+
+Season 10's final judgment on iBattus came not from a dramatic battle or court verdict, but from the administrative decision to remove his access entirely - a quiet end to SarCraft's most dramatic antagonist.

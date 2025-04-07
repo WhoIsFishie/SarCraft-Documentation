@@ -22,6 +22,9 @@ Unlike the rigid hierarchies of factions like the [[Nazi]]s or the [[Chicken Fac
 
 ### Season History
 
+#### Season 10 - The Return of the Masons
+
+
 #### Season 5 - The Age of Peace
 
 The Spawn Masons feature most prominently in the early days of [[Season 5]], where they established themselves as the dominant force before the revolutionary chaos that would later define the season. Key members during this period included:
@@ -42,9 +45,11 @@ Despite some setbacks, including [[iBattus]]'s failed attempt at constructing a 
 
 While the Spawn Masons appeared in multiple seasons, they had a particularly notable presence in [[Season 3]]. The server archives include screenshots of their constructions during this period:
 
-![[2020-04-24_06.22.43.png]]![[2020-04-24_06.22.49.png]]![[2020-04-24_06.22.51.png]]
+![[2020-04-24_06.22.43.webp]]![[2020-04-24_06.22.49.webp]]![[2020-04-24_06.22.51.webp]]
 
 These images showcase the Spawn Masons' commitment to creating functional, community-oriented spaces at spawn - a visual testament to their cooperative ideology.
+
+
 
 ### Notable Contributions
 
@@ -72,3 +77,6 @@ The Spawn Masons represent what many consider the "soul" of SarCraft - the origi
 In many ways, the tension between the Spawn Mason ethos and the increasingly chaotic, exploitative practices of dominant factions represents the central conflict of SarCraft's evolution - a struggle between creation and destruction, between cooperation and domination, that continues to define the server's unique culture.
 
 When new seasons begin, there is always a brief period where the Spawn Mason ideology predominates, as players establish their first bases and work together to survive. It is only later, when resources become abundant and power imbalances emerge, that the darker aspects of SarCraft politics take hold - a cycle that has repeated itself throughout the server's long and storied history.
+
+
+TODO : update

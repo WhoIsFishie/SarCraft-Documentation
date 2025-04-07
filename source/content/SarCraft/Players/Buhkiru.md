@@ -66,3 +66,7 @@ Despite his fearsome reputation, Buhkiru maintains strategic alliances that have
 As SarCraft continues to evolve, one constant remains: when combat erupts, all eyes turn to Buhkiru, waiting to see what devastating new technique The Tactician has developed to once again redefine the art of Minecraft warfare.
 
 > "I don't need hacked clients to win fights." - [[Buhkiru]]
+
+
+
+TODO : update

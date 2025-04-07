@@ -58,6 +58,8 @@ A sophisticated nether highway system was constructed, allowing for rapid travel
 
 The method of destruction was ingenious in its simplicity: growing giant mushrooms directly into portal frames, replacing the irreplaceable End portal blocks with mundane fungal matter. [[WhoIsFishie]] and [[Kuruzu_]] traversed thousands of blocks, methodically eliminating dimensional gateways one by one.
 
+![[endportal_chart.png]]
+
 "_If we control the End, we control everything that comes from it,_" [[WhoIsFishie]] reportedly declared as another portal frame crumbled beneath a mushroom's expansion.
 
 ## The Egg race

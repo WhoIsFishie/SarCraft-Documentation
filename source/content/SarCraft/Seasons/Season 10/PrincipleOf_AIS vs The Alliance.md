@@ -18,6 +18,11 @@ court case taking place between [[PrincipleOf_AIS]] and [[The Alliance]]
 - [[CatMDV]]
 
 
+ill update this stuff later fr trust
+
+TODO : update this doc pls
+
+
 So the verdicts:
 - [[iBattus]] gets 2 day ban starting and including the day and time he was banned for this
 - [[iBattus]] to provide a full diamond set to Edge. Armor only, no tools. And food is also NOT required to be provided. within the next 5 days

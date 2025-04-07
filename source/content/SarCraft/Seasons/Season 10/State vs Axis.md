@@ -5,6 +5,8 @@ tags:
 ---
 ## The Landmark Trial of Season 10
 
+![[court_house.jpg]]
+
 In the wake of a server-wide controversy involving the banning of [[WhoIsFishie]], [[Anoojfunaid]], and [[Perhaps]], a formal trial was convened to determine their guilt and appropriate punishments. This trial would become one of the most significant judicial proceedings in SarCraft history, revealing deep divisions between server administration and the powerful [[Chicken Factory]] faction.
 
 ## Legal Teams
@@ -16,12 +18,14 @@ In the wake of a server-wide controversy involving the banning of [[WhoIsFishie]
 
 **Defense (Chicken Factory):**
 
+![[axis_court.jpg]]
+
 - [[Donut]] - Lead Counsel for [[WhoIsFishie]]
 - [[Buhkiru]] - Counsel for [[Perhaps]] and [[Anoojfunaid]]
 - [[TheHarryG|12OK]] - Supporting Counsel
 
 **Presiding Judge:**
-
+![[judge_1.jpg]]
 - [[athphane]] - Renowned for his previous judicial role in the [[Season 8#The Trial of the Century|Fish Bundy Trials]]
 
 > [!NOTE] For a complete list of evidence submitted by both sides, see [[Evidence Catalog]]
@@ -71,6 +75,8 @@ The state formally dropped these charges against [[WhoIsFishie]].
 **[[Anoojfunaid]]** admitted to cheating charges, and [[Chicken Factory]] went into recess to discuss a plea deal.
 
 Initially, [[TheHarryG|12OK]] bungled the defense:
+
+![[12ok_speaking to judge.jpg]]
 
 > **[[TheHarryG|12OK]]:** _[speaking for [[Anoojfunaid]]]_ "He's an idiot and admits to the crimes he committed." _[but forgets to make an actual plea deal with the judge]_
 

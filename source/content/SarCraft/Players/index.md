@@ -12,7 +12,7 @@ tags:
 - [[FlameXode]] - Season 10 Admin
 
 ### Retired/Kicked Admins
-- [[iBattus]] - Season 5 Admin
+- [[iBattus]] - Season 5/10 Admin
 - [[Redacted]] - Pre Season 3 Admin
 
 
@@ -36,10 +36,8 @@ Known for their complex Redstone contraptions and automation systems:
 Players who have made significant contributions to server History:
 - [[WhoIsFishie]]
 - [[iBattus]]
-- [[flowerrthiccc]]
 - [[ToadGod]]
 - [[Redacted]]
-- [[TheHarryG]]
 
 ### Veteran Players
 Members who have been active for the longest:
@@ -50,15 +48,15 @@ Members who have been active for the longest:
 ## Player Statistics
 - Total Registered Players: 25+
 
-
 ## Factions
 - [[Chicken Factory]]
+- [[The Alliance]]
 - [[Holy Knights of the Templars]]
 - [[Fishie Land]]
 - [[Nazi]]
 - [[Spawn Mason]]
 - [[Weebs]]
-- [[The Alliance]]
+
 
 ---
 

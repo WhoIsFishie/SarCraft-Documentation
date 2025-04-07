@@ -9,9 +9,10 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 ## Current Season
 
-### Season 10: 
+### Season 10: The Great Trials
+![[season_10_title_card.jpg]]
 **Duration**: Pending  
-**World Seed**: Pending    
+**World Seed**: -2328839745544061503    
 **Notable Features**:
 - Custom Mods
 
@@ -122,3 +123,14 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 %% - Largest Build: Sky-rail Network (Season 7) %%
 %% - Most Community Events: Season 8 (ongoing)
 %%
+
+## editors note
+we must hold on to the memories of the good old days as age betrays our mind 
+
+I make this for all of the lovely players who I built together and fought against
+
+We all had our experience on this server during our golden years and I wouldn't trade anything for those memories 
+
+This site shall be up for anyone who'd like to look back and for anyone who'd like to read up on the history of the best server in Maldives 
+
+ -whoisfishie-

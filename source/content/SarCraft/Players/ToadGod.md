@@ -28,8 +28,7 @@ ToadGod's principles were immediately tested when the former [[Nazi]] leader, st
 During this period, ToadGod announced an ambitious plan to raid the End dimension and distribute Elytra wings to all players - a plan perfectly aligned with the [[Spawn Mason]] philosophy of shared resources and community benefit.
 
 Through cosmic irony, while traveling through the Nether to execute this plan, ToadGod's newly created portal inexplicably linked with the [[Nazi]] base portal - a one-in-a-million coincidence that revealed their secret location and their duplication operations.
-
-#### The Diamond Penis Incident
+##### The Diamond Penis Incident
 
 Perhaps the most infamous confrontation involving ToadGod occurred when the [[Nazi]] faction constructed an enormous diamond phallus directly in front of his base. This provocative act triggered what would become known as "The Pissing Contest" - a heated dispute over land claims and griefing rules that escalated to the server's first formal trial.
 
@@ -44,6 +43,19 @@ When asked to state his terms for allowing the [[Nazi]] faction to build near hi
 > "I can't grant permission for them to build there. It's next to my base literally. That is also where a path is going to be to connect my base to the village.. We agreed to not meddle, build or build near each other's bases at the start of the season. Not even a month and they already started being toxic again."
 
 The diamond penis dispute would ultimately contribute to [[shihaam_me]]'s decision to ban the [[Nazi]] leader from the server, causing Season 3 to collapse after just thirteen days - going down in history as "the shortest season in SarCraft history."
+
+
+#### Season 10 - ~figure out a name for this~
+
+![[toad_base.webp]]
+in season 10 toadblaze would initially set base a bit far from spawn but would later on move back to spawn to reunite with [[CatMDV|Cat]] after many nears. both of them would relaunch the [[Spawn Mason]] and work on building a beautiful spawn.
+
+
+![[toad_spawn_base.webp]]
+Toad would build his house on top of a hill at spawn with a auto fish farm right next to his base. 
+
+![[spawn_bridge.jpg]]
+he would also help with the construction of the bridge from spawn island to mainland
 
 ### Character Traits
 
