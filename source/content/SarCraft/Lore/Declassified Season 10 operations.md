@@ -145,9 +145,9 @@ The name also served as wordplay that amused team members.
 
 ### 4.3 AXIS HIDEOUT
 
-![[AXIS HIDEOUT.png]]  
+![[AXIS HIDEOUT.webp]]  
 
-![[AXIS HIDEOUT1.png]]
+![[AXIS HIDEOUT1.webp]]
 
 [[Players/WhoIsFishie|WhoIsFishie]] converted a drained ocean monument near Exploit Island into a storage facility with several features:
 

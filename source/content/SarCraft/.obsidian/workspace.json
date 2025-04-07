@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Chicken Factory.md",
+                "file": "Lore/Declassified Season 10 operations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chicken Factory"
+              "title": "Outline of Declassified Season 10 operations"
             }
           },
           {
@@ -238,8 +238,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19c865143fe6a4d9",
+  "active": "a1431c86dd58ab90",
   "lastOpenFiles": [
+    "Factions/Chicken Factory.md",
     "Seasons/S10_images/sshana_escape.webm",
     "Seasons/S10_images/escape_2.webm",
     "Seasons/S10_images/end/dragon_crazy.mp4",
@@ -260,7 +261,6 @@
     "Seasons/S10_images/ps83FA.tmp",
     "Seasons/S10_images/ps572D.tmp",
     "Seasons/S10_images/psC2AB.tmp",
-    "Seasons/S10_images/ps45F9.tmp",
     "Lore/SAR_Shop.md",
     "Lore/Untitled.md",
     "Players/WhoIsFishie.md",
