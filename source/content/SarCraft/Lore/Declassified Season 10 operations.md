@@ -1,7 +1,6 @@
 ---
 tags:
   - lore
-  - hidden
 draft: false
 ---
 # DECLASSIFIED SARCRAFT INTELLIGENCE DIRECTIVE

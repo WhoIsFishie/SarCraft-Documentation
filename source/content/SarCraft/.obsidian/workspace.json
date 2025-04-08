@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Declassified Season 10 operations.md",
+                "file": "Players/WhoIsFishie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Declassified Season 10 operations"
+              "title": "Outline of WhoIsFishie"
             }
           },
           {
@@ -238,8 +238,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1431c86dd58ab90",
+  "active": "090277cc64d1e96d",
   "lastOpenFiles": [
+    "Lore/Declassified Season 10 operations.md",
     "Factions/Chicken Factory.md",
     "Seasons/S10_images/sshana_escape.webm",
     "Seasons/S10_images/escape_2.webm",
@@ -272,7 +273,6 @@
     "Players/Untitled.md",
     "Players/Untitled 1.md",
     "Templates/player_template.md",
-    "Lore/Declassified Season 10 operations.md",
     "Lore/Exploits.md",
     "Seasons/Season 10/State vs Axis.md",
     "Lore/Adhuray.md",

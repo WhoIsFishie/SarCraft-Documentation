@@ -2,8 +2,8 @@
 tags:
   - Faction
 ---
-
-## members
+![[cf_selfie.webp]]
+## Members
 [[Kuruzu_]]
 [[Buhkiru]]
 [[shinwo_o]]
@@ -34,8 +34,6 @@ the standard issue chicken kit is a shulker box given to all members of the chic
 - crystals 
 - echest
 - etc
-
-this kit was 
 
 ## Season 6
 the chicken factory is officially formed in this season    
@@ -83,8 +81,6 @@ the factory would also use its influence to open up the first ever [[SAR_Shop]] 
 
 the Chicken hill as it would be known would come to be the center of the small village that built around it
 
-
-![[cf_selfie.webp]]
 [[Buhkiru]]'s base being the house on top of the hill with a small pond and farm to its right as well as custom 2 cherry trees both sides of the house
 
 
