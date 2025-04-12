@@ -1,3 +1,5 @@
+
+![https://github.com/WhoIsFishie/SarCraft-Documentation/blob/main/source/content/SarCraft/Seasons/S1_images/sarcraft_banner.png](https://github.com/WhoIsFishie/SarCraft-Documentation/blob/main/source/content/SarCraft/Seasons/S1_images/sarcraft_banner.png)
 # SarCraft Documentation Wiki
 
 Documentation of SarCraft history and lore.
