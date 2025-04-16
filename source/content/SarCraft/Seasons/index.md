@@ -101,7 +101,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 ![[season_1_title_card.jpg]]       
 
 **Duration**: 2019
-**World Seed**: unknown  
+**World Seed**: 4152637575382435277  
 **Notable Features**:
 - [[SarCube]]
 
@@ -109,7 +109,7 @@ Welcome to the comprehensive archive of Sarcraft's seasons. Each season represen
 
 ### Season 0: The Start
 **Duration**: unknown
-**World Seed**: unknown  
+**World Seed**: 4152637575382435277  
 **Notable Features**:
 - [[Cow Ziney]]
 

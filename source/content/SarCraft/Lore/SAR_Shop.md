@@ -1,3 +1,7 @@
+---
+tags:
+  - lore
+---
 ![[sar_shop.jpg]]
 
 with the limitation of villager trading and new items being added via mods that might not be obtainable due to the small world size a shop was built at spawn for [[shihaam_me]]

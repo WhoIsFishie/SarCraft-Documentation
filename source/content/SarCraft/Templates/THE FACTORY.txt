@@ -1,0 +1,263 @@
+## A SarCraft Story
+
+_Written in the style of Martin Scorsese_
+
+**FADE IN:**
+
+**EXT. CHICKEN HILL – DAWN**
+
+_Sunrise over a beautiful Minecraft landscape. A serene hill dotted with custom-built structures, cherry trees swaying in the breeze. We hear FISHIE's voice in voiceover as the CAMERA SLOWLY PANS across the land._
+
+**FISHIE (V.O.)**  
+In the beginning, SAR created a server. And I have to say, for what it was worth, it was beautiful.
+
+_The camera continues across the Chicken Factory compound – revealing a thriving community with intricate architecture. SLOW MOTION shots of players going about their day._
+
+**FISHIE (V.O.)**  
+Season 10. The fresh start. The clean slate. Me and iBattus, we'd been at each other's throats for five goddamn seasons. But this time, we did something crazy. We made peace.
+
+_CUT TO: FISHIE and IBATTUS shaking hands in front of a neutral spawn building. It’s stiff, but real._
+
+**FISHIE (V.O.)**  
+I remember thinking, "This is it. No more wars, no more combat logging. We're finally gonna build something that lasts."
+
+_MONTAGE: Players building, exploring, laughing in chat. The camera is frenetic, energized – showing the buzz of a new season._
+
+**FISHIE (V.O.)**  
+The Chicken Factory wasn't a faction. It was a family. We had Buhkiru, the fighter – a made man with a diamond sword. Kid was unstoppable.
+
+_CUT TO: BUHKIRU dispatching a threat with calculated precision. SLOW MO kill cam._
+
+**FISHIE (V.O.)**  
+Then the new blood – Donut, StrawBwabii, Klen. Builders, grinders, dreamers. They gave us that fresh spark. Made the place feel alive.
+
+_Montage of them working: a café, a garden, a lookout post._
+
+**FISHIE (V.O.)**  
+And Anooj and Perhaps? Let’s just say... they were enhanced individuals. Insurance policies. The kind of players you don’t ask too many questions about.
+
+_CUT TO: ANOOJ and PERHAPS in a dark room, chest open, items glowing._
+
+**FISHIE (V.O.)**  
+For the first time since Season 5, I wasn't using hacked clients. It was a gentleman’s agreement. “Let’s do it clean this time.”
+
+_Fishie coding at night, designing mods. The blue glow of the monitor on his face._
+
+**FISHIE (V.O.)**  
+But old habits die hard. I was still looking for angles. Always the angles.
+
+_DUTCH ANGLE: Fishie and the crew in a secret stash room with chest-laden dogs._
+
+**FISHIE (V.O.)**  
+We had this hustle with the dogs. Shears, chests, and a little bit of magic. Infinite resources. Clean. Simple. Effective.
+
+_EXTREME CLOSE-UP: Duping in action. Precision. Rhythm._
+
+**FISHIE (V.O.)**  
+But greed? Greed gets you caught.
+
+_Fishie grows tired of the slow duplication speed_
+
+**FISHIE (V.O.)**  
+I needed something bigger. So I went digital. Plugin-level. Exploit-level.
+
+_CUT TO: Fishie examining server logs. Telegram plugin open. Screens flashing. Late night Discord calls._
+
+**FISHIE (V.O.)**  
+The Telegram plugin. It was supposed to be the server's defense system. But to me? It looked like an invitation.
+
+_Montage of Fishie, Buhkiru, and Anooj testing commands in chat, poking the system._
+
+**FISHIE (V.O.)**  
+Me and the boys started poking and probing it. It took time, patience. Flame was watching silently from the sidelines, taking notes.
+
+_FLASH CUT: JSON injection code being typed. Tension rising._
+
+**FISHIE (V.O.)**  
+Then one night — boom. It worked. Shulker shells, admin-level commands. I got a taste of power and couldn't stop.
+
+_Montage: Commands firing off. Chaos. Excitement. Cockstone swords. Impossible armor._
+
+That's when everything changed. It was like giving a kid the keys to a candy store.
+
+I started getting all sorts of fancy toys. One-hit kill swords we called 'Cockstone'. Armor with impossible enchantments.
+
+_CUT TO: PERHAPS receiving a stack of eggs, his excitement barely contained._
+
+**FISHIE (V.O.)**  
+I even started importing illegal animals. Can you believe that? I got Perhaps a stack of guardian eggs. What are you even supposed to do with those?
+
+_CUT TO: The Chicken Factory members laughing as they spawn elder guardians in bizarre locations. The CAMERA WHIPS around to capture their childlike glee._
+
+**FISHIE (V.O.)**  
+We called ourselves AXIS. A shadow organization within the Chicken Factory. CIA clearance, FBI clearance, all that fancy shit. Real cloak and dagger stuff. We had our own language, our own codes. "Collection" instead of duplication. "Enhanced individuals" instead of hackers.
+
+_Montage: Secret base, impossible items, encrypted Telegram messages._
+
+**FISHIE (V.O.)**  
+And for a while, it was perfect. We were running the whole damn server and nobody knew it. Isn't that the real power? Not the guy who's screaming the loudest, but the guy behind the curtain?
+
+**FISHIE (V.O.)**  
+But power makes you stupid. Complacent. One day I was showing off the purple shulker to the rest of the Chicken Factory when Klen got this brilliant idea.
+
+_CUT TO: CLOSE UP of KLEN whispering to FISHIE, nodding toward SSAHAN in the distance._
+
+**KLEN**  
+_(smirking mischievously)_  
+You should mess with Ssahan. That Alliance kid. Show him the shulker, then swap to concrete. Make him think he's going crazy.
+
+
+**FISHIE (V.O.)**  
+I should have decided otherwise. But we were feeling untouchable by then. Invincible.
+
+So I agreed. Started shuffling around some purple concrete and a purple shulker box right in front of the kid. Just to fuck with him.
+
+I wanted him to go running back to iBattus, telling stories about seeing impossible items. Classic psychological warfare. But I made one critical mistake.
+
+CUT TO: SLOW MOTION shot of FISHIE carelessly placing the shulker box in his ender chest as he logs off.
+
+**FISHIE (V.O.)**  
+I got sloppy. Left evidence where it could be found.
+
+_SMASH CUT: IBATTUS inspecting FISHIE's ender chest, discovering a purple shulker box. His avatar's movements show barely contained excitement._
+
+**FISHIE (V.O.)**  
+That was the moment everything started to unravel.
+
+**FISHIE (V.O.)**  
+At first, nothing happened. iBattus checked my ender chest without a court order. Illegal search and seizure. No consequences.
+
+_CUT TO: ANOOJ nervously walking around spawn, constantly looking over his shoulder._
+
+**FISHIE (V.O.)**  
+Then Anooj got sloppy. Got caught with a hacked helmet I made for him. That's when shit hit the fan.
+
+_CUT TO: Admins surrounding ANOOJ, examining his inventory. The CAMERA circles the confrontation, emphasizing ANOOJ's entrapment._
+
+**FISHIE (V.O.)**  
+Anooj got hit with possession of illegal items and hacking charges. We were cooked. We were lucky the admins didn't notice all the illegal drugs he was carrying - 8-minute invisibility potions.
+
+_CLOSE UP: ANOOJ's inventory showing specially modified potions._
+
+**FISHIE (V.O.)**  
+First, we thought it was just Anooj taking the hit. Containment. One man down to save the operation.
+
+_CUT TO: TIGHT SHOT of FISHIE in a voice call with ANOOJ and BUHKIRU, speaking freely._
+
+**FISHIE**  
+_(on call, relaxed)_  
+...yeah, the hacked client works perfect for getting through those cave systems. Just make sure you turn off fly when-
+
+_The CAMERA FREEZES on FISHIE's face as realization dawns._
+
+**FISHIE (V.O.)**  
+But they were wiretapping our calls. They had me on tape talking about hacked clients. I got banned too.
+
+_CUT TO: PERHAPS being confronted by admins, his usual confidence replaced by genuine fear._
+
+**FISHIE (V.O.)**  
+I thought this was the end, but it was just the start. Perhaps got hit next - caught with illegals and flying charges. He was supposed to be my hitman on the server, take out hits if I got banned.
+
+_CUT TO: MONTAGE of Chicken Factory members being questioned one by one. Quick cuts between different interrogation scenes._
+
+**FISHIE (V.O.)**  
+This was a full-on RICO case. Next, they came for the rest of the Factory. Turns out they did a full audit on our shit. Caught us with mending on our armor. The IRS wanted to have a word with us.
+
+_CUT TO: WIDE SHOT of a Minecraft courthouse. Players gathering for the trial. The building is impressively detailed despite being made of simple blocks._
+
+**FISHIE (V.O.)**  
+So there I was. The man who'd survived five seasons of warfare, sitting in a courthouse made of fucking wool and oak planks, fighting for my digital life.
+
+_We see DONUT and BUHKIRU conferring with FISHIE, planning their defense. They huddle close, speaking in hushed tones._
+
+**FISHIE (V.O.)**  
+The RICO charges were piling up. Illegal items. Backdoor exploitation. Hacked clients. It was looking grim.
+
+_CUT TO: DONUT standing up, addressing the court. The CAMERA gives her a heroic angle._
+
+---
+
+**INT. COURTROOM – DAY TWO**
+
+_JUDGE ATHPHANE at the stand. IBATTUS and SHIHAAM on one side. DONUT pacing with documents. BUHKIRU presenting a slideshow. THEHARRYG muttering legal jargon._
+
+**FISHIE (V.O.)**  
+The trial was a circus. Cross-examinations, exhibit charts, voice logs, date screw-ups. iBattus said February 5th. Server launched on the 28th. That alone should’ve thrown out half the case.
+
+_CUT TO: BUHKIRU catching IBATTUS in the date lie. CHAT erupts. Judge raises an eyebrow._
+
+**FISHIE (V.O.)**  
+Even Shihaam started to turn on him. Called it a "skill issue." And just like that, the case was crumbling.
+
+_Montage: Laughter in the courtroom. Athphane hiding a smirk. Perhaps calling the logs fake._
+
+**ATHPHANE**  
+On the charge of illegal shulker possession... inconclusive. Fishie owes the court 6 diamonds.
+
+_Murmurs. Fishie shrugs. Hands over the diamonds._
+
+**ATHPHANE**  
+On the charge of using hacked clients... insufficient evidence. Dismissed.
+
+**FISHIE (V.O.)**  
+They had nothing. Wiretaps, logs, accusations. All smoke. No fire.
+
+---
+
+**INT. COURTHOUSE – LATER**
+
+_Perhaps stands before the court. iBattus pointing at logs. The word "Cockstone" shows up._
+
+**FISHIE (V.O.)**  
+Perhaps took the worst of it. They found logs. Said he had Guardian eggs. Cockstone swords. The works. But he played it cool.
+
+**PERHAPS**  
+I burned everything. I’m a legit player.
+
+**FISHIE (V.O.)**  
+No items, no proof. No body, no crime. He walked.
+
+---
+
+**INT. VOICE CALL – NIGHT**
+
+_Fishie and Anooj in a Discord call. Calm at first. Then panic._
+
+**FISHIE**  
+...just make sure you turn off fly when—wait. Did we mute?
+
+_Shihaam’s camera feed. Smile creeping in._
+
+**FISHIE (V.O.)**  
+We didn’t mute. Shihaam heard everything. And that was it. I got banned. Anooj got banned. Perhaps got banned.
+
+---
+
+**INT. COURTROOM – SENTENCING**
+
+**ATHPHANE**  
+Anooj – 2 days. Reduced sentence.
+
+_Anooj nods silently. Fishie pats him on the back._
+
+**FISHIE (V.O.)**  
+He took the deal. It was the only way. I mean, come on — Protection 100 helmet? That’s just asking for it.
+
+**ATHPHANE**  
+Perhaps – guilty of flying. Monitored moving forward.
+
+**FISHIE (V.O.)**  
+We all walked out lighter. No permabans. No stash discoveries. AXIS was still alive, buried just deep enough.
+
+---
+
+**EXT. CHICKEN HILL – SUNSET**
+
+_The crew walks out of the courthouse. Confident. Together. They pause, look at the horizon._
+
+**FISHIE (V.O.)**  
+They never found the stash. Never found the logs. Never found AXIS. We walked out of that courtroom, and got right back to work.
+
+---
+
+**[TO BE CONTINUED – THE AFTERMATH, THE HOSTAGE, THE DRAGON]**

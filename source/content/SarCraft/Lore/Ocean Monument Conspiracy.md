@@ -1,3 +1,7 @@
+---
+tags:
+  - lore
+---
 # The Great Guardian Infiltration: Ocean Monument Conspiracy
 
 During Season 10 of SarCraft, players began noticing a bizarre phenomenon - ocean monuments were appearing at an alarming rate, sometimes with inexplicable generation glitches. What started as a curious anomaly quickly evolved into one of SarCraft's most elaborate conspiracy theories.

@@ -679,8 +679,13 @@ Season 10 distinguished itself as the most artistically productive season in Sar
 - [[invisble715|Pumkin715]] animated key moments from the historic "State vs Axis" trial, preserving the dramatic courtroom exchanges
 
 This extended period of peace and creativity helped cement Season 10's reputation as one of the most successful and enjoyable seasons in SarCraft history, proving that the modified gameplay mechanics had indeed succeeded in extending the server's lifespan beyond the dreaded "two-week Minecraft phase."
- 
 
+
+
+## Anooj Wedding
+on the midnight of 10th april [[Anoojfunaid]] would finally have his wedding after multiple failed attempts. with his wedding he would announce to the server that he will be retiring from sarcraft. 
+
+server would be shut down at 10:20pm maldivian time on the 10th of april
 ## Fishie's Retirement 
 
 [[WhoIsFishie]] officially retired after five seasons on SarCraft. This was no surprise, as he had been hinting at stepping back for some time. 

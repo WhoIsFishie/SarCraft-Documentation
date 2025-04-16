@@ -1,6 +1,7 @@
 ---
 tags:
   - lore
+  - AXIS
 draft: false
 ---
 # DECLASSIFIED SARCRAFT INTELLIGENCE DIRECTIVE
@@ -59,7 +60,7 @@ The group developed specialized terminology to maintain operational security:
 | MAGIC CARPET        | Boat Fly                          | Reference to enhanced transportation methods                                     |
 
 ## 3. EXPLOITS AND HACKS
-### 3.1 ==REDACTED INFO== EXPLOIT
+### 3.1 DOG EXPLOIT
 
 [[Players/WhoIsFishie|WhoIsFishie]] identified a significant vulnerability in a classified mod during test server evaluations.
 
@@ -67,37 +68,37 @@ The group developed specialized terminology to maintain operational security:
 
 The initial version of this exploit operated as follows:
 
-1. ==REDACTED INFO==
-2. ==REDACTED INFO==
-3. Boat away ==REDACTED INFO==
-4. ==REDACTED INFO==
-5. ==REDACTED INFO==
+1. Place a dog on water
+2. Open the dog's inventory
+3. Boat away 250-300 blocks while keeping the inventory open
+4. Take items out
+5. Come back to the dog
 
-The exploit worked because the ==REDACTED INFO== would unload from memory at sufficient distance, while your ==REDACTED INFO==. This prevented the ==REDACTED INFO== from recognizing that items had been removed from its ==REDACTED INFO==.
+The exploit worked because the DOG would unload from memory at sufficient distance, while you boat away. This prevented the dog from recognizing that items had been removed from its inventory.
 
-#### 3.1.2 ==REDACTED INFO== Method
+#### 3.1.2 Groomer Method
 
-The team discovered an enhanced technique - using ==REDACTED INFO== on a ==REDACTED INFO== would separate the ==REDACTED INFO== while maintaining item accessibility.
+The team discovered an enhanced technique - using sheers on a dog would separate the inventory while maintaining item accessibility.
 
 Two implementation methods were developed:
 
-- **Two-player method:** One player accesses the ==REDACTED INFO== while another player applies ==REDACTED INFO== to the ==REDACTED INFO==
+- **Two-player method:** One player accesses the inventory while another player applies sheer to the dog
 - **Solo method:** A single player performs both actions in rapid succession (requiring precise timing)
 
-### 3.2 ==REDACTED INFO==.jar
+### 3.2 dog_days.jar
 
-A team member suggested that [[Players/WhoIsFishie|WhoIsFishie]] create a specialized mod to manage these interactions. Within three hours, a custom tool named `REDACTED INFO.jar` was developed.
+A team member suggested that [[Players/WhoIsFishie|WhoIsFishie]] create a specialized mod to manage these interactions. Within three hours, a custom tool named `dog_days.jar` was developed.
 
 This modification allowed for such rapid item collection that standard hopper systems would become overwhelmed.
 
-A specialized ==REDACTED INFO== station was constructed to automatically collect dropped items:
+A specialized collection station was constructed to automatically collect dropped items:
 
 ![[collection_station.webp]]
 
 The team enhanced efficiency through specialized roles:
 
 - Prep team: Prepared, named, and color-coded shulkers with items for collection
-- Duper: Operated the collection mod while positioned at the ==REDACTED INFO==
+- Duper: Operated the collection mod while positioned at the dog
 - Organizer: Managed collected items to prevent system congestion
 
 Later versions of the mod supported fully automated operation with simple command activation.
@@ -108,7 +109,7 @@ Later versions of the mod supported fully automated operation with simple comman
 
 ### 3.4 TELEPORTATION
 
-Research began on a teleportation system that would allow players to travel to specific locations by ==REDACTED INFO==
+Research began on a teleportation system that would allow players to travel to specific locations by looking at specific coords which would lead to a enderpearl being loaded
 
 This technology was being developed by [[Players/WhoIsFishie|WhoIsFishie]] and ==REDACTED MEMBER==
 
@@ -321,6 +322,9 @@ By analyzing the clustering of these green indicators, the team could quickly id
 ## 7. PLOTS
 
 AXIS developed multiple targeted operation plans.
+
+#### Yeetuz Double Agent Psyop
+[[yeetuz]] would have his own pearl stasis at all axis and chicken factory bases to make it look like hes a double agent. [[WhoIsFishie]] would also carry a fake diary that speaks of yeetuz's double agent work. all this was meant to be seen by [[iBattus]] and cause him to doubt 
 
 #### Book Ban
 

@@ -6,13 +6,16 @@ tags:
 ---
 Code_Name : Post Classical Age : AI and Hacks
 
+btw this server starts during the covid lockdown
+
 In the long and storied history of SarCraft, few periods stand as notorious as what would later be known as the "Post-Classical Age" - **Season 2**. What began as a continuation of Season 1's peaceful existence would transform into a battleground of political intrigue, factional warfare, and perhaps the most egregious display of hacked clients in early SarCraft history.
 
-| Season  | 2       |
-| ------- | ------- |
-| Start   | 2020    |
-| Version | 1.14.4  |
-| Server  | vanilla |
+| Season  | 2             |
+| ------- | ------------- |
+| Start   | April 09 2020 |
+| End     | April 10 2020 |
+| Version | 1.14.4        |
+| Server  | vanilla       |
 
 ## New Players
 [[CatMDV]]
