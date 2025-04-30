@@ -10,24 +10,25 @@ btw this server starts during the covid lockdown
 
 In the long and storied history of SarCraft, few periods stand as notorious as what would later be known as the "Post-Classical Age" - **Season 2**. What began as a continuation of Season 1's peaceful existence would transform into a battleground of political intrigue, factional warfare, and perhaps the most egregious display of hacked clients in early SarCraft history.
 
-| Season  | 2             |
-| ------- | ------------- |
-| Start   | April 09 2020 |
-| End     | April 10 2020 |
-| Version | 1.14.4        |
-| Server  | vanilla       |
+| Season  | 2               |
+| ------- | --------------- |
+| Start   | January 02 2020 |
+| End     | April 6 2020    |
+| Version | 1.14.4          |
+| Server  | vanilla         |
 
 ## New Players
 [[CatMDV]]
 [[Nausham]]
 [[ToadGod]]
-[[GurdhaanRamzee]]
+[[Anoojfunaid]]
+
 
 ## The Remnants of a Peaceful Time
 
 Season 2 emerged from the ashes of [[Season 1]], inheriting a world where factions once lived in close proximity without bloodshed. The [[Weebs]] faction, once prosperous, found their numbers dwindling until only a single member remained to carry their banner. In this power vacuum, with [[shihaam_me]] largely absent from administrative duties, the seeds of chaos were planted.
 
-It was during this fragile peace that several new players would join - individuals whose names would soon be etched into SarCraft lore: [[CatMDV]], [[Nausham]], [[ToadGod]], and [[GurdhaanRamzee]]. Little did they know they were stepping into a world on the brink of factional warfare.
+It was during this fragile peace that several new players would join - individuals whose names would soon be etched into SarCraft lore: [[CatMDV]], [[Nausham]], [[ToadGod]], and [[Anoojfunaid]]. Little did they know they were stepping into a world on the brink of factional warfare.
 ## Season History
 
 #### First Dragon kill

@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seasons/Season 2.md",
+                "file": "Seasons/Season 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Season 2"
+              "title": "Season 3"
+            }
+          },
+          {
+            "id": "0bd0c9b21aa21aa3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -50,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5f661bedfff8a997",
@@ -171,13 +181,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seasons/Season 2.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Season 2"
+              "title": "Outline"
             }
           },
           {
@@ -199,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,53 +220,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57e33704561c5951",
+  "active": "0bd0c9b21aa21aa3",
   "lastOpenFiles": [
-    "Seasons/index.md",
+    "Lore/Dhulehnukuraanan Protest.md",
+    "Seasons/S10_images/protest/protest_.jpg",
+    "Seasons/S10_images/protest/money_money_yes_sir.jpg",
+    "Seasons/S10_images/protest/2025-04-29_23.29.22.png",
+    "Seasons/S10_images/protest/2025-04-29_23.32.31.png",
+    "Seasons/S10_images/protest/2025-04-29_23.32.08.png",
+    "Seasons/S10_images/protest/2025-04-29_23.41.09.png",
+    "Seasons/S10_images/protest/2025-04-29_23.40.25.png",
+    "Seasons/S10_images/protest/2025-04-29_23.40.48.png",
+    "Seasons/S10_images/protest/2025-04-29_23.36.27.png",
+    "Seasons/S10_images/protest/2025-04-29_23.36.27 (2).png",
+    "Seasons/S10_images/protest",
+    "Factions/Nazi.md",
+    "Players/Anoojfunaid.md",
+    "Lore/Flower Town.md",
+    "Lore/Insurance.md",
     "Lore/Exploits.md",
-    "Seasons/Season 10/Evidence/Evidence Catalog.txt",
-    "Seasons/Season 10/State vs Axis.txt",
-    "Seasons/Season 10/State vs Axis - Copy.md",
-    "Templates/THE FACTORY.txt",
-    "Templates/THE FACTORY.md",
-    "Seasons/S10_images/anooj_plea_deal.jpg",
-    "Seasons/S10_images/anooj_banned.jpg",
-    "Players/player_images/player_heads/Buhkiru.png",
-    "Players/player_images/player_heads/iBattus.png",
-    "Players/player_images/player_heads/Perhaps.png",
-    "Players/player_images/player_heads/Ssahan.png",
-    "Players/player_images/player_heads/Anoojfunaid.png",
-    "Players/player_images/player_heads/athphane.png",
-    "Players/player_images/player_heads/WhoIsFishie.png",
-    "Players/player_images/player_heads/shihaam_me.png",
-    "Players/player_images/player_heads",
-    "Seasons/Season 10/Season 10.md",
-    "Seasons/Season 9.md",
-    "Lore/Ocean Monument Conspiracy.md",
-    "Templates/Youtube script for events of 5th march.md",
-    "Lore/SarCube.md",
-    "Factions/The Alliance.md",
-    "Lore/Declassified Season 10 operations.md",
-    "Players/WhoIsFishie.md",
+    "Lore/Democracy.md",
+    "Lore/Nazi Wall.md",
     "Factions/Chicken Factory.md",
-    "Seasons/S10_images/sshana_escape.webm",
-    "Seasons/S10_images/escape_2.webm",
-    "Seasons/S10_images/end/dragon_crazy.mp4",
-    "Seasons/S10_images/mods",
-    "Seasons/S10_images/ps6522.tmp",
-    "Seasons/S10_images/psDAD7.tmp",
-    "Lore/SAR_Shop.md",
-    "Lore/Untitled.md",
-    "Players/Donut.md",
-    "Players/Donut_V2.md",
-    "Players/WhoIsFishie_V2.md",
-    "Players/Untitled.md",
-    "Players/Untitled 1.md",
-    "Templates/player_template.md",
+    "Lore/Cow Ziney.md",
+    "Lore/Chicken Insurance.md",
+    "Lore/Red Wool.md",
+    "Lore/Declassified Season 10 operations.md",
+    "Lore/Ocean Monument Conspiracy.md",
     "Seasons/Season 10/State vs Axis.md",
-    "Lore/Adhuray.md",
-    "Seasons/Season 8.md",
-    "Seasons/Season 7.md",
+    "Seasons/Season 10/Evidence/Evidence Catalog.md",
+    "Seasons/Season 2.md",
+    "Seasons/Season 3.md",
+    "Templates/scripts/SarCraft Politics.md",
+    "Templates/scripts",
+    "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+    "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Microsoft.OpenApi.dll",
+    "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/AppointmentSystem.API.exe",
+    "AppointmentSystem/AppointmentSystem.API/obj/Debug/net7.0/apphost.exe",
+    "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+    "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll",
+    "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/AppointmentSystem.API.dll",
+    "AppointmentSystem/AppointmentSystem.API/obj/Debug/net7.0/AppointmentSystem.API.dll",
+    "AppointmentSystem/docs/frontend.md",
+    "AppointmentSystem/docs/models.md",
+    "AppointmentSystem/docs/services.md",
+    "AppointmentSystem/docs/api.md",
+    "AppointmentSystem/docs/README.md",
+    "Seasons/index.md",
+    "Seasons/Season 10/State vs Axis - Copy.md",
     "Untitled.canvas"
   ]
 }

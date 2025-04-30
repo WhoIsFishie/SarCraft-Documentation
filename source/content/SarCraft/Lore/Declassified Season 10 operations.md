@@ -51,13 +51,13 @@ AXIS functioned as a covert group with an undisclosed number of members. Their o
 
 The group developed specialized terminology to maintain operational security:
 
-| TERM                | MEANING                           | PURPOSE                                                                          |
-| ------------------- | --------------------------------- | -------------------------------------------------------------------------------- |
-| COLLECTION          | Duplicating items                 | Prevent accidental references to duplication exploits                            |
-| FLIP                | Activating a pearl stasis chamber | Code for teleporting players                                                     |
-| Enhanced Individual | Hacked Player                     | Reference to players using unauthorized modifications                            |
-| CHILD               | PRINCIPLE OF AIS                  | Reference to the alternate account that simulated a young player                 |
-| MAGIC CARPET        | Boat Fly                          | Reference to enhanced transportation methods                                     |
+| TERM                | MEANING                           | PURPOSE                                                          |
+| ------------------- | --------------------------------- | ---------------------------------------------------------------- |
+| COLLECTION          | Duplicating items                 | Prevent accidental references to duplication exploits            |
+| FLIP                | Activating a pearl stasis chamber | Code for teleporting players                                     |
+| Enhanced Individual | Hacked Player                     | Reference to players using unauthorized modifications            |
+| CHILD               | PRINCIPLE OF AIS                  | Reference to the alternate account that simulated a young player |
+| MAGIC CARPET        | Boat Fly                          | Reference to enhanced transportation methods                     |
 
 ## 3. EXPLOITS AND HACKS
 ### 3.1 DOG EXPLOIT

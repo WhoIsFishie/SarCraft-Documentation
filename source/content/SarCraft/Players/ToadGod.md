@@ -11,7 +11,7 @@ In a server dominated by factional warfare, exploitation, and administrative abu
 ### Season History
 #### Season 2 - The Revolutionary
 
-ToadGod made his first appearance during [[Season 2]], joining alongside other newcomers like [[CatMDV]], [[Nausham]], and [[GurdhaanRamzee]]. According to server records, this period was known as the "Post-Classical Age: AI and Hacks," a time when the server suffered from rampant cheating and exploitation.
+ToadGod made his first appearance during [[Season 2]], joining alongside other newcomers like [[CatMDV]], [[Nausham]], and [[Anoojfunaid]]. According to server records, this period was known as the "Post-Classical Age: AI and Hacks," a time when the server suffered from rampant cheating and exploitation.
 
 As the season progressed, ToadGod grew increasingly disturbed by the widespread use of hacked clients and the economic devastation they caused. With [[shihaam_me]] largely absent from administrative duties, the [[Nazi]] faction had effectively taken control of server operations, and their rule grew increasingly tyrannical.
 

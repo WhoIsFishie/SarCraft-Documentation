@@ -56,7 +56,7 @@ Despite his deposition, Redacted returned for [[Season 3]], his resentment clear
 
 > "[[Redacted]], still bitter from the revolution that had deposed him, stumbled upon a vulnerable [[shihaam_me]] attempting to leave spawn. What followed was swift and merciless. Without hesitation, [[Redacted]] struck down the administrator, pilfering his iron ingots before fleeing into the wilderness."
 
-This act of aggression planted "seeds of resentment that would ultimately doom the season." Redacted proceeded to reform the Nazi faction by recruiting [[Nausham]] and [[GurdhaanRamzee]], who had broken away from the [[Spawn Mason]]s over security concerns.
+This act of aggression planted "seeds of resentment that would ultimately doom the season." Redacted proceeded to reform the Nazi faction by recruiting [[Nausham]] and [[Anoojfunaid]], who had broken away from the [[Spawn Mason]]s over security concerns.
 
 The reformed faction soon found itself in dire straits when Redacted became trapped in a cave system. The resulting "Operation Search and Rescue" ended in "catastrophic failure, with all three players perishing in the darkness."
 

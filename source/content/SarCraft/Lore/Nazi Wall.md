@@ -8,7 +8,7 @@ tags:
 
 The Great Nazi wall is a project built by the [[Nazi]]'s to keep out other factions from there base after a bombing incident on their bridge.
 
-the lead architect for the wall is [[GurdhaanRamzee]] a Nazi member
+the lead architect for the wall is [[Anoojfunaid]] a Nazi member
 
 historian accounts shows that this wall was impractical, expensive and outright done poorly
 

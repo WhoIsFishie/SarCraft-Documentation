@@ -702,6 +702,7 @@ As [[Buhkiru]] took over the [[Chicken Factory]], everyone wondered what would h
 
 Only time would tell what would happen to the [[Chicken Factory]] now. But everyone knew that [[WhoIsFishie]] had left his mark on SarCraft's history.
 
+
 > [!NOTE] For a complete list of Season 10 modifications and changes, see [[ChangeLog]]
 
 

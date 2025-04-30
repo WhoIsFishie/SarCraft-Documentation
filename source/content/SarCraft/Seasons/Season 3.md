@@ -11,16 +11,24 @@ How wrong they were.
 
 | Season  | 3             |
 | ------- | ------------- |
-| Start   | April 11 2020 |
+| Start   | April 10 2020 |
 | End     | April 24 2020 |
 | Version | 1.15.2        |
 | Server  | vanilla       |
 
-Season 3 begins right after [[Season 2]] with a server reset
+## Pre-Season Events
 
-Hacks are banned and a new world is generated. [[shihaam_me]] is back as admin
+### The End of Season 2
 
-## Season History
+Season 2 came to an abrupt end on April 6, 2020, when SarCraft lost its world file. Just days later, on April 9, the Season 2 group chat was nuked for unknown reasons, resulting in the permanent loss of chat logs from Seasons 0-2. These technical catastrophes set the stage for what would become one of the most chaotic seasons in SarCraft history.
+
+## Season Start
+
+Season 3 officially began on April 10, 2020, with the creation of a new group chat. [[shihaam_me]] laid down the law: hacks were officially banned, and a new world would be generated. The server would support both Java 1.15.2 and Bedrock 1.14 clients to accommodate more players.
+
+### The Skin War
+
+The very day of the server's creation, tensions emerged between premium and non-premium Minecraft users. Premium players advocated for the server to be online so their skins would be visible, while "cracked" users—unable to afford premium accounts—argued against this requirement. This divided the player base before a single block had been placed.
 
 ### The Day One Catastrophe
 
@@ -28,7 +36,9 @@ In what would become known as the first great "Sar Moment" of the new age, disas
 
 This catastrophic error set the tone for what would become one of the shortest, yet most turbulent seasons in SarCraft history.
 
-### Just Iron
+## Early Season Developments
+
+### The Iron Incident
 
 The tensions of [[Season 2]] had not been forgotten. As players scrambled to rebuild after the reset, a chance encounter near spawn would ignite the first conflict of the new era. [[Redacted]], still bitter from the revolution that had deposed him, stumbled upon a vulnerable [[shihaam_me]] attempting to leave spawn.
 
@@ -36,27 +46,63 @@ What followed was swift and merciless.
 
 Without hesitation, [[Redacted]] struck down the administrator, pilfering his iron ingots before fleeing into the wilderness. This act of aggression, which would later become known as the "Just Iron Incident," planted the seeds of resentment that would ultimately doom the season.
 
+The aftermath was immediate and contentious. [[shihaam_me]] wanted to ban [[Redacted]] over the theft, while [[Anoojfunaid]] expressed regret for inviting [[ToadGod]] to the server, as ToadGod opposed the ban.
+
+### Class in Economics
+
+One of the most divisive early discussions centered around [[ToadGod]]'s suggestion to use diamonds as the server's official currency. This seemingly innocuous proposal split the server into two camps, with heated debates erupting in the group chat. During these discussions, players were shocked to discover that [[ToadGod]] believed that popular SMP (Survival Multiplayer) series on YouTube were not scripted.
+
+### New Server Rules
+
+By April 13, the growing tensions necessitated the establishment of formal server rules:
+
+- Just play peacefully
+- Don't do unwanted PvP
+- Don't start war unless both parties want it
+- Trade with whatever you like
+- Don't attack villagers
+- Don't kill someone else's farm animals, loot them
+- Don't mock Islam! Anyone who attempts will be banned
+
 ### Spawn Disagreement
 
-Meanwhile, chaos erupted among the [[Spawn Mason]]s. What began as a practical security concern escalated into a full-scale factional split. [[Nausham]] and [[GurdhaanRamzee]] argued passionately that establishing bases too close to spawn posed an unacceptable risk – any new players joining the server could easily locate and raid their precious stockpiles. Despite the [[Spawn Mason]]s' ideals of community and cooperation, the fear of theft proved too compelling to ignore.
+Meanwhile, chaos erupted among the [[Spawn Mason]]s. What began as a practical security concern escalated into a full-scale factional split. [[Nausham]] and [[Anoojfunaid|GurdhaanRamzee]] argued passionately that establishing bases too close to spawn posed an unacceptable risk – any new players joining the server could easily locate and raid their precious stockpiles. Despite the [[Spawn Mason]]s' ideals of community and cooperation, the fear of theft proved too compelling to ignore.
 
-The disagreement grew heated. Unable to convince their fellow Masons of the danger, [[Nausham]] and [[GurdhaanRamzee]] made the fateful decision to abandon spawn entirely. In this moment of division, they sensed an opportunity and joined forces with [[Redacted]], effectively resurrecting the infamous [[Nazi]] faction that had terrorized previous seasons.
+The disagreement grew heated. Unable to convince their fellow Masons of the danger, [[Nausham]] and [[Anoojfunaid|GurdhaanRamzee]] made the fateful decision to abandon spawn entirely. In this moment of division, they sensed an opportunity and joined forces with [[Redacted]], effectively resurrecting the infamous [[Nazi]] faction that had terrorized previous seasons.
 
 The old powers were returning, and with them, the old conflicts.
+
+## Technical Issues
+
+### Inventory Bug
+
+An alarming bug emerged where players' inventories would be completely wiped upon logging out of the server. This technical issue added another layer of instability to an already chaotic season.
+
+### Login Exploit
+
+On April 14, the [[Nazi]] faction discovered an exploit in the login plugin that allowed players to avoid taking damage entirely. This game-breaking vulnerability gave them a significant advantage in potential conflicts and further undermined the server's precarious balance.
+
+## Major Events
 
 ### Operation Search And Rescue
 
 Not long after establishing their renewed faction, disaster struck the [[Nazi]] leadership. [[Redacted]] found himself trapped deep within a cave system, without tools and with dwindling food supplies. Death by starvation seemed imminent.
 
-In response, [[Nausham]] and [[GurdhaanRamzee]] mounted what would become known as "Operation Search and Rescue" – a desperate mission to extract their leader from the depths. What they lacked in preparation, they made up for in determination.
+In response, [[Nausham]] and [[Anoojfunaid|GurdhaanRamzee]] mounted what would become known as "Operation Search and Rescue" – a desperate mission to extract their leader from the depths. What they lacked in preparation, they made up for in determination.
 
 Sadly, determination alone cannot mine stone.
 
 The rescue attempt ended in catastrophic failure, with all three players perishing in the darkness. The valuable ores they had mined were lost, scattered among the stone corridors where their bodies had fallen. The operation would go down in SarCraft lore as one of the most disastrous rescue missions ever attempted.
 
+### DUPES DUPES DUPES
+
+On April 13, the [[Nazi]] faction stumbled upon something that would alter the very fabric of SarCraft's economy – a powerful duplication glitch. This exploit allowed them to create hundreds of identical items in moments, a secret weapon that could grant them unlimited resources.
+
+A new objective emerged – find rare items worth duplicating. The search for Enchanted Golden Apples began, these legendary items being the ultimate prize for their duplication scheme.
+
 ### The Egg Heist
 
-Undeterred by their recent failure, the [[Nazi]] faction devised a strategy that would secure their dominance for the remainder of the season. Using the server seed, they located the closest End portal to spawn and embarked on a treacherous journey – "The Great Migration."
+Undeterred by their recent failures, the [[Nazi]] faction devised a strategy that would secure their dominance for the remainder of the season. Using the server seed, they located the closest End portal to spawn and embarked on a treacherous journey – "The Great Migration."
 
 #### The Great Migration
 
@@ -77,22 +123,25 @@ In a twist of cosmic irony, as [[ToadGod]] traveled through the Nether, his newl
 
 Realizing their advantage was slipping away, the [[Nazi]] faction made a bold decision. They would raid the End immediately, claim the Dragon Egg, and secure their place in SarCraft history before [[ToadGod]] could interfere.
 
-### DUPES DUPES DUPES
+On April 14, the [[Nazi]] faction successfully raided the End and claimed the coveted Dragon Egg. When [[ToadGod]] arrived at the End two days later, he discovered the egg was gone, further intensifying the faction rivalry.
 
-In the midst of their frantic preparations, the [[Nazi]] faction stumbled upon something that would alter the very fabric of SarCraft's economy – a powerful duplication glitch. This exploit allowed them to create hundreds of identical items in moments, a secret weapon that could grant them unlimited resources.
+### The "Farming = Hacking" Debate
 
-A new objective emerged – find rare items worth duplicating. The search for Enchanted Golden Apples began, these legendary items being the ultimate prize for their duplication scheme.
+On April 16, a philosophical conflict emerged when [[Anoojfunaid]] argued that building an iron farm violated the game's intended economy and was equivalent to hacking. [[ToadGod]] vehemently disagreed, leading to a lengthy and heated debate about the ethics of automated farms in Minecraft.
 
-#### The Expensive Donkey Incident
-In one of the most tragicomic moments of Season 3, [[GurdhaanRamzee]] successfully located an Enchanted Golden Apple – only to accidentally feed it to the very donkey they were using for duplication.
+### The Expensive Donkey Incident
+
+In one of the most tragicomic moments of Season 3, [[Anoojfunaid|GurdhaanRamzee]] successfully located an Enchanted Golden Apple – only to accidentally feed it to the very donkey they were using for duplication.
 
 ![[expensive donkey.jpg]]
 
-
 This catastrophic error led to an extreme decision. The [[Nazi]] faction destroyed their own base, eliminating all evidence of their presence, and embarked on a second migration to establish a new, secure location for their duplication operations.
+
 ![[migration2.jpg]]
 
-#### tower to heaven
+However, on April 19, [[Anoojfunaid]] found another enchanted golden apple, partially redeeming the faction after the donkey blunder.
+
+### Tower to Heaven
 
 What followed was perhaps the most bizarrely over-engineered construction in SarCraft history. To transport their horses and duplication donkeys to their new location, the [[Nazi]] faction constructed a wooden tower that stretched to the build limit – "The Tower to Heaven."
 
@@ -106,7 +155,7 @@ At the summit, a Nether portal awaited, designed to transport their animals with
 ![[tower to heavin burning.jpg]]
 *the tower is burned once the horses are sent as to erase any evidence of a portal being built there*
 
-#### Sky Island 
+### Sky Island 
 
 Their final destination was a small obsidian platform constructed high above an ocean – "Sky Island." This remote location, far from the prying eyes of other players, became the center of their duplication operation.
 
@@ -114,8 +163,42 @@ Their final destination was a small obsidian platform constructed high above an 
 
 From this seemingly insignificant platform, the [[Nazi]] faction amassed wealth beyond imagination, all while the rest of the server remained oblivious to the exploit they had discovered.
 
+## COVID-19 Impacts
+
+### Lockdown Extended
+
+On April 15, 2020, at 10:13 AM, the first case of COVID-19 was confirmed in Male'. This real-world event significantly impacted server activity as players found themselves with more time to play during quarantine.
+
+> [!NOTE] Official HPA Announcement
+> The Health Protection Agency (HPA) announced the first confirmed COVID-19 case in Male' through an official tweet: [https://twitter.com/HPA_MV/status/1250291208930201602](https://twitter.com/HPA_MV/status/1250291208930201602)
+
+### 24-Hour Full Lockdown
+
+Just hours after [[Anoojfunaid]]'s wedding preparations were being finalized on April 15, a 24-hour full lockdown was announced in Male' at 14:32. This lockdown would have major implications for player availability and activity patterns in the days that followed.
+
+> [!NOTE] Full Lockdown Announcement
+> The 24-hour full lockdown was officially announced through the HPA's Twitter account: [https://twitter.com/HPA_MV/status/1250291208930201602](https://twitter.com/HPA_MV/status/1250291208930201602)
+
+## Social Events
+
+### Anooj's Wedding
+
+On April 14, the first-ever documented attempt at an [[Anoojfunaid]] wedding was planned on the server. Preparations continued until April 15, but the wedding was ultimately cancelled when the bride updated her Minecraft version, making her incompatible with the server's Bedrock plugin.
+
+This would become the first of many failed wedding attempts for [[Anoojfunaid]] across multiple seasons.
+
+### Pirate Language Pack
+
+On April 19, in a moment of levity amidst the chaos, the server discovered that Minecraft had a pirate language pack. This brief cultural phenomenon provided some comic relief during the increasingly tense season.
+
+## The Final Days
+
+### Wither on the Loose
+
+On April 24, the [[Nazi]] faction attempted to kill a Wither but lost control of it, allowing the destructive boss mob to roam freely on the server. This unintentional act of server-wide chaos would be among the final events of the season.
 
 ### The Diamond Penis Incident
+
 The [[Nazi]] faction's duplication operation had only one missing component – a Beacon. The only player known to possess one was their rival, [[ToadGod]], who predictably refused to share it with them.
 
 In response, the faction devised a plan that exemplified their peculiar approach to diplomacy. In the dead of night, while the [[Spawn Mason]]s slept, they constructed an enormous diamond Penis directly in front of [[ToadGod]]'s base.
@@ -171,14 +254,13 @@ the players are now allowed to speak
 >but now that i have been notified that discord rules are the ones enforced
 >we agree to take down the penis and follow the discord rules
 
-[[GurdhaanRamzee]] responds
->First of all, the land had no claim on it, there were only naturally generated stuff in the area, trees and dirt hills. We took them down ourselves, we cleared the area out ourselves. We made sure they didn’t have any claim on the land before we built it. I’m in the middle of taking down the penis since it goes against the rules. I’ve already built a wall made of diamonds showing that this is the piece of land that we want and I think it’s a reasonable chunk of land. Had they atleast lit up the place we would’ve left it alone. But they didn’t. If they lay claim to the land and wanted to build in it later, they should’ve laid claim to it by atleast lighting it up, which they haven’t. So I think we have full freedom to build whatever we want over there as long as it follows the rules of the game. 
->I believe we’ve been civil in this conversation. We haven’t gone around calling each other names and I would very much appreciate it if no one else does it to us also.
+[[Anoojfunaid|GurdhaanRamzee]] responds
+>First of all, the land had no claim on it, there were only naturally generated stuff in the area, trees and dirt hills. We took them down ourselves, we cleared the area out ourselves. We made sure they didn't have any claim on the land before we built it. I'm in the middle of taking down the penis since it goes against the rules. I've already built a wall made of diamonds showing that this is the piece of land that we want and I think it's a reasonable chunk of land. Had they atleast lit up the place we would've left it alone. But they didn't. If they lay claim to the land and wanted to build in it later, they should've laid claim to it by atleast lighting it up, which they haven't. So I think we have full freedom to build whatever we want over there as long as it follows the rules of the game. 
+>I believe we've been civil in this conversation. We haven't gone around calling each other names and I would very much appreciate it if no one else does it to us also.
 
-the judge concludes the hearing with the verdict
+the judge concludes the hearing with the verdict, and the [[Nazi]] faction peacefully removes the penis structure.
 
-
-#### Price of iron
+### The Price of Iron
 
 As the dispute raged on, [[shihaam_me]]'s patience reached its breaking point. In a sudden and shocking announcement, he declared [[Redacted]] banned from the server. The administrator cited the "Just Iron" incident from the season's beginning as the final straw, but everyone knew the true reason – he was simply fed up with the constant arguments and complaints.
 
