@@ -4,19 +4,19 @@ tags:
 ---
 ![[cf_selfie.webp]]
 ## Members
-[[Kuruzu_]]
-[[Buhkiru]]
-[[shinwo_o]]
-[[flowerrthiccc]]
-[[TheHarryG]]
-[[WhoIsFishie]]
-[[FlameXode]] - kicked in season 10
-[[Nausham]]
-[[Anoojfunaid]]
-[[StrawBwabii]]
-[[Donut]]
-[[Klen04]]
-[[Daisy]]
+- [[Kuruzu_]]
+- [[Buhkiru]]
+- [[shinwo_o]]
+- [[flowerrthiccc]]
+- [[TheHarryG]]
+- [[WhoIsFishie]]
+- [[FlameXode]] - kicked in season 10
+- [[Nausham]]
+- [[Anoojfunaid]]
+- [[StrawBwabii]]
+- [[Donut]]
+- [[Klen04]]
+- [[Daisy]]
 
 A group founded by [[WhoIsFishie]] after discovering a Shulkabox duplication exploit that was used to duplicate a bunch of eggs. the groups was informally created back in [[Season 5]] but would later be formally registered
 
