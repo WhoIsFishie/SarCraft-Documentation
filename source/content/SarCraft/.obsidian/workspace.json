@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seasons/index.md",
+                "file": "Lore/Exploits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Exploits"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seasons/index.md",
+                "file": "Lore/Exploits.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Exploits"
             }
           },
           {
@@ -184,6 +184,7 @@
   },
   "active": "ecc26753b171878a",
   "lastOpenFiles": [
+    "Seasons/index.md",
     "Lore/Dhulehnukuraanan Protest.md",
     "Seasons/S10_images/protest/protest_.jpg",
     "Seasons/S10_images/protest/money_money_yes_sir.jpg",
@@ -228,7 +229,6 @@
     "AppointmentSystem/docs/services.md",
     "AppointmentSystem/docs/api.md",
     "AppointmentSystem/docs/README.md",
-    "Seasons/index.md",
     "Seasons/Season 10/State vs Axis - Copy.md",
     "Untitled.canvas"
   ]
