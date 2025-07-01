@@ -2,6 +2,7 @@
 tags:
   - hidden
 ---
+![[court_house.jpg]]
 _Based on Court Precedents and Legal Outcomes_
 
 > [!info] Rule Updates These rules have been updated to reflect precedents established through formal court proceedings, including the [[State vs Axis]] trial, [[PrincipleOf_AIS vs The Alliance]] case, and the [[Season 3#The Diamond Penis Incident|Diamond Penis Trial]].
