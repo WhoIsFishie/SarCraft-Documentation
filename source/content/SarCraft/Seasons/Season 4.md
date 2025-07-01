@@ -16,8 +16,8 @@ In the tumultuous history of SarCraft, some periods stand as pillars of chaos an
 | Server  | vanilla       |
 
 ## New Players
-[[WhoIsFishie]]
-[[iBattus]]
+- [[WhoIsFishie]]
+- [[iBattus]]
 
 ## The Forgotten Season
 

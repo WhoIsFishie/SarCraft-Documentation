@@ -17,7 +17,7 @@ In the long and storied history of SarCraft, few chapters stand as dramatically 
 | Server  | vanilla       |
 
 ## New Players
-[[Ssahan]]
+- [[Ssahan]]
 
 ## The Aftermath of Fish Bundy
 

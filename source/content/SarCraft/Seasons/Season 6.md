@@ -19,10 +19,10 @@ In the tumultuous history of SarCraft, few chapters stand as dramatically transf
 
 
 ## New Players
-[[FlameXode]]
-[[Anoojfunaid]]
-[[Rylisted]]
-[[Lko8919]]
+- [[FlameXode]]
+- [[Anoojfunaid]]
+- [[Rylisted]]
+- [[Lko8919]]
 
 ## The Dawn of a New Era
 

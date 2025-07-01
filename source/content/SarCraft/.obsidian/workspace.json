@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Exploits.md",
+                "file": "Factions/Holy Knights of the Templars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploits"
+              "title": "Holy Knights of the Templars"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Exploits.md",
+                "file": "Factions/Holy Knights of the Templars.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exploits"
+              "title": "Outline of Holy Knights of the Templars"
             }
           },
           {
@@ -184,14 +184,22 @@
   },
   "active": "ecc26753b171878a",
   "lastOpenFiles": [
-    "Factions/Spawn Mason.md",
-    "Seasons/Season 8.md",
-    "Seasons/Season 6.md",
-    "Seasons/Season 5.md",
-    "Seasons/Season 3.md",
-    "Seasons/Season 10/ChangeLog.md",
-    "Lore/Exploits.md",
+    "Factions/Chicken Factory.md",
+    "Seasons/Season 10/Season 10.md",
     "Seasons/index.md",
+    "Seasons/Season 0.md",
+    "Seasons/Season 1.md",
+    "Seasons/Season 2.md",
+    "Seasons/Season 3.md",
+    "Seasons/Season 4.md",
+    "Seasons/Season 5.md",
+    "Seasons/Season 6.md",
+    "Seasons/Season 7.md",
+    "Seasons/Season 8.md",
+    "Seasons/Season 9.md",
+    "Lore/Exploits.md",
+    "Factions/Spawn Mason.md",
+    "Seasons/Season 10/ChangeLog.md",
     "Lore/Dhulehnukuraanan Protest.md",
     "Seasons/S10_images/protest/protest_.jpg",
     "Seasons/S10_images/protest/money_money_yes_sir.jpg",
@@ -210,16 +218,9 @@
     "Lore/Insurance.md",
     "Lore/Democracy.md",
     "Lore/Nazi Wall.md",
-    "Factions/Chicken Factory.md",
     "Lore/Cow Ziney.md",
     "Lore/Chicken Insurance.md",
     "Lore/Red Wool.md",
-    "Lore/Declassified Season 10 operations.md",
-    "Lore/Ocean Monument Conspiracy.md",
-    "Seasons/Season 10/State vs Axis.md",
-    "Seasons/Season 10/Evidence/Evidence Catalog.md",
-    "Seasons/Season 2.md",
-    "Templates/scripts/SarCraft Politics.md",
     "Templates/scripts",
     "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
     "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Microsoft.OpenApi.dll",
@@ -229,7 +230,6 @@
     "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll",
     "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/AppointmentSystem.API.dll",
     "AppointmentSystem/AppointmentSystem.API/obj/Debug/net7.0/AppointmentSystem.API.dll",
-    "AppointmentSystem/docs/frontend.md",
     "Untitled.canvas"
   ]
 }

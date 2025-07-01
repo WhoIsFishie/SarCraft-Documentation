@@ -18,10 +18,10 @@ In the long and storied history of SarCraft, few periods stand as notorious as w
 | Server  | vanilla         |
 
 ## New Players
-[[CatMDV]]
-[[Nausham]]
-[[ToadGod]]
-[[Anoojfunaid]]
+- [[CatMDV]]
+- [[Nausham]]
+- [[ToadGod]]
+- [[Anoojfunaid]]
 
 
 ## The Remnants of a Peaceful Time
