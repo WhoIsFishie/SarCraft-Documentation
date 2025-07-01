@@ -54,7 +54,7 @@ After multiple seasons of combat logging and narrow escapes, the unthinkable had
 
 
 > [!NOTE] Full Court Hearing
-> [Youtube](https://youtu.be/e6upEid7nkk?si=IdvE0Jt2YeoDSwsI)
+> ![Youtube](https://youtu.be/e6upEid7nkk?si=IdvE0Jt2YeoDSwsI)
 
 
 What followed would go down in SarCraft lore as "The Fish Bundy Trials" - perhaps the most absurd legal proceeding in digital history.
