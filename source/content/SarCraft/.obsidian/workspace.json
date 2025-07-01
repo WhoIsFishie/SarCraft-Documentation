@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Holy Knights of the Templars.md",
-                "mode": "source",
-                "source": false
+                "file": "Templates/player_template.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Holy Knights of the Templars"
+              "title": "player_template"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Holy Knights of the Templars.md",
+                "file": "Templates/player_template.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Holy Knights of the Templars"
+              "title": "Outline of player_template"
             }
           },
           {
@@ -184,6 +184,9 @@
   },
   "active": "ecc26753b171878a",
   "lastOpenFiles": [
+    "Templates/scripts/THE FACTORY.md",
+    "index.md",
+    "Factions/Holy Knights of the Templars.md",
     "Factions/Chicken Factory.md",
     "Seasons/Season 10/Season 10.md",
     "Seasons/index.md",
@@ -218,9 +221,6 @@
     "Lore/Insurance.md",
     "Lore/Democracy.md",
     "Lore/Nazi Wall.md",
-    "Lore/Cow Ziney.md",
-    "Lore/Chicken Insurance.md",
-    "Lore/Red Wool.md",
     "Templates/scripts",
     "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
     "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Microsoft.OpenApi.dll",
