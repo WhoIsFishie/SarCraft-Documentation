@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/player_template.md",
-                "mode": "preview",
-                "source": true
+                "file": "Seasons/Season 10/Rules.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "player_template"
+              "title": "Rules"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/player_template.md",
+                "file": "Seasons/Season 10/Rules.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of player_template"
+              "title": "Outline of Rules"
             }
           },
           {
@@ -184,8 +184,9 @@
   },
   "active": "ecc26753b171878a",
   "lastOpenFiles": [
-    "Templates/scripts/THE FACTORY.md",
     "index.md",
+    "Templates/player_template.md",
+    "Templates/scripts/THE FACTORY.md",
     "Factions/Holy Knights of the Templars.md",
     "Factions/Chicken Factory.md",
     "Seasons/Season 10/Season 10.md",
@@ -220,7 +221,6 @@
     "Lore/Flower Town.md",
     "Lore/Insurance.md",
     "Lore/Democracy.md",
-    "Lore/Nazi Wall.md",
     "Templates/scripts",
     "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
     "AppointmentSystem/AppointmentSystem.API/bin/Debug/net7.0/Microsoft.OpenApi.dll",
